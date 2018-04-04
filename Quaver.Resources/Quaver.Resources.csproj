@@ -49,9 +49,7 @@
       <DependentUpon>QuaverResources.resx</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Textures\Skins\Arrow\SFX\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <EmbeddedResource Include="Fonts\**\*" />
     <EmbeddedResource Include="QuaverResources.resx">

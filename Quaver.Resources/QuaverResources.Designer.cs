@@ -63,6 +63,1787 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_column_lighting {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_column_lighting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hiteffect_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hiteffect_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hiteffect_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hiteffect_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hiteffect_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hiteffect_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hiteffect_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hiteffect_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_1_12th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_12th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_1_16th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_16th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_1_2nd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_2nd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_1_3rd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_3rd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_1_48th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_48th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_1_4th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_4th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_1_6th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_6th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_1_8th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_8th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_2_12th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_12th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_2_16th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_16th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_2_2nd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_2nd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_2_3rd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_3rd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_2_48th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_48th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_2_4th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_4th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_2_6th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_6th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_2_8th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_8th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_3_12th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_12th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_3_16th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_16th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_3_2nd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_2nd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_3_3rd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_3rd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_3_48th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_48th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_3_4th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_4th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_3_6th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_6th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_3_8th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_8th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_4_12th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_12th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_4_16th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_16th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_4_2nd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_2nd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_4_3rd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_3rd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_4_48th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_48th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_4_4th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_4th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_4_6th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_6th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_hitobject_4_8th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_8th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdbody_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdbody_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdbody_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdbody_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdbody_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdbody_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdbody_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdbody_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdend_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdend_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdend_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdend_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdend_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdend_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdend_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdend_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_1_12th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_12th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_1_16th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_16th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_1_2nd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_2nd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_1_3rd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_3rd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_1_48th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_48th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_1_4th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_4th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_1_6th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_6th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_1_8th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_8th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_2_12th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_12th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_2_16th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_16th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_2_2nd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_2nd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_2_3rd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_3rd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_2_48th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_48th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_2_4th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_4th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_2_6th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_6th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_2_8th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_8th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_3_12th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_12th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_3_16th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_16th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_3_2nd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_2nd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_3_3rd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_3rd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_3_48th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_48th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_3_4th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_4th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_3_6th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_6th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_3_8th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_8th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_4_12th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_12th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_4_16th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_16th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_4_2nd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_2nd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_4_3rd {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_3rd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_4_48th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_48th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_4_4th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_4th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_4_6th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_6th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_note_holdhitobject_4_8th {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_8th", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_receptor_down_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_receptor_down_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_receptor_down_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_receptor_down_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_receptor_down_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_receptor_down_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_receptor_down_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_receptor_down_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_receptor_up_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_receptor_up_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_receptor_up_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_receptor_up_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_receptor_up_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_receptor_up_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_receptor_up_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_receptor_up_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_stage_bgmask {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_stage_bgmask", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_column_lighting {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_column_lighting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hiteffect_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hiteffect_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hiteffect_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hiteffect_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hiteffect_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hiteffect_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hiteffect_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hiteffect_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hiteffect_5 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hiteffect_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hiteffect_6 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hiteffect_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hiteffect_7 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hiteffect_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hitobject_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hitobject_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hitobject_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hitobject_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hitobject_5 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hitobject_6 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_hitobject_7 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdbody_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdbody_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdbody_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdbody_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdbody_5 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdbody_6 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdbody_7 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdend_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdend_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdend_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdend_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdend_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdend_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdend_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdend_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdend_5 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdend_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdend_6 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdend_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdend_7 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdend_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdhitobject_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdhitobject_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdhitobject_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdhitobject_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdhitobject_5 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdhitobject_6 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_note_holdhitobject_7 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_down_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_down_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_down_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_down_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_down_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_down_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_down_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_down_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_down_5 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_down_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_down_6 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_down_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_down_7 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_down_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_up_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_up_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_up_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_up_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_up_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_up_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_up_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_up_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_up_5 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_up_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_up_6 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_up_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_receptor_up_7 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_receptor_up_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_stage_bgmask {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_stage_bgmask", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_column_hitlighting {
+            get {
+                object obj = ResourceManager.GetObject("arrow_column_hitlighting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_column_timingbar {
+            get {
+                object obj = ResourceManager.GetObject("arrow_column_timingbar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_a {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_b {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_c {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_c", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_d {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_f {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_f", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_s {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_s", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_s_ {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_s_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_ss {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_ss", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_x {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_xx {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_xx", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_grade_small_xxx {
+            get {
+                object obj = ResourceManager.GetObject("arrow_grade_small_xxx", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_judge_good {
+            get {
+                object obj = ResourceManager.GetObject("arrow_judge_good", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_judge_great {
+            get {
+                object obj = ResourceManager.GetObject("arrow_judge_great", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_judge_marv {
+            get {
+                object obj = ResourceManager.GetObject("arrow_judge_marv", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_judge_miss {
+            get {
+                object obj = ResourceManager.GetObject("arrow_judge_miss", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_judge_okay {
+            get {
+                object obj = ResourceManager.GetObject("arrow_judge_okay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_judge_perf {
+            get {
+                object obj = ResourceManager.GetObject("arrow_judge_perf", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_main_cursor {
+            get {
+                object obj = ResourceManager.GetObject("arrow_main_cursor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream arrow_sound_applause {
+            get {
+                return ResourceManager.GetStream("arrow_sound_applause", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream arrow_sound_back {
+            get {
+                return ResourceManager.GetStream("arrow_sound_back", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream arrow_sound_click {
+            get {
+                return ResourceManager.GetStream("arrow_sound_click", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream arrow_sound_combobreak {
+            get {
+                return ResourceManager.GetStream("arrow_sound_combobreak", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream arrow_sound_hit {
+            get {
+                return ResourceManager.GetStream("arrow_sound_hit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream arrow_sound_hitclap {
+            get {
+                return ResourceManager.GetStream("arrow_sound_hitclap", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream arrow_sound_hitfinish {
+            get {
+                return ResourceManager.GetStream("arrow_sound_hitfinish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream arrow_sound_hitwhistle {
+            get {
+                return ResourceManager.GetStream("arrow_sound_hitwhistle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream arrow_sound_screenshot {
+            get {
+                return ResourceManager.GetStream("arrow_sound_screenshot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_stage_distant_overlay {
+            get {
+                object obj = ResourceManager.GetObject("arrow_stage_distant_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_stage_hitposition_overlay {
+            get {
+                object obj = ResourceManager.GetObject("arrow_stage_hitposition_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_stage_left_border {
+            get {
+                object obj = ResourceManager.GetObject("arrow_stage_left_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_stage_right_border {
+            get {
+                object obj = ResourceManager.GetObject("arrow_stage_right_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_stage_timingbar {
+            get {
+                object obj = ResourceManager.GetObject("arrow_stage_timingbar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap bar_4k_column_lighting {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_column_lighting", resourceCulture);
