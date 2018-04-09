@@ -1039,4 +1039,1114 @@
   <data name="arrow_stage_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\stage\arrow-stage-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="fa_add_square_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-add-square-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_adjust_contrast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-adjust-contrast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_align_justify" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-align-justify.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_align_to_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-align-to-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_align_to_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-align-to-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_ambulance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-ambulance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_anchor_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-anchor-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_android_character_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-android-character-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_angle_arrow_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-angle-arrow-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_angle_arrow_pointing_to_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-angle-arrow-pointing-to-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_angle_pointing_to_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-angle-pointing-to-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_apple_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-apple-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_archive_black_box" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-archive-black-box.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrowheads_pointing_to_the_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrowheads-pointing-to-the-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrowhead_pointing_to_the_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrowhead-pointing-to-the-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrowhead_pointing_up_inside_a_square_box_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrowhead-pointing-up-inside-a-square-box-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrow_angle_pointing_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrow-angle-pointing-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrow_down_on_black_circular_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrow-down-on-black-circular-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrow_pointing_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrow-pointing-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrow_pointing_right_in_a_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrow-pointing-right-in-a-circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrow_pointing_to_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrow-pointing-to-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrow_pointing_to_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrow-pointing-to-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrow_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrow-up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_arrow_up_on_a_black_circle_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-arrow-up-on-a-black-circle-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_asterisk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-asterisk.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_ban_circle_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-ban-circle-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_barcode" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-barcode.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bar_graph_on_a_rectangle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bar-graph-on-a-rectangle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_beaker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-beaker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_beer_jar_black_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-beer-jar-black-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bell_musical_tool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bell-musical-tool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bitbucket_logotype_camera_lens_in_perspective" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bitbucket-logotype-camera-lens-in-perspective.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bitbucket_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bitbucket-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bitcoin_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bitcoin-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_blank_file" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-blank-file.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bold_text_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bold-text-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_book" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-book.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bookmark_black_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bookmark-black-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bookmark_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bookmark-white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_branch_with_leaves_black_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-branch-with-leaves-black-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_briefcase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-briefcase.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bug" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bug.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_building_front" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-building-front.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bullseye" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bullseye.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_bull_horn_announcer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-bull-horn-announcer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_calendar_page_empty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-calendar-page-empty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_calendar_with_spring_binder_and_date_blocks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-calendar-with-spring-binder-and-date-blocks.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_camera_retro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-camera-retro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_caret_arrow_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-caret-arrow-up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_caret_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-caret-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_center_text_alignment" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-center-text-alignment.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_certificate_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-certificate-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_check" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-check.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_checked_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-checked-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_checkered_raised_flag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-checkered-raised-flag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_check_box_empty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-check-box-empty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_check_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-check-mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_check_sign_in_a_rounded_black_square" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-check-sign-in-a-rounded-black-square.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_chevron_arrow_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-chevron-arrow-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_chevron_arrow_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-chevron-arrow-up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_chevron_pointing_to_the_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-chevron-pointing-to-the-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_chevron_sign_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-chevron-sign-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_chevron_sign_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-chevron-sign-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_chevron_sign_to_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-chevron-sign-to-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_chevron_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-chevron-up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_circle_shape_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-circle-shape-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_circle_with_an_arrow_pointing_to_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-circle-with-an-arrow-pointing-to-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_circular_shape_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-circular-shape-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_cloud_storage_download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-cloud-storage-download.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_cloud_storage_uploading_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-cloud-storage-uploading-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_cocktail_glass" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-cocktail-glass.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_code" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-code.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_code_fork_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-code-fork-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_coffee_cup_on_a_plate_black_silhouettes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-coffee-cup-on-a-plate-black-silhouettes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_cog_wheel_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-cog-wheel-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_collapse_window_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-collapse-window-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_comments" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-comments.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_comment_black_oval_bubble_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-comment-black-oval-bubble-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_comment_white_oval_bubble" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-comment-white-oval-bubble.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_compass_circular_variant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-compass-circular-variant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_computer_tablet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-computer-tablet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_copy_document" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-copy-document.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_correct_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-correct-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_couple_of_arrows_changing_places" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-couple-of-arrows-changing-places.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_credit_card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-credit-card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_crop_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-crop-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_cross_mark_on_a_black_circle_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-cross-mark-on-a-black-circle-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_css_3_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-css-3-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-cursor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_cut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-cut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_dashboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-dashboard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_delivery_truck_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-delivery-truck-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_desktop_monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-desktop-monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_discord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-discord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_dollar_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-dollar-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_dot_and_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-dot-and-circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_double_angle_pointing_to_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-double-angle-pointing-to-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_double_left_chevron" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-double-left-chevron.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_double_sided_eraser" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-double-sided-eraser.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_double_strikethrough_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-double-strikethrough-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_download_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-download-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_download_to_storage_drive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-download-to-storage-drive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_down_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-down-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_dribbble_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-dribbble-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_dropbox_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-dropbox-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_earth_globe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-earth-globe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_edit_interface_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-edit-interface-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_eject_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-eject-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_envelope" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-envelope.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_envelope_of_white_paper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-envelope-of-white-paper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_euro_currency_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-euro-currency-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_exchange_arrows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-exchange-arrows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_exclamation" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-exclamation.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_exclamation_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-exclamation-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_external_link_square_with_an_arrow_in_right_diagonal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-external-link-square-with-an-arrow-in-right-diagonal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_external_link_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-external-link-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_eye_open" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-eye-open.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_eye_with_a_diagonal_line_interface_symbol_for_invisibility" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-eye-with-a-diagonal-line-interface-symbol-for-invisibility.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_facebook_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-facebook-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_facebook_logo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-facebook-logo-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_facetime_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-facetime-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_fast_forward_arrows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-fast-forward-arrows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_female_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-female-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_fighter_jet_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-fighter-jet-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_file" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-file.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_film_strip_with_two_photograms" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-film-strip-with-two-photograms.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_filter_tool_black_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-filter-tool-black-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_finger_of_a_hand_pointing_to_right_direction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-finger-of-a-hand-pointing-to-right-direction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_fire_extinguisher" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-fire-extinguisher.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_fire_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-fire-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_flag_black_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-flag-black-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_flickr_website_logo_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-flickr-website-logo-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_fluffy_cloud_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-fluffy-cloud-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_folder_closed_black_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-folder-closed-black-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_folder_white_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-folder-white-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_font_selection_editor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-font-selection-editor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_font_symbol_of_letter_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-font-symbol-of-letter-a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_fork_and_knife_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-fork-and-knife-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_forward_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-forward-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_foursquare_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-foursquare-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_four_black_squares" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-four-black-squares.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_frown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-frown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_fullscreen_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-fullscreen-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_gamepad_console" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-gamepad-console.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_gift_box" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-gift-box.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_github_character" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-github-character.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_github_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-github-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_github_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-github-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_gittip_website_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-gittip-website-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_google_plus_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-google-plus-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_google_plus_symbol_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-google-plus-symbol-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_great_britain_pound" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-great-britain-pound.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_group_profile_users" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-group-profile-users.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_half_star_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-half-star-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_hand_finger_pointing_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-hand-finger-pointing-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_hand_pointing_to_left_direction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-hand-pointing-to-left-direction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_hand_pointing_upward" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-hand-pointing-upward.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_hard_drive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-hard-drive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_heart_shape_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-heart-shape-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_heart_shape_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-heart-shape-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_home" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_horizontal_resize_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-horizontal-resize-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_hostpital_building" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-hostpital-building.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_hotel_letter_h_sign_inside_a_black_rounded_square" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-hotel-letter-h-sign-inside-a-black-rounded-square.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_html_5_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-html-5-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_inbox" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-inbox.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_increase_size_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-increase-size-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_indent_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-indent-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_information_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-information-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_information_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-information-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_instagram_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-instagram-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_italicize_text" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-italicize-text.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_keyboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-keyboard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_left_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-left-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_left_arrow_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-left-arrow-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_left_indentation_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-left-indentation-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_legal_hammer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-legal-hammer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_lemon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-lemon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_leter_a_inside_a_black_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-leter-a-inside-a-black-circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_letter_p_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-letter-p-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_level_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-level-up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_lightning_bolt_shadow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-lightning-bolt-shadow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_light_bulb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-light-bulb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_linkedin_letters" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-linkedin-letters.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_linkedin_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-linkedin-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_link_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-link-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_linux_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-linux-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-list.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_listing_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-listing-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_list_on_window" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-list-on-window.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_list_with_dots" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-list-with-dots.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_long_arrow_pointing_to_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-long-arrow-pointing-to-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_long_arrow_pointing_to_the_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-long-arrow-pointing-to-the-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_long_arrow_pointing_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-long-arrow-pointing-up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_magic_wand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-magic-wand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_magnifying_glass" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-magnifying-glass.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_man" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-man.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_map_marker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-map-marker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_maxcdn_website_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-maxcdn-website-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_medical_kit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-medical-kit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_meh_face_emoticon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-meh-face-emoticon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_microphone_black_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-microphone-black-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_microphone_off" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-microphone-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_minus_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-minus-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_minus_sign_inside_a_black_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-minus-sign-inside-a-black-circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_minus_sign_inside_a_black_rounded_square_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-minus-sign-inside-a-black-rounded-square-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_minus_sign_on_a_square_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-minus-sign-on-a-square-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_minus_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-minus-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_mobile_phone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-mobile-phone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_moon_phase_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-moon-phase-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_move_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-move-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_musical_bell_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-musical-bell-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_music_headphones" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-music-headphones.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_music_note_black_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-music-note-black-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_nine_black_tiles" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-nine-black-tiles.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_numbered_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-numbered-list.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_open_folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-open-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_open_folder_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-open-folder-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_open_laptop_computer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-open-laptop-computer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_open_padlock_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-open-padlock-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_open_wrench_tool_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-open-wrench-tool-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_padlock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-padlock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_padlock_unlock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-padlock-unlock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_paper_bill" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-paper-bill.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_paper_clip_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-paper-clip-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_paper_push_pin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-paper-push-pin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_paste_from_clipboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-paste-from-clipboard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_pause_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-pause-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_pencil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-pencil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_photo_camera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-photo-camera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_picture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-picture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_pinterest_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-pinterest-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_pinterest_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-pinterest-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_plane" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-plane.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_plant_leaf_with_white_details" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-plant-leaf-with-white-details.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_play_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-play-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_play_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-play-circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_play_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-play-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_play_video_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-play-video-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_plus_black_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-plus-black-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_plus_sign_in_a_black_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-plus-sign-in-a-black-circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_plus_symbol_in_a_rounded_black_square" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-plus-symbol-in-a-rounded-black-square.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_power_button_off" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-power-button-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_printing_tool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-printing-tool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_puzzle_piece_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-puzzle-piece-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_qr_code" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-qr-code.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_question_mark_on_a_circular_black_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-question-mark-on-a-circular-black-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_question_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-question-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_quote_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-quote-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_reduced_volume" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-reduced-volume.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_refresh_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-refresh-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_refresh_page_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-refresh-page-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_remove_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-remove-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_remove_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-remove-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_renren_social_network_of_china_logotype" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-renren-social-network-of-china-logotype.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_reorder_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-reorder-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_reply" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-reply.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_reply_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-reply-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_resize_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-resize-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_retweet_arrows_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-retweet-arrows-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_rewind_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-rewind-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_right_arrow_in_a_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-right-arrow-in-a-circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_right_chevron" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-right-chevron.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_right_quotation_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-right-quotation-mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_road_perspective" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-road-perspective.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_rounded_black_square_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-rounded-black-square-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_rss_feed_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-rss-feed-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_rss_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-rss-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_rupee_indian" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-rupee-indian.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_save_file_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-save-file-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_screenshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-screenshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_share_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-share-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_share_post_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-share-post-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_share_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-share-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-shield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_shopping_cart_black_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-shopping-cart-black-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_signal_bars" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-signal-bars.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sign_in" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sign-in.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sign_out_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sign-out-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sitemap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sitemap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_skype_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-skype-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_small_rocket_ship_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-small-rocket-ship-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_smile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-smile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sort_arrows_couple_pointing_up_and_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sort-arrows-couple-pointing-up-and-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sort_by_alphabet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sort-by-alphabet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sort_by_attributes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sort-by-attributes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sort_by_attributes_interface_button_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sort-by-attributes-interface-button-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sort_by_numeric_order" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sort-by-numeric-order.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sort_by_order" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sort-by-order.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sort_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sort-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sort_reverse_alphabetical_order" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sort-reverse-alphabetical-order.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sort_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sort-up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_speech_bubbles_comment_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-speech-bubbles-comment-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_spinner_of_dots" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-spinner-of-dots.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_square_shape_shadow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-square-shape-shadow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_stack_exchange_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-stack-exchange-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_stack_exchange_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-stack-exchange-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_star" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-star.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_star_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-star-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_star_half_empty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-star-half-empty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_step_backward" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-step-backward.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_step_forward" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-step-forward.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_stethoscope" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-stethoscope.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_strikethrough" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-strikethrough.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_suitcase_with_white_details" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-suitcase-with-white-details.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_sun" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-sun.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_superscript_text_formatting" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-superscript-text-formatting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_table_grid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-table-grid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_tags" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-tags.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_tag_black_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-tag-black-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_tasks_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-tasks-list.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_telephone_handle_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-telephone-handle-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_telephone_symbol_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-telephone-symbol-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_terminal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-terminal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_text_file" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-text-file.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_text_file_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-text-file-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_text_height_adjustment" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-text-height-adjustment.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_text_width" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-text-width.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_thin_arrowheads_pointing_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-thin-arrowheads-pointing-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_three_small_square_shapes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-three-small-square-shapes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_thumbs_down_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-thumbs-down-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_thumbs_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-thumbs-up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_thumbs_up_hand_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-thumbs-up-hand-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_thumb_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-thumb-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_ticket" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-ticket.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_time" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-time.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_tint_drop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-tint-drop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_trash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-trash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_trello_website_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-trello-website-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_trophy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-trophy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_tumblr_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-tumblr-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_tumblr_logo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-tumblr-logo-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_turkish_lire_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-turkish-lire-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_twitter_black_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-twitter-black-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_twitter_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-twitter-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_two_columns_layout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-two-columns-layout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_umbrella_black_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-umbrella-black-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_underline_text_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-underline-text-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_undo_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-undo-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_unlink_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-unlink-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_upload" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-upload.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_upload_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-upload-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_up_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-up-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_up_chevron_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-up-chevron-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_user_md_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-user-md-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_user_shape" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-user-shape.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_u_shaped_thick_magnet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-u-shaped-thick-magnet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_vertical_ellipsis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-vertical-ellipsis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_vertical_resizing_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-vertical-resizing-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_video_play_square_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-video-play-square-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_vimeo_square_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-vimeo-square-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_vintage_key_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-vintage-key-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_vk_social_network_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-vk-social-network-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_volume_off" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-volume-off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_volume_up_interface_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-volume-up-interface-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_warning_sign_on_a_triangular_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-warning-sign-on-a-triangular-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_weibo_website_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-weibo-website-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_wheelchair" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-wheelchair.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_white_flag_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-white-flag-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_windows_logo_silhouette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-windows-logo-silhouette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_x2_symbol_of_a_letter_and_a_number_subscript" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-x2-symbol-of-a-letter-and-a-number-subscript.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_xing_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-xing-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_xing_logotype" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-xing-logotype.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_yen_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-yen-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_youtube_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-youtube-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_youtube_logo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-youtube-logo-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_youtube_logo_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-youtube-logo-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_zoom_in" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-zoom-in.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fa_zoom_out" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\font awesome\fa-zoom-out.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

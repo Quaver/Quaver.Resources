@@ -52,11 +52,11 @@
   <ItemGroup />
   <ItemGroup>
     <EmbeddedResource Include="Fonts\**\*" />
+    <EmbeddedResource Include="Textures\**\*" />
     <EmbeddedResource Include="QuaverResources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>QuaverResources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Textures\**\*" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
