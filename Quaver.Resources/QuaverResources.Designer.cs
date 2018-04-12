@@ -6725,6 +6725,15 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
+        public static System.IO.UnmanagedMemoryStream sound_hover {
+            get {
+                return ResourceManager.GetStream("sound_hover", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
         public static System.IO.UnmanagedMemoryStream sound_screenshot {
             get {
                 return ResourceManager.GetStream("sound_screenshot", resourceCulture);

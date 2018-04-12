@@ -2122,4 +2122,7 @@
   <data name="sound_screenshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\sfx\menu\sound-screenshot.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="sound_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\menu\sound-hover.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
