@@ -415,33 +415,6 @@
   <data name="bar_main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\cursor\bar-main-cursor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bar_sound_applause" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\sfx\menu\bar-sound-applause.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="bar_sound_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\sfx\menu\bar-sound-back.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="bar_sound_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\sfx\menu\bar-sound-click.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="bar_sound_combobreak" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\sfx\gameplay\bar-sound-combobreak.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="bar_sound_hit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\sfx\gameplay\bar-sound-hit.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="bar_sound_hitclap" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\sfx\gameplay\bar-sound-hitclap.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="bar_sound_hitfinish" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\sfx\gameplay\bar-sound-hitfinish.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="bar_sound_hitwhistle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\sfx\gameplay\bar-sound-hitwhistle.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="bar_sound_screenshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\sfx\menu\bar-sound-screenshot.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="bar_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\stage\bar-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -996,33 +969,6 @@
   </data>
   <data name="arrow_main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\cursor\arrow-main-cursor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_sound_applause" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\sfx\menu\arrow-sound-applause.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_sound_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\sfx\menu\arrow-sound-back.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_sound_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\sfx\menu\arrow-sound-click.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_sound_combobreak" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\sfx\gameplay\arrow-sound-combobreak.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_sound_hit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\sfx\gameplay\arrow-sound-hit.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_sound_hitclap" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\sfx\gameplay\arrow-sound-hitclap.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_sound_hitfinish" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\sfx\gameplay\arrow-sound-hitfinish.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_sound_hitwhistle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\sfx\gameplay\arrow-sound-hitwhistle.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_sound_screenshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\sfx\menu\arrow-sound-screenshot.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="arrow_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\stage\arrow-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -2148,5 +2094,32 @@
   </data>
   <data name="fa_zoom_out" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\font awesome\fa-zoom-out.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sound_applause" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\menu\sound-applause.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\menu\sound-back.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\menu\sound-click.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_combobreak" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\gameplay\sound-combobreak.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_hit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\gameplay\sound-hit.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_hitclap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\gameplay\sound-hitclap.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_hitfinish" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\gameplay\sound-hitfinish.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_hitwhistle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\gameplay\sound-hitwhistle.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_screenshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\sfx\menu\sound-screenshot.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>
