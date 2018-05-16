@@ -2134,4 +2134,7 @@
   <data name="assistant_regular_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\assistant_regular_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="fxaa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>shaders\fxaa.mgfxo;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
