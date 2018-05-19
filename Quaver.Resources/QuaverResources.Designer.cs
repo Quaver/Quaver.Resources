@@ -1533,6 +1533,106 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_0 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_1 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_2 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_3 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_4 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_5 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_6 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_7 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_8 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_combo_9 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_combo_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap arrow_grade_small_a {
             get {
                 object obj = ResourceManager.GetObject("arrow_grade_small_a", resourceCulture);
@@ -2736,6 +2836,106 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap bar_column_timingbar {
             get {
                 object obj = ResourceManager.GetObject("bar_column_timingbar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_0 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_1 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_2 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_3 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_4 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_5 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_6 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_7 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_8 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_combo_9 {
+            get {
+                object obj = ResourceManager.GetObject("bar_combo_9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
