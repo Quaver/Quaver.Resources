@@ -2137,4 +2137,76 @@
   <data name="fxaa" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>shaders\fxaa.mgfxo;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="arrow_score_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_decimal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-decimal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_score_percent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\numbers\arrow-score-percent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_decimal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-decimal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_score_percent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\numbers\bar-score-percent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
