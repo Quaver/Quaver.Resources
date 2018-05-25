@@ -2344,4 +2344,7 @@
   <data name="judgement_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\judgement-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="test_spritesheet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\test-spritesheet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
