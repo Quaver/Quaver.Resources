@@ -394,24 +394,6 @@
   <data name="bar_grade_small_xxx" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\grades\bar-grade-small-xxx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bar_judge_good" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-good.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_great" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-great.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_marv" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-marv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_miss" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-miss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_okay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-okay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_perf" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-perf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="bar_main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\cursor\bar-main-cursor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -948,24 +930,6 @@
   </data>
   <data name="arrow_grade_small_xxx" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\grades\arrow-grade-small-xxx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_good" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-good.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_great" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-great.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_marv" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-marv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_miss" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-miss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_okay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-okay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_perf" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-perf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="arrow_main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\cursor\arrow-main-cursor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -2346,5 +2310,41 @@
   </data>
   <data name="test_spritesheet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\test-spritesheet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_judge_good_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\judges\arrow-judge-good@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_judge_great_1x7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\judges\arrow-judge-great@1x7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_judge_marv_1x15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\judges\arrow-judge-marv@1x15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_judge_miss_1x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\judges\arrow-judge-miss@1x16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_judge_okay_1x9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\judges\arrow-judge-okay@1x9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_judge_perf_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\judges\arrow-judge-perf@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_judge_good_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\judges\bar-judge-good@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_judge_great_1x7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\judges\bar-judge-great@1x7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_judge_marv_1x15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\judges\bar-judge-marv@1x15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_judge_miss_1x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\judges\bar-judge-miss@1x16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_judge_okay_1x9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\judges\bar-judge-okay@1x9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_judge_perf_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\judges\bar-judge-perf@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
