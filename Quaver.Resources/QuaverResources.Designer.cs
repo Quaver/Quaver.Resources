@@ -1743,6 +1743,26 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap arrow_hitlighting_1x8 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_hitlighting_1x8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_holdlighting_1x12 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_holdlighting_1x12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap arrow_judge_good_1x8 {
             get {
                 object obj = ResourceManager.GetObject("arrow_judge_good_1x8", resourceCulture);
@@ -3176,6 +3196,26 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap bar_grade_small_xxx {
             get {
                 object obj = ResourceManager.GetObject("bar_grade_small_xxx", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_hitlighting_1x8 {
+            get {
+                object obj = ResourceManager.GetObject("bar_hitlighting_1x8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_holdlighting_1x12 {
+            get {
+                object obj = ResourceManager.GetObject("bar_holdlighting_1x12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
