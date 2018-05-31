@@ -1823,6 +1823,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap arrow_judgement_overlay {
+            get {
+                object obj = ResourceManager.GetObject("arrow_judgement_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap arrow_main_cursor {
             get {
                 object obj = ResourceManager.GetObject("arrow_main_cursor", resourceCulture);
@@ -3316,6 +3326,16 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap bar_judge_perf_1x12 {
             get {
                 object obj = ResourceManager.GetObject("bar_judge_perf_1x12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_judgement_overlay {
+            get {
+                object obj = ResourceManager.GetObject("bar_judgement_overlay", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
