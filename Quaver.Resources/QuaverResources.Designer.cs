@@ -1833,6 +1833,46 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap arrow_pause_back {
+            get {
+                object obj = ResourceManager.GetObject("arrow_pause_back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_pause_background {
+            get {
+                object obj = ResourceManager.GetObject("arrow_pause_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_pause_continue {
+            get {
+                object obj = ResourceManager.GetObject("arrow_pause_continue", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_pause_retry {
+            get {
+                object obj = ResourceManager.GetObject("arrow_pause_retry", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap arrow_score_0 {
             get {
                 object obj = ResourceManager.GetObject("arrow_score_0", resourceCulture);
@@ -3286,6 +3326,46 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap bar_main_cursor {
             get {
                 object obj = ResourceManager.GetObject("bar_main_cursor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_pause_back {
+            get {
+                object obj = ResourceManager.GetObject("bar_pause_back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_pause_background {
+            get {
+                object obj = ResourceManager.GetObject("bar_pause_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_pause_continue {
+            get {
+                object obj = ResourceManager.GetObject("bar_pause_continue", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_pause_retry {
+            get {
+                object obj = ResourceManager.GetObject("bar_pause_retry", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
