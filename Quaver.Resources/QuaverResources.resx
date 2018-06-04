@@ -2398,4 +2398,10 @@
   <data name="bar_judgement_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\judges\bar-judgement-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="unknown_avatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\unknown-avatar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="you_avatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\you-avatar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
