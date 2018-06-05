@@ -1743,6 +1743,26 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap arrow_health_background {
+            get {
+                object obj = ResourceManager.GetObject("arrow_health_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_health_foreground {
+            get {
+                object obj = ResourceManager.GetObject("arrow_health_foreground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap arrow_hitlighting_1x8 {
             get {
                 object obj = ResourceManager.GetObject("arrow_hitlighting_1x8", resourceCulture);
@@ -1996,6 +2016,16 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap arrow_score_percent {
             get {
                 object obj = ResourceManager.GetObject("arrow_score_percent", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_scoreboard {
+            get {
+                object obj = ResourceManager.GetObject("arrow_scoreboard", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3253,6 +3283,26 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap bar_health_background {
+            get {
+                object obj = ResourceManager.GetObject("bar_health_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_health_foreground {
+            get {
+                object obj = ResourceManager.GetObject("bar_health_foreground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap bar_hitlighting_1x8 {
             get {
                 object obj = ResourceManager.GetObject("bar_hitlighting_1x8", resourceCulture);
@@ -3506,6 +3556,16 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap bar_score_percent {
             get {
                 object obj = ResourceManager.GetObject("bar_score_percent", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_scoreboard {
+            get {
+                object obj = ResourceManager.GetObject("bar_scoreboard", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
