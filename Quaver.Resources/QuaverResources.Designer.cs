@@ -7521,6 +7521,16 @@ namespace Quaver.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] semi_transparent {
+            get {
+                object obj = ResourceManager.GetObject("semi_transparent", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap set_select_mask {
