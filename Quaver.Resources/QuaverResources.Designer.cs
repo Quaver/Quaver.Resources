@@ -2033,6 +2033,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap arrow_scoreboard_other {
+            get {
+                object obj = ResourceManager.GetObject("arrow_scoreboard_other", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap arrow_song_time_0 {
             get {
                 object obj = ResourceManager.GetObject("arrow_song_time_0", resourceCulture);
@@ -3566,6 +3576,16 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap bar_scoreboard {
             get {
                 object obj = ResourceManager.GetObject("bar_scoreboard", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_scoreboard_other {
+            get {
+                object obj = ResourceManager.GetObject("bar_scoreboard_other", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
