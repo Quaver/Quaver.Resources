@@ -121,18 +121,6 @@
   <data name="bar_4k_column_lighting" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\column\4k\bar-4k-column-lighting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bar_4k_note_hiteffect_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\4k\bar-4k-note-hiteffect-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_4k_note_hiteffect_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\4k\bar-4k-note-hiteffect-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_4k_note_hiteffect_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\4k\bar-4k-note-hiteffect-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_4k_note_hiteffect_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\4k\bar-4k-note-hiteffect-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="bar_4k_note_hitobject_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\notes\4k\hitobjects\bar-4k-note-hitobject-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -207,27 +195,6 @@
   </data>
   <data name="bar_7k_column_lighting" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\column\7k\bar-7k-column-lighting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_7k_note_hiteffect_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\7k\bar-7k-note-hiteffect-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_7k_note_hiteffect_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\7k\bar-7k-note-hiteffect-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_7k_note_hiteffect_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\7k\bar-7k-note-hiteffect-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_7k_note_hiteffect_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\7k\bar-7k-note-hiteffect-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_7k_note_hiteffect_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\7k\bar-7k-note-hiteffect-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_7k_note_hiteffect_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\7k\bar-7k-note-hiteffect-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_7k_note_hiteffect_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\hiteffect\7k\bar-7k-note-hiteffect-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bar_7k_note_hitobject_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\notes\7k\hitobjects\bar-7k-note-hitobject-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -361,42 +328,6 @@
   <data name="bar_column_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\stage\bar-column-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bar_grade_small_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_b" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-b.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_c" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-c.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_d" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_f" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_s" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-s.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_ss" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-ss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_s_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-s-.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_xx" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-xx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_grade_small_xxx" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\grades\bar-grade-small-xxx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\cursor\bar-main-cursor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="bar_stage_hitposition_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\stage\bar-stage-hitposition-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -456,18 +387,6 @@
   </data>
   <data name="arrow_4k_column_lighting" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\column\4k\arrow-4k-column-lighting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_4k_note_hiteffect_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\4k\arrow-4k-note-hiteffect-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_4k_note_hiteffect_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\4k\arrow-4k-note-hiteffect-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_4k_note_hiteffect_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\4k\arrow-4k-note-hiteffect-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_4k_note_hiteffect_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\4k\arrow-4k-note-hiteffect-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="arrow_4k_note_hitobject_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\notes\4k\hitobjects\arrow-4k-note-hitobject-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -739,27 +658,6 @@
   <data name="arrow_7k_column_lighting" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\column\7k\arrow-7k-column-lighting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="arrow_7k_note_hiteffect_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\7k\arrow-7k-note-hiteffect-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_7k_note_hiteffect_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\7k\arrow-7k-note-hiteffect-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_7k_note_hiteffect_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\7k\arrow-7k-note-hiteffect-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_7k_note_hiteffect_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\7k\arrow-7k-note-hiteffect-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_7k_note_hiteffect_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\7k\arrow-7k-note-hiteffect-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_7k_note_hiteffect_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\7k\arrow-7k-note-hiteffect-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_7k_note_hiteffect_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\hiteffect\7k\arrow-7k-note-hiteffect-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="arrow_7k_note_hitobject_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\notes\7k\hitobjects\arrow-7k-note-hitobject-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -894,42 +792,6 @@
   </data>
   <data name="arrow_column_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\stage\arrow-column-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_b" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-b.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_c" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-c.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_d" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_f" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_s" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-s.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_ss" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-ss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_s_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-s-.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_x" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_xx" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-xx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_grade_small_xxx" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\grades\arrow-grade-small-xxx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\cursor\arrow-main-cursor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="arrow_stage_hitposition_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\stage\arrow-stage-hitposition-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -2053,36 +1915,6 @@
   <data name="fa_zoom_out" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\font awesome\fa-zoom-out.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sound_applause" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\menu\sound-applause.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\menu\sound-back.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\menu\sound-click.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_combobreak" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\gameplay\sound-combobreak.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_hit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\gameplay\sound-hit.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_hitclap" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\gameplay\sound-hitclap.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_hitfinish" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\gameplay\sound-hitfinish.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_hitwhistle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\gameplay\sound-hitwhistle.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_screenshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\menu\sound-screenshot.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\menu\sound-hover.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="fa_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\font awesome\fa-circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -2095,248 +1927,8 @@
   <data name="fxaa" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>shaders\fxaa.mgfxo;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="arrow_score_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_decimal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-decimal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_score_percent" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-score-percent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_decimal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-decimal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_score_percent" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-score-percent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_combo_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-combo-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_combo_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-combo-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_colon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-colon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_song_time_minus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\numbers\arrow-song-time-minus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_colon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-colon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_song_time_minus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\numbers\bar-song-time-minus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="test_spritesheet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\test-spritesheet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_good_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-good@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_great_1x7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-great@1x7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_marv_1x15" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-marv@1x15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_miss_1x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-miss@1x16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_okay_1x9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-okay@1x9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judge_perf_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judge-perf@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_good_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-good@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_great_1x7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-great@1x7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_marv_1x15" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-marv@1x15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_miss_1x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-miss@1x16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_okay_1x9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-okay@1x9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judge_perf_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judge-perf@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="arrow_hitlighting_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\lighting\arrow-hitlighting@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -2350,47 +1942,8 @@
   <data name="bar_holdlighting_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\lighting\bar-holdlighting@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sound_failure" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\gameplay\sound-failure.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sound_retry" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\sfx\gameplay\sound-retry.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_pause_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\pause\arrow-pause-back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_pause_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\pause\arrow-pause-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_pause_continue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\pause\arrow-pause-continue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_pause_retry" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\pause\arrow-pause-retry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_pause_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\pause\bar-pause-back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_pause_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\pause\bar-pause-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_pause_continue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\pause\bar-pause-continue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_pause_retry" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\pause\bar-pause-retry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="rational_integer_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\rational_integer_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="judgement_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\ui\judgement-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_judgement_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\judges\arrow-judgement-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_judgement_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\judges\bar-judgement-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="unknown_avatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\unknown-avatar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -2401,34 +1954,229 @@
   <data name="semi_transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>shaders\semi-transparent.mgfxo;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="arrow_health_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\health\arrow-health-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_health_foreground" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\health\arrow-health-foreground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_scoreboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\scoreboard\arrow-scoreboard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_health_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\health\bar-health-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_health_foreground" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\health\bar-health-foreground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_scoreboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\scoreboard\bar-scoreboard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_scoreboard_other" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\scoreboard\arrow-scoreboard-other.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_scoreboard_other" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\scoreboard\bar-scoreboard-other.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="arrow_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\stage\arrow-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bar_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\stage\bar-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\combo-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-b.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_c" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-c.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-s.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_ss" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-ss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_s_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-s-.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_xx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-xx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grade_small_xxx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\grades\grade-small-xxx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="health_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\health\health-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="health_foreground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\health\health-foreground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="judgement_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\judgements\judgement-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="judge_good_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\judgements\judge-good@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="judge_great_1x7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\judgements\judge-great@1x7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="judge_marv_1x15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\judgements\judge-marv@1x15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="judge_miss_1x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\judgements\judge-miss@1x16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="judge_okay_1x9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\judgements\judge-okay@1x9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="judge_perf_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\judgements\judge-perf@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\cursor\main-cursor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pause_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\pause\pause-back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pause_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\pause\pause-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pause_continue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\pause\pause-continue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pause_retry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\pause\pause-retry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scoreboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\scoreboard\scoreboard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scoreboard_other" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\scoreboard\scoreboard-other.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_decimal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-decimal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="score_percent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\score-percent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_colon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-colon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="song_time_minus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\numbers\song-time-minus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sound_applause" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\menu\sound-applause.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\menu\sound-back.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\menu\sound-click.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_combobreak" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\gameplay\sound-combobreak.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_failure" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\gameplay\sound-failure.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_hit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\gameplay\sound-hit.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_hitclap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\gameplay\sound-hitclap.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_hitfinish" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\gameplay\sound-hitfinish.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_hitwhistle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\gameplay\sound-hitwhistle.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\menu\sound-hover.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_retry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\gameplay\sound-retry.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="sound_screenshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sfx\menu\sound-screenshot.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>
