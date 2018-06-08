@@ -322,24 +322,6 @@
   <data name="bar_7k_receptor_up_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\receptors\7k\up\bar-7k-receptor-up-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bar_column_hitlighting" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\stage\bar-column-hitlighting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_column_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\stage\bar-column-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_stage_hitposition_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\stage\bar-stage-hitposition-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_stage_left_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\stage\bar-stage-left-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_stage_right_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\stage\bar-stage-right-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_stage_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\stage\bar-stage-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Bold12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\bold12.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -786,24 +768,6 @@
   </data>
   <data name="arrow_7k_stage_bgmask" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\arrow\stage\7k\arrow-7k-stage-bgmask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_column_hitlighting" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\stage\arrow-column-hitlighting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_column_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\stage\arrow-column-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_stage_hitposition_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\stage\arrow-stage-hitposition-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_stage_left_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\stage\arrow-stage-left-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_stage_right_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\stage\arrow-stage-right-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_stage_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\stage\arrow-stage-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="fa_add_square_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\font awesome\fa-add-square-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -1930,18 +1894,6 @@
   <data name="test_spritesheet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\test-spritesheet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="arrow_hitlighting_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\lighting\arrow-hitlighting@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrow_holdlighting_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\lighting\arrow-holdlighting@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_hitlighting_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\lighting\bar-hitlighting@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_holdlighting_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\lighting\bar-holdlighting@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="rational_integer_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\rational_integer_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -1953,12 +1905,6 @@
   </data>
   <data name="semi_transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>shaders\semi-transparent.mgfxo;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="arrow_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\arrow\stage\arrow-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bar_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\bar\stage\bar-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="combo_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\shared\numbers\combo-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -2178,5 +2124,89 @@
   </data>
   <data name="sound_screenshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>sfx\menu\sound-screenshot.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="arrow_4k_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\4k\arrow-4k-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_4k_stage_hitposition_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\4k\arrow-4k-stage-hitposition-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_4k_stage_left_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\4k\arrow-4k-stage-left-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_4k_stage_right_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\4k\arrow-4k-stage-right-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_4k_stage_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\4k\arrow-4k-stage-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_7k_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\7k\arrow-7k-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_7k_stage_hitposition_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\7k\arrow-7k-stage-hitposition-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_7k_stage_left_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\7k\arrow-7k-stage-left-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_7k_stage_right_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\7k\arrow-7k-stage-right-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_7k_stage_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\stage\7k\arrow-7k-stage-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_4k_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\4k\bar-4k-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_4k_stage_hitposition_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\4k\bar-4k-stage-hitposition-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_4k_stage_left_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\4k\bar-4k-stage-left-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_4k_stage_right_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\4k\bar-4k-stage-right-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_4k_stage_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\4k\bar-4k-stage-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_7k_stage_distant_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\7k\bar-7k-stage-distant-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_7k_stage_hitposition_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\7k\bar-7k-stage-hitposition-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_7k_stage_left_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\7k\bar-7k-stage-left-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_7k_stage_right_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\7k\bar-7k-stage-right-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_7k_stage_timingbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\stage\7k\bar-7k-stage-timingbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_4k_hitlighting_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\lighting\4k\arrow-4k-hitlighting@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_4k_holdlighting_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\lighting\4k\arrow-4k-holdlighting@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_7k_hitlighting_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\lighting\7k\arrow-7k-hitlighting@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_7k_holdlighting_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\arrow\lighting\7k\arrow-7k-holdlighting@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_4k_hitlighting_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\lighting\4k\bar-4k-hitlighting@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_4k_holdlighting_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\lighting\4k\bar-4k-holdlighting@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_7k_hitlighting_1x8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\lighting\7k\bar-7k-hitlighting@1x8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bar_7k_holdlighting_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\bar\lighting\7k\bar-7k-holdlighting@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

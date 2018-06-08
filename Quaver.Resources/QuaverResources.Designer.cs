@@ -73,6 +73,26 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_hitlighting_1x8 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_hitlighting_1x8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_holdlighting_1x12 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_holdlighting_1x12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap arrow_4k_note_hitobject_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1", resourceCulture);
@@ -963,9 +983,79 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_stage_distant_overlay {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_stage_distant_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_stage_hitposition_overlay {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_stage_hitposition_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_stage_left_border {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_stage_left_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_stage_right_border {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_stage_right_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_4k_stage_timingbar {
+            get {
+                object obj = ResourceManager.GetObject("arrow_4k_stage_timingbar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap arrow_7k_column_lighting {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_column_lighting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_hitlighting_1x8 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_hitlighting_1x8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap arrow_7k_holdlighting_1x12 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_7k_holdlighting_1x12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1403,9 +1493,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap arrow_column_hitlighting {
+        public static System.Drawing.Bitmap arrow_7k_stage_distant_overlay {
             get {
-                object obj = ResourceManager.GetObject("arrow_column_hitlighting", resourceCulture);
+                object obj = ResourceManager.GetObject("arrow_7k_stage_distant_overlay", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1413,9 +1503,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap arrow_column_timingbar {
+        public static System.Drawing.Bitmap arrow_7k_stage_hitposition_overlay {
             get {
-                object obj = ResourceManager.GetObject("arrow_column_timingbar", resourceCulture);
+                object obj = ResourceManager.GetObject("arrow_7k_stage_hitposition_overlay", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1423,9 +1513,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap arrow_hitlighting_1x8 {
+        public static System.Drawing.Bitmap arrow_7k_stage_left_border {
             get {
-                object obj = ResourceManager.GetObject("arrow_hitlighting_1x8", resourceCulture);
+                object obj = ResourceManager.GetObject("arrow_7k_stage_left_border", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1433,9 +1523,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap arrow_holdlighting_1x12 {
+        public static System.Drawing.Bitmap arrow_7k_stage_right_border {
             get {
-                object obj = ResourceManager.GetObject("arrow_holdlighting_1x12", resourceCulture);
+                object obj = ResourceManager.GetObject("arrow_7k_stage_right_border", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1443,49 +1533,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap arrow_stage_distant_overlay {
+        public static System.Drawing.Bitmap arrow_7k_stage_timingbar {
             get {
-                object obj = ResourceManager.GetObject("arrow_stage_distant_overlay", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap arrow_stage_hitposition_overlay {
-            get {
-                object obj = ResourceManager.GetObject("arrow_stage_hitposition_overlay", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap arrow_stage_left_border {
-            get {
-                object obj = ResourceManager.GetObject("arrow_stage_left_border", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap arrow_stage_right_border {
-            get {
-                object obj = ResourceManager.GetObject("arrow_stage_right_border", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap arrow_stage_timingbar {
-            get {
-                object obj = ResourceManager.GetObject("arrow_stage_timingbar", resourceCulture);
+                object obj = ResourceManager.GetObject("arrow_7k_stage_timingbar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1516,6 +1566,26 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap bar_4k_column_lighting {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_column_lighting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_4k_hitlighting_1x8 {
+            get {
+                object obj = ResourceManager.GetObject("bar_4k_hitlighting_1x8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_4k_holdlighting_1x12 {
+            get {
+                object obj = ResourceManager.GetObject("bar_4k_holdlighting_1x12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1773,9 +1843,79 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap bar_4k_stage_distant_overlay {
+            get {
+                object obj = ResourceManager.GetObject("bar_4k_stage_distant_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_4k_stage_hitposition_overlay {
+            get {
+                object obj = ResourceManager.GetObject("bar_4k_stage_hitposition_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_4k_stage_left_border {
+            get {
+                object obj = ResourceManager.GetObject("bar_4k_stage_left_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_4k_stage_right_border {
+            get {
+                object obj = ResourceManager.GetObject("bar_4k_stage_right_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_4k_stage_timingbar {
+            get {
+                object obj = ResourceManager.GetObject("bar_4k_stage_timingbar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap bar_7k_column_lighting {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_column_lighting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_7k_hitlighting_1x8 {
+            get {
+                object obj = ResourceManager.GetObject("bar_7k_hitlighting_1x8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_7k_holdlighting_1x12 {
+            get {
+                object obj = ResourceManager.GetObject("bar_7k_holdlighting_1x12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2213,6 +2353,56 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap bar_7k_stage_distant_overlay {
+            get {
+                object obj = ResourceManager.GetObject("bar_7k_stage_distant_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_7k_stage_hitposition_overlay {
+            get {
+                object obj = ResourceManager.GetObject("bar_7k_stage_hitposition_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_7k_stage_left_border {
+            get {
+                object obj = ResourceManager.GetObject("bar_7k_stage_left_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_7k_stage_right_border {
+            get {
+                object obj = ResourceManager.GetObject("bar_7k_stage_right_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap bar_7k_stage_timingbar {
+            get {
+                object obj = ResourceManager.GetObject("bar_7k_stage_timingbar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap bar_cap {
             get {
                 object obj = ResourceManager.GetObject("bar_cap", resourceCulture);
@@ -2223,99 +2413,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap bar_column_hitlighting {
-            get {
-                object obj = ResourceManager.GetObject("bar_column_hitlighting", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap bar_column_timingbar {
-            get {
-                object obj = ResourceManager.GetObject("bar_column_timingbar", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         public static System.Drawing.Bitmap bar_corner {
             get {
                 object obj = ResourceManager.GetObject("bar_corner", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap bar_hitlighting_1x8 {
-            get {
-                object obj = ResourceManager.GetObject("bar_hitlighting_1x8", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap bar_holdlighting_1x12 {
-            get {
-                object obj = ResourceManager.GetObject("bar_holdlighting_1x12", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap bar_stage_distant_overlay {
-            get {
-                object obj = ResourceManager.GetObject("bar_stage_distant_overlay", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap bar_stage_hitposition_overlay {
-            get {
-                object obj = ResourceManager.GetObject("bar_stage_hitposition_overlay", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap bar_stage_left_border {
-            get {
-                object obj = ResourceManager.GetObject("bar_stage_left_border", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap bar_stage_right_border {
-            get {
-                object obj = ResourceManager.GetObject("bar_stage_right_border", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap bar_stage_timingbar {
-            get {
-                object obj = ResourceManager.GetObject("bar_stage_timingbar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
