@@ -53,25 +53,11 @@
     <EmbeddedResource Include="Shaders\**\*.mgfxo" />
     <EmbeddedResource Include="Fonts\**\*" />
     <EmbeddedResource Include="Textures\**\*" />
+    <EmbeddedResource Include="SFX\**\*.wav" />
     <EmbeddedResource Include="QuaverResources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>QuaverResources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="SFX\Gameplay\sound-combobreak.wav" />
-    <Content Include="SFX\Gameplay\sound-failure.wav" />
-    <Content Include="SFX\Gameplay\sound-hit.wav" />
-    <Content Include="SFX\Gameplay\sound-hitclap.wav" />
-    <Content Include="SFX\Gameplay\sound-hitfinish.wav" />
-    <Content Include="SFX\Gameplay\sound-hitwhistle.wav" />
-    <Content Include="SFX\Gameplay\sound-retry.wav" />
-    <Content Include="SFX\Menu\sound-applause.wav" />
-    <Content Include="SFX\Menu\sound-back.wav" />
-    <Content Include="SFX\Menu\sound-click.wav" />
-    <Content Include="SFX\Menu\sound-hover.wav" />
-    <Content Include="SFX\Menu\sound-screenshot.wav" />
-    <Content Include="Textures\Skins\Shared\Judgements\judgement-overlay.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
