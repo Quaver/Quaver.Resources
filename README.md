@@ -1,2 +1,13 @@
-# Quaver.Resources
-Resources and assets for Quaver
+# Quaver.Resources [![Quaver](https://img.shields.io/badge/Quaver-Repository-blue.svg)](https://github.com/Swan/Quaver) [![Discord](https://discordapp.com/api/guilds/354206121386573824/widget.png?style=shield)](https://discord.gg/nJa8VFr)
+
+<p align="center"> 
+  <img src="https://eggplants.org/9du6q8.jpg">
+</p>
+
+> 🎨 Game assets used for Quaver client.
+
+There isn't any code here. This is just assets to be used for [Quaver's](https://github.com/Swan/Quaver) game client.
+
+# LICENSE
+
+The content in this section of the repository is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode). See the [License](https://github.com/Swan/Quaver.Resources/blob/master/LICENSE.md) file for more information regarding this. In short, you may use the contents in the docmentation section of the repository as long as it is not in a commercial manner.
