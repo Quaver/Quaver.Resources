@@ -2209,4 +2209,7 @@
   <data name="bar_7k_holdlighting_1x12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\lighting\7k\bar-7k-holdlighting@1x12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="skip_1x31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\skip\skip@1x31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
