@@ -6271,6 +6271,26 @@ namespace Quaver.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] good_times_16 {
+            get {
+                object obj = ResourceManager.GetObject("good_times_16", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] good_times_24 {
+            get {
+                object obj = ResourceManager.GetObject("good_times_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap grade_small_a {
@@ -6995,6 +7015,16 @@ namespace Quaver.Resources {
         public static System.IO.UnmanagedMemoryStream sound_screenshot {
             get {
                 return ResourceManager.GetStream("sound_screenshot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap square_border {
+            get {
+                object obj = ResourceManager.GetObject("square_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
