@@ -6553,6 +6553,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap menu_background {
+            get {
+                object obj = ResourceManager.GetObject("menu_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap pause_back {
             get {
                 object obj = ResourceManager.GetObject("pause_back", resourceCulture);
