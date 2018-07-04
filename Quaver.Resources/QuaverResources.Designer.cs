@@ -19,7 +19,7 @@ namespace Quaver.Resources {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class QuaverResources {
@@ -6271,6 +6271,26 @@ namespace Quaver.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] good_times_16 {
+            get {
+                object obj = ResourceManager.GetObject("good_times_16", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] good_times_24 {
+            get {
+                object obj = ResourceManager.GetObject("good_times_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap grade_small_a {
@@ -7015,6 +7035,16 @@ namespace Quaver.Resources {
         public static System.IO.UnmanagedMemoryStream sound_screenshot {
             get {
                 return ResourceManager.GetStream("sound_screenshot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap square_border {
+            get {
+                object obj = ResourceManager.GetObject("square_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
