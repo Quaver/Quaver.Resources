@@ -6601,6 +6601,16 @@ namespace Quaver.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap quaver_logo {
+            get {
+                object obj = ResourceManager.GetObject("quaver_logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         public static byte[] rational_integer_16 {
@@ -7005,6 +7015,16 @@ namespace Quaver.Resources {
         public static System.IO.UnmanagedMemoryStream sound_screenshot {
             get {
                 return ResourceManager.GetStream("sound_screenshot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap swan_logo {
+            get {
+                object obj = ResourceManager.GetObject("swan_logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
