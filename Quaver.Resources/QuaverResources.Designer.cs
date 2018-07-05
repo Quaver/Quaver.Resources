@@ -7071,9 +7071,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap title_offline_player {
+        public static System.Drawing.Bitmap title_default {
             get {
-                object obj = ResourceManager.GetObject("title_offline_player", resourceCulture);
+                object obj = ResourceManager.GetObject("title_default", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
