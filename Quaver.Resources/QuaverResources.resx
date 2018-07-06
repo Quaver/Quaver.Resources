@@ -2248,4 +2248,31 @@
   <data name="aller_regular_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\aller_regular_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="furore_regular_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\furore_regular_24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="azoft_sans_regular_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\azoft-sans-regular-24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="azoft_sans_bold_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\azoft-sans-bold-24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="code_bold_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\code-bold-24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="bebas_regular_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\bebas_regular_24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_regular_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2_regular_24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="menu_competitive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\menu\menu-competitive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_multiplayer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\menu\menu-multiplayer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_news" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\menu\menu-news.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

@@ -1591,6 +1591,26 @@ namespace Quaver.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] azoft_sans_bold_24 {
+            get {
+                object obj = ResourceManager.GetObject("azoft_sans_bold_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] azoft_sans_regular_24 {
+            get {
+                object obj = ResourceManager.GetObject("azoft_sans_regular_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap bar_4k_column_lighting {
@@ -2451,6 +2471,16 @@ namespace Quaver.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] bebas_regular_24 {
+            get {
+                object obj = ResourceManager.GetObject("bebas_regular_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap blank_box {
@@ -2466,6 +2496,16 @@ namespace Quaver.Resources {
         public static byte[] Bold12 {
             get {
                 object obj = ResourceManager.GetObject("Bold12", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] code_bold_24 {
+            get {
+                object obj = ResourceManager.GetObject("code_bold_24", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2577,6 +2617,16 @@ namespace Quaver.Resources {
             get {
                 object obj = ResourceManager.GetObject("diff_select_mask", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_regular_24 {
+            get {
+                object obj = ResourceManager.GetObject("exo2_regular_24", resourceCulture);
+                return ((byte[])(obj));
             }
         }
         
@@ -6293,6 +6343,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] furore_regular_24 {
+            get {
+                object obj = ResourceManager.GetObject("furore_regular_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] fxaa {
             get {
                 object obj = ResourceManager.GetObject("fxaa", resourceCulture);
@@ -6613,9 +6673,39 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap menu_competitive {
+            get {
+                object obj = ResourceManager.GetObject("menu_competitive", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap menu_lock {
             get {
                 object obj = ResourceManager.GetObject("menu_lock", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap menu_multiplayer {
+            get {
+                object obj = ResourceManager.GetObject("menu_multiplayer", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap menu_news {
+            get {
+                object obj = ResourceManager.GetObject("menu_news", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
