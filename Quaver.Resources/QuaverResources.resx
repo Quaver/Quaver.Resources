@@ -2233,4 +2233,19 @@
   <data name="title_default" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\titles\title-default.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="menu_single_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\menu\menu-single-player.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\menu\menu-lock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aller_bold_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\aller_bold_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="aller_light_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\aller_light_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="aller_regular_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\aller_regular_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
