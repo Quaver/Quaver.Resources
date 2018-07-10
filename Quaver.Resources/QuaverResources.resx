@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -1888,9 +1888,6 @@
   <data name="assistant_regular_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\assistant_regular_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="fxaa" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>shaders\fxaa.mgfxo;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="test_spritesheet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\test-spritesheet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -1902,9 +1899,6 @@
   </data>
   <data name="you_avatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\you-avatar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="semi_transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>shaders\semi-transparent.mgfxo;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="combo_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\shared\numbers\combo-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

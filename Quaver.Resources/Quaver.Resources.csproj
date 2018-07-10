@@ -50,7 +50,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Shaders\**\*.mgfxo" />
     <EmbeddedResource Include="Fonts\**\*" />
     <EmbeddedResource Include="Textures\**\*" />
     <EmbeddedResource Include="SFX\**\*.wav" />

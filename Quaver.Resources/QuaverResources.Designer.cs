@@ -6353,16 +6353,6 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        public static byte[] fxaa {
-            get {
-                object obj = ResourceManager.GetObject("fxaa", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
         public static byte[] good_times_16 {
             get {
                 object obj = ResourceManager.GetObject("good_times_16", resourceCulture);
@@ -6957,16 +6947,6 @@ namespace Quaver.Resources {
             get {
                 object obj = ResourceManager.GetObject("scoreboard_other", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        public static byte[] semi_transparent {
-            get {
-                object obj = ResourceManager.GetObject("semi_transparent", resourceCulture);
-                return ((byte[])(obj));
             }
         }
         
