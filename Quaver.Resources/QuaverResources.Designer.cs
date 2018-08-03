@@ -6801,6 +6801,16 @@ namespace Quaver.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap quaver_logo_only {
+            get {
+                object obj = ResourceManager.GetObject("quaver_logo_only", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         public static byte[] rational_integer_16 {
