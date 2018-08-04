@@ -60,6 +60,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Textures\Font Awesome\fa-times.png" />
+    <Content Include="Textures\UI\left_button_square.png" />
+    <Content Include="Textures\UI\right_button_square.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
