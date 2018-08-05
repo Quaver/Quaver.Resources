@@ -6853,6 +6853,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap rounded_square {
+            get {
+                object obj = ResourceManager.GetObject("rounded_square", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap score_0 {
             get {
                 object obj = ResourceManager.GetObject("score_0", resourceCulture);
