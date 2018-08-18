@@ -7013,6 +7013,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap search_bar {
+            get {
+                object obj = ResourceManager.GetObject("search_bar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap select_border {
             get {
                 object obj = ResourceManager.GetObject("select_border", resourceCulture);
