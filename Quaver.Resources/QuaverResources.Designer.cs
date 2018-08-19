@@ -7033,6 +7033,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap select_search_background {
+            get {
+                object obj = ResourceManager.GetObject("select_search_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap set_select_mask {
             get {
                 object obj = ResourceManager.GetObject("set_select_mask", resourceCulture);
