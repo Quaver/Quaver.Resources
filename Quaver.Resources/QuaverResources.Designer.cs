@@ -2611,6 +2611,26 @@ namespace Quaver.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] corbert_italic {
+            get {
+                object obj = ResourceManager.GetObject("corbert_italic", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] corbert_regular {
+            get {
+                object obj = ResourceManager.GetObject("corbert_regular", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap diff_select_button {
@@ -2627,6 +2647,46 @@ namespace Quaver.Resources {
             get {
                 object obj = ResourceManager.GetObject("diff_select_mask", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo_bold_24 {
+            get {
+                object obj = ResourceManager.GetObject("exo_bold_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo_bolditalic_24 {
+            get {
+                object obj = ResourceManager.GetObject("exo_bolditalic_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo_extrabold_24 {
+            get {
+                object obj = ResourceManager.GetObject("exo_extrabold_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo_italic_24 {
+            get {
+                object obj = ResourceManager.GetObject("exo_italic_24", resourceCulture);
+                return ((byte[])(obj));
             }
         }
         
@@ -6841,6 +6901,16 @@ namespace Quaver.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ranked_status_flag {
+            get {
+                object obj = ResourceManager.GetObject("ranked_status_flag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         public static byte[] rational_integer_16 {
@@ -7026,6 +7096,16 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap select_border {
             get {
                 object obj = ResourceManager.GetObject("select_border", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap select_info_background {
+            get {
+                object obj = ResourceManager.GetObject("select_info_background", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
