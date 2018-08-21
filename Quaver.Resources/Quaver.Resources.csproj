@@ -50,7 +50,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Fonts\**\*" />
+    <EmbeddedResource Include="Fonts\aller_bold_16.xnb" />
+    <EmbeddedResource Include="Fonts\aller_light_16.xnb" />
+    <EmbeddedResource Include="Fonts\aller_regular_16.xnb" />
+    <EmbeddedResource Include="Fonts\exo-bold-24.xnb" />
+    <EmbeddedResource Include="Fonts\exo-bolditalic-24.xnb" />
+    <EmbeddedResource Include="Fonts\exo-extrabold-24.xnb" />
+    <EmbeddedResource Include="Fonts\exo-italic-24.xnb" />
+    <EmbeddedResource Include="Fonts\exo2_regular_24.xnb" />
     <EmbeddedResource Include="Textures\**\*" />
     <EmbeddedResource Include="SFX\**\*.wav" />
     <EmbeddedResource Include="QuaverResources.resx">
