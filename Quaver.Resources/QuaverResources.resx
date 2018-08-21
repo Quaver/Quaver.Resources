@@ -322,21 +322,6 @@
   <data name="bar_7k_receptor_up_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\bar\receptors\7k\up\bar-7k-receptor-up-7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Bold12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\bold12.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Medium12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\medium12.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Medium16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\medium16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Medium24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\medium24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Medium48" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\medium48.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="bar_cap" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\bar-cap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -1882,17 +1867,8 @@
   <data name="fa_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\font awesome\fa-circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="assistant_light_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\assistant_light_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="assistant_regular_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\assistant_regular_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="test_spritesheet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\test-spritesheet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="rational_integer_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\rational_integer_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="unknown_avatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\unknown-avatar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -2215,12 +2191,6 @@
   <data name="swan_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\swan-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="good_times_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\good_times_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="good_times_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\good_times_24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="square_border" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\square-border.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -2241,21 +2211,6 @@
   </data>
   <data name="aller_regular_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\aller_regular_16.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="furore_regular_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\furore_regular_24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="azoft_sans_regular_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\azoft-sans-regular-24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="azoft_sans_bold_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\azoft-sans-bold-24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="code_bold_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\code-bold-24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="bebas_regular_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\bebas_regular_24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="exo2_regular_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\exo2_regular_24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -2313,12 +2268,6 @@
   </data>
   <data name="select_info_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\select-info-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="corbert_regular" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\corbert-regular.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="corbert_italic" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>fonts\corbert-italic.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="exo_bolditalic_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\exo-bolditalic-24.xnb;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
