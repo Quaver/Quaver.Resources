@@ -6513,9 +6513,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap judge_good_1x8 {
+        public static System.Drawing.Bitmap judge_good {
             get {
-                object obj = ResourceManager.GetObject("judge_good_1x8", resourceCulture);
+                object obj = ResourceManager.GetObject("judge_good", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6523,9 +6523,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap judge_great_1x7 {
+        public static System.Drawing.Bitmap judge_great {
             get {
-                object obj = ResourceManager.GetObject("judge_great_1x7", resourceCulture);
+                object obj = ResourceManager.GetObject("judge_great", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6533,9 +6533,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap judge_marv_1x15 {
+        public static System.Drawing.Bitmap judge_marv {
             get {
-                object obj = ResourceManager.GetObject("judge_marv_1x15", resourceCulture);
+                object obj = ResourceManager.GetObject("judge_marv", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6543,9 +6543,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap judge_miss_1x16 {
+        public static System.Drawing.Bitmap judge_miss {
             get {
-                object obj = ResourceManager.GetObject("judge_miss_1x16", resourceCulture);
+                object obj = ResourceManager.GetObject("judge_miss", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6553,9 +6553,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap judge_okay_1x9 {
+        public static System.Drawing.Bitmap judge_okay {
             get {
-                object obj = ResourceManager.GetObject("judge_okay_1x9", resourceCulture);
+                object obj = ResourceManager.GetObject("judge_okay", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6563,9 +6563,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap judge_perf_1x12 {
+        public static System.Drawing.Bitmap judge_perf {
             get {
-                object obj = ResourceManager.GetObject("judge_perf_1x12", resourceCulture);
+                object obj = ResourceManager.GetObject("judge_perf", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
