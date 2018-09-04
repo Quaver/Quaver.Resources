@@ -7330,6 +7330,36 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap username_selection_background {
+            get {
+                object obj = ResourceManager.GetObject("username_selection_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap username_selection_textbox {
+            get {
+                object obj = ResourceManager.GetObject("username_selection_textbox", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap username_selection_textbox_overlay {
+            get {
+                object obj = ResourceManager.GetObject("username_selection_textbox_overlay", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap you_avatar {
             get {
                 object obj = ResourceManager.GetObject("you_avatar", resourceCulture);
