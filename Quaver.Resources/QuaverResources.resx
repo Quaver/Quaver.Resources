@@ -2293,4 +2293,16 @@
   <data name="judge_perf" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\shared\judgements\judge-perf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="connecting_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\connecting\connecting-background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="loading_wheel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\loading-wheel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="quaver_logo_full" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\quaver-logo-full.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="quaver_logo_stylish" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\quaver-logo-stylish.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

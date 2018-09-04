@@ -2543,6 +2543,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap connecting_background {
+            get {
+                object obj = ResourceManager.GetObject("connecting_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap diff_button {
             get {
                 object obj = ResourceManager.GetObject("diff_button", resourceCulture);
@@ -6593,6 +6603,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap loading_wheel {
+            get {
+                object obj = ResourceManager.GetObject("loading_wheel", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap main_cursor {
             get {
                 object obj = ResourceManager.GetObject("main_cursor", resourceCulture);
@@ -6763,9 +6783,29 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap quaver_logo_full {
+            get {
+                object obj = ResourceManager.GetObject("quaver_logo_full", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap quaver_logo_only {
             get {
                 object obj = ResourceManager.GetObject("quaver_logo_only", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap quaver_logo_stylish {
+            get {
+                object obj = ResourceManager.GetObject("quaver_logo_stylish", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
