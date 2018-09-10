@@ -2633,9 +2633,119 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] exo2_bold {
+            get {
+                object obj = ResourceManager.GetObject("exo2_bold", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_bolditalic {
+            get {
+                object obj = ResourceManager.GetObject("exo2_bolditalic", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_italic {
+            get {
+                object obj = ResourceManager.GetObject("exo2_italic", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_light {
+            get {
+                object obj = ResourceManager.GetObject("exo2_light", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_medium {
+            get {
+                object obj = ResourceManager.GetObject("exo2_medium", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_mediumitalic {
+            get {
+                object obj = ResourceManager.GetObject("exo2_mediumitalic", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_regular {
+            get {
+                object obj = ResourceManager.GetObject("exo2_regular", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] exo2_regular_24 {
             get {
                 object obj = ResourceManager.GetObject("exo2_regular_24", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_semibold {
+            get {
+                object obj = ResourceManager.GetObject("exo2_semibold", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_semibolditalic {
+            get {
+                object obj = ResourceManager.GetObject("exo2_semibolditalic", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_thin {
+            get {
+                object obj = ResourceManager.GetObject("exo2_thin", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] exo2_thinitalic {
+            get {
+                object obj = ResourceManager.GetObject("exo2_thinitalic", resourceCulture);
                 return ((byte[])(obj));
             }
         }

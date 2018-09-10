@@ -2314,4 +2314,37 @@
   <data name="username_selection_textbox_overlay" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\username selection\username-selection-textbox-overlay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="exo2_bold" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-bold.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_bolditalic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-bolditalic.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_italic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-italic.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_light" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-light.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_medium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-medium.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_mediumitalic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-mediumitalic.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_regular" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-regular.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_semibold" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-semibold.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_semibolditalic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-semibolditalic.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_thin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-thin.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exo2_thinitalic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>fonts\exo2\exo2-thinitalic.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
