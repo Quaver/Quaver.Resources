@@ -2347,4 +2347,10 @@
   <data name="exo2_thinitalic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>fonts\exo2\exo2-thinitalic.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="close_channel_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\chat\close-channel-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="send_message_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\chat\send-message-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

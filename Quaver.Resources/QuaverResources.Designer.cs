@@ -2443,6 +2443,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap close_channel_button {
+            get {
+                object obj = ResourceManager.GetObject("close_channel_button", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap combo_0 {
             get {
                 object obj = ResourceManager.GetObject("combo_0", resourceCulture);
@@ -7126,6 +7136,16 @@ namespace Quaver.Resources {
         public static System.Drawing.Bitmap select_search_background {
             get {
                 object obj = ResourceManager.GetObject("select_search_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap send_message_button {
+            get {
+                object obj = ResourceManager.GetObject("send_message_button", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
