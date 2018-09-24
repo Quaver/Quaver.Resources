@@ -2161,9 +2161,6 @@
   <data name="loading_wheel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\loading-wheel.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\skins\shared\cursor\main-cursor.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="menu_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\menu\menu-background.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -2355,5 +2352,8 @@
   </data>
   <data name="you_avatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\you-avatar.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\skins\shared\cursor\main-cursor.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

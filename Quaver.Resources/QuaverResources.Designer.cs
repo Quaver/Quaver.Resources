@@ -22,21 +22,21 @@ namespace Quaver.Resources {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class QuaverResources {
+    public class QuaverResources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal QuaverResources() {
+        public QuaverResources() {
         }
         
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Quaver.Resources.QuaverResources", typeof(QuaverResources).Assembly);
@@ -51,7 +51,7 @@ namespace Quaver.Resources {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] aller_bold_16 {
+        public static byte[] aller_bold_16 {
             get {
                 object obj = ResourceManager.GetObject("aller_bold_16", resourceCulture);
                 return ((byte[])(obj));
@@ -73,7 +73,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] aller_light_16 {
+        public static byte[] aller_light_16 {
             get {
                 object obj = ResourceManager.GetObject("aller_light_16", resourceCulture);
                 return ((byte[])(obj));
@@ -83,7 +83,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] aller_regular_16 {
+        public static byte[] aller_regular_16 {
             get {
                 object obj = ResourceManager.GetObject("aller_regular_16", resourceCulture);
                 return ((byte[])(obj));
@@ -93,7 +93,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_column_lighting {
+        public static byte[] arrow_4k_column_lighting {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_column_lighting", resourceCulture);
                 return ((byte[])(obj));
@@ -103,7 +103,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_hitlighting_1x8 {
+        public static byte[] arrow_4k_hitlighting_1x8 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_hitlighting_1x8", resourceCulture);
                 return ((byte[])(obj));
@@ -113,7 +113,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_holdlighting_1x12 {
+        public static byte[] arrow_4k_holdlighting_1x12 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_holdlighting_1x12", resourceCulture);
                 return ((byte[])(obj));
@@ -123,7 +123,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_1 {
+        public static byte[] arrow_4k_note_hitobject_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1", resourceCulture);
                 return ((byte[])(obj));
@@ -133,7 +133,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_1_12th {
+        public static byte[] arrow_4k_note_hitobject_1_12th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_12th", resourceCulture);
                 return ((byte[])(obj));
@@ -143,7 +143,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_1_16th {
+        public static byte[] arrow_4k_note_hitobject_1_16th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_16th", resourceCulture);
                 return ((byte[])(obj));
@@ -153,7 +153,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_1_2nd {
+        public static byte[] arrow_4k_note_hitobject_1_2nd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_2nd", resourceCulture);
                 return ((byte[])(obj));
@@ -163,7 +163,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_1_3rd {
+        public static byte[] arrow_4k_note_hitobject_1_3rd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_3rd", resourceCulture);
                 return ((byte[])(obj));
@@ -173,7 +173,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_1_48th {
+        public static byte[] arrow_4k_note_hitobject_1_48th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_48th", resourceCulture);
                 return ((byte[])(obj));
@@ -183,7 +183,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_1_4th {
+        public static byte[] arrow_4k_note_hitobject_1_4th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_4th", resourceCulture);
                 return ((byte[])(obj));
@@ -193,7 +193,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_1_6th {
+        public static byte[] arrow_4k_note_hitobject_1_6th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_6th", resourceCulture);
                 return ((byte[])(obj));
@@ -203,7 +203,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_1_8th {
+        public static byte[] arrow_4k_note_hitobject_1_8th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_1_8th", resourceCulture);
                 return ((byte[])(obj));
@@ -213,7 +213,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_2 {
+        public static byte[] arrow_4k_note_hitobject_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2", resourceCulture);
                 return ((byte[])(obj));
@@ -223,7 +223,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_2_12th {
+        public static byte[] arrow_4k_note_hitobject_2_12th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_12th", resourceCulture);
                 return ((byte[])(obj));
@@ -233,7 +233,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_2_16th {
+        public static byte[] arrow_4k_note_hitobject_2_16th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_16th", resourceCulture);
                 return ((byte[])(obj));
@@ -243,7 +243,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_2_2nd {
+        public static byte[] arrow_4k_note_hitobject_2_2nd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_2nd", resourceCulture);
                 return ((byte[])(obj));
@@ -253,7 +253,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_2_3rd {
+        public static byte[] arrow_4k_note_hitobject_2_3rd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_3rd", resourceCulture);
                 return ((byte[])(obj));
@@ -263,7 +263,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_2_48th {
+        public static byte[] arrow_4k_note_hitobject_2_48th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_48th", resourceCulture);
                 return ((byte[])(obj));
@@ -273,7 +273,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_2_4th {
+        public static byte[] arrow_4k_note_hitobject_2_4th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_4th", resourceCulture);
                 return ((byte[])(obj));
@@ -283,7 +283,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_2_6th {
+        public static byte[] arrow_4k_note_hitobject_2_6th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_6th", resourceCulture);
                 return ((byte[])(obj));
@@ -293,7 +293,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_2_8th {
+        public static byte[] arrow_4k_note_hitobject_2_8th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_2_8th", resourceCulture);
                 return ((byte[])(obj));
@@ -303,7 +303,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_3 {
+        public static byte[] arrow_4k_note_hitobject_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3", resourceCulture);
                 return ((byte[])(obj));
@@ -313,7 +313,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_3_12th {
+        public static byte[] arrow_4k_note_hitobject_3_12th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_12th", resourceCulture);
                 return ((byte[])(obj));
@@ -323,7 +323,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_3_16th {
+        public static byte[] arrow_4k_note_hitobject_3_16th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_16th", resourceCulture);
                 return ((byte[])(obj));
@@ -333,7 +333,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_3_2nd {
+        public static byte[] arrow_4k_note_hitobject_3_2nd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_2nd", resourceCulture);
                 return ((byte[])(obj));
@@ -343,7 +343,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_3_3rd {
+        public static byte[] arrow_4k_note_hitobject_3_3rd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_3rd", resourceCulture);
                 return ((byte[])(obj));
@@ -353,7 +353,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_3_48th {
+        public static byte[] arrow_4k_note_hitobject_3_48th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_48th", resourceCulture);
                 return ((byte[])(obj));
@@ -363,7 +363,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_3_4th {
+        public static byte[] arrow_4k_note_hitobject_3_4th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_4th", resourceCulture);
                 return ((byte[])(obj));
@@ -373,7 +373,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_3_6th {
+        public static byte[] arrow_4k_note_hitobject_3_6th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_6th", resourceCulture);
                 return ((byte[])(obj));
@@ -383,7 +383,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_3_8th {
+        public static byte[] arrow_4k_note_hitobject_3_8th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_3_8th", resourceCulture);
                 return ((byte[])(obj));
@@ -393,7 +393,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_4 {
+        public static byte[] arrow_4k_note_hitobject_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4", resourceCulture);
                 return ((byte[])(obj));
@@ -403,7 +403,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_4_12th {
+        public static byte[] arrow_4k_note_hitobject_4_12th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_12th", resourceCulture);
                 return ((byte[])(obj));
@@ -413,7 +413,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_4_16th {
+        public static byte[] arrow_4k_note_hitobject_4_16th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_16th", resourceCulture);
                 return ((byte[])(obj));
@@ -423,7 +423,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_4_2nd {
+        public static byte[] arrow_4k_note_hitobject_4_2nd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_2nd", resourceCulture);
                 return ((byte[])(obj));
@@ -433,7 +433,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_4_3rd {
+        public static byte[] arrow_4k_note_hitobject_4_3rd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_3rd", resourceCulture);
                 return ((byte[])(obj));
@@ -443,7 +443,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_4_48th {
+        public static byte[] arrow_4k_note_hitobject_4_48th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_48th", resourceCulture);
                 return ((byte[])(obj));
@@ -453,7 +453,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_4_4th {
+        public static byte[] arrow_4k_note_hitobject_4_4th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_4th", resourceCulture);
                 return ((byte[])(obj));
@@ -463,7 +463,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_4_6th {
+        public static byte[] arrow_4k_note_hitobject_4_6th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_6th", resourceCulture);
                 return ((byte[])(obj));
@@ -473,7 +473,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_hitobject_4_8th {
+        public static byte[] arrow_4k_note_hitobject_4_8th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_hitobject_4_8th", resourceCulture);
                 return ((byte[])(obj));
@@ -483,7 +483,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdbody_1 {
+        public static byte[] arrow_4k_note_holdbody_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdbody_1", resourceCulture);
                 return ((byte[])(obj));
@@ -493,7 +493,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdbody_2 {
+        public static byte[] arrow_4k_note_holdbody_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdbody_2", resourceCulture);
                 return ((byte[])(obj));
@@ -503,7 +503,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdbody_3 {
+        public static byte[] arrow_4k_note_holdbody_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdbody_3", resourceCulture);
                 return ((byte[])(obj));
@@ -513,7 +513,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdbody_4 {
+        public static byte[] arrow_4k_note_holdbody_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdbody_4", resourceCulture);
                 return ((byte[])(obj));
@@ -523,7 +523,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdend_1 {
+        public static byte[] arrow_4k_note_holdend_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdend_1", resourceCulture);
                 return ((byte[])(obj));
@@ -533,7 +533,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdend_2 {
+        public static byte[] arrow_4k_note_holdend_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdend_2", resourceCulture);
                 return ((byte[])(obj));
@@ -543,7 +543,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdend_3 {
+        public static byte[] arrow_4k_note_holdend_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdend_3", resourceCulture);
                 return ((byte[])(obj));
@@ -553,7 +553,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdend_4 {
+        public static byte[] arrow_4k_note_holdend_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdend_4", resourceCulture);
                 return ((byte[])(obj));
@@ -563,7 +563,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_1 {
+        public static byte[] arrow_4k_note_holdhitobject_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1", resourceCulture);
                 return ((byte[])(obj));
@@ -573,7 +573,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_1_12th {
+        public static byte[] arrow_4k_note_holdhitobject_1_12th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_12th", resourceCulture);
                 return ((byte[])(obj));
@@ -583,7 +583,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_1_16th {
+        public static byte[] arrow_4k_note_holdhitobject_1_16th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_16th", resourceCulture);
                 return ((byte[])(obj));
@@ -593,7 +593,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_1_2nd {
+        public static byte[] arrow_4k_note_holdhitobject_1_2nd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_2nd", resourceCulture);
                 return ((byte[])(obj));
@@ -603,7 +603,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_1_3rd {
+        public static byte[] arrow_4k_note_holdhitobject_1_3rd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_3rd", resourceCulture);
                 return ((byte[])(obj));
@@ -613,7 +613,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_1_48th {
+        public static byte[] arrow_4k_note_holdhitobject_1_48th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_48th", resourceCulture);
                 return ((byte[])(obj));
@@ -623,7 +623,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_1_4th {
+        public static byte[] arrow_4k_note_holdhitobject_1_4th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_4th", resourceCulture);
                 return ((byte[])(obj));
@@ -633,7 +633,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_1_6th {
+        public static byte[] arrow_4k_note_holdhitobject_1_6th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_6th", resourceCulture);
                 return ((byte[])(obj));
@@ -643,7 +643,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_1_8th {
+        public static byte[] arrow_4k_note_holdhitobject_1_8th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_1_8th", resourceCulture);
                 return ((byte[])(obj));
@@ -653,7 +653,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_2 {
+        public static byte[] arrow_4k_note_holdhitobject_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2", resourceCulture);
                 return ((byte[])(obj));
@@ -663,7 +663,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_2_12th {
+        public static byte[] arrow_4k_note_holdhitobject_2_12th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_12th", resourceCulture);
                 return ((byte[])(obj));
@@ -673,7 +673,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_2_16th {
+        public static byte[] arrow_4k_note_holdhitobject_2_16th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_16th", resourceCulture);
                 return ((byte[])(obj));
@@ -683,7 +683,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_2_2nd {
+        public static byte[] arrow_4k_note_holdhitobject_2_2nd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_2nd", resourceCulture);
                 return ((byte[])(obj));
@@ -693,7 +693,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_2_3rd {
+        public static byte[] arrow_4k_note_holdhitobject_2_3rd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_3rd", resourceCulture);
                 return ((byte[])(obj));
@@ -703,7 +703,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_2_48th {
+        public static byte[] arrow_4k_note_holdhitobject_2_48th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_48th", resourceCulture);
                 return ((byte[])(obj));
@@ -713,7 +713,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_2_4th {
+        public static byte[] arrow_4k_note_holdhitobject_2_4th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_4th", resourceCulture);
                 return ((byte[])(obj));
@@ -723,7 +723,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_2_6th {
+        public static byte[] arrow_4k_note_holdhitobject_2_6th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_6th", resourceCulture);
                 return ((byte[])(obj));
@@ -733,7 +733,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_2_8th {
+        public static byte[] arrow_4k_note_holdhitobject_2_8th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_2_8th", resourceCulture);
                 return ((byte[])(obj));
@@ -743,7 +743,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_3 {
+        public static byte[] arrow_4k_note_holdhitobject_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3", resourceCulture);
                 return ((byte[])(obj));
@@ -753,7 +753,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_3_12th {
+        public static byte[] arrow_4k_note_holdhitobject_3_12th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_12th", resourceCulture);
                 return ((byte[])(obj));
@@ -763,7 +763,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_3_16th {
+        public static byte[] arrow_4k_note_holdhitobject_3_16th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_16th", resourceCulture);
                 return ((byte[])(obj));
@@ -773,7 +773,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_3_2nd {
+        public static byte[] arrow_4k_note_holdhitobject_3_2nd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_2nd", resourceCulture);
                 return ((byte[])(obj));
@@ -783,7 +783,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_3_3rd {
+        public static byte[] arrow_4k_note_holdhitobject_3_3rd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_3rd", resourceCulture);
                 return ((byte[])(obj));
@@ -793,7 +793,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_3_48th {
+        public static byte[] arrow_4k_note_holdhitobject_3_48th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_48th", resourceCulture);
                 return ((byte[])(obj));
@@ -803,7 +803,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_3_4th {
+        public static byte[] arrow_4k_note_holdhitobject_3_4th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_4th", resourceCulture);
                 return ((byte[])(obj));
@@ -813,7 +813,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_3_6th {
+        public static byte[] arrow_4k_note_holdhitobject_3_6th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_6th", resourceCulture);
                 return ((byte[])(obj));
@@ -823,7 +823,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_3_8th {
+        public static byte[] arrow_4k_note_holdhitobject_3_8th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_3_8th", resourceCulture);
                 return ((byte[])(obj));
@@ -833,7 +833,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_4 {
+        public static byte[] arrow_4k_note_holdhitobject_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4", resourceCulture);
                 return ((byte[])(obj));
@@ -843,7 +843,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_4_12th {
+        public static byte[] arrow_4k_note_holdhitobject_4_12th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_12th", resourceCulture);
                 return ((byte[])(obj));
@@ -853,7 +853,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_4_16th {
+        public static byte[] arrow_4k_note_holdhitobject_4_16th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_16th", resourceCulture);
                 return ((byte[])(obj));
@@ -863,7 +863,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_4_2nd {
+        public static byte[] arrow_4k_note_holdhitobject_4_2nd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_2nd", resourceCulture);
                 return ((byte[])(obj));
@@ -873,7 +873,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_4_3rd {
+        public static byte[] arrow_4k_note_holdhitobject_4_3rd {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_3rd", resourceCulture);
                 return ((byte[])(obj));
@@ -883,7 +883,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_4_48th {
+        public static byte[] arrow_4k_note_holdhitobject_4_48th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_48th", resourceCulture);
                 return ((byte[])(obj));
@@ -893,7 +893,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_4_4th {
+        public static byte[] arrow_4k_note_holdhitobject_4_4th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_4th", resourceCulture);
                 return ((byte[])(obj));
@@ -903,7 +903,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_4_6th {
+        public static byte[] arrow_4k_note_holdhitobject_4_6th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_6th", resourceCulture);
                 return ((byte[])(obj));
@@ -913,7 +913,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_note_holdhitobject_4_8th {
+        public static byte[] arrow_4k_note_holdhitobject_4_8th {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_note_holdhitobject_4_8th", resourceCulture);
                 return ((byte[])(obj));
@@ -923,7 +923,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_receptor_down_1 {
+        public static byte[] arrow_4k_receptor_down_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_receptor_down_1", resourceCulture);
                 return ((byte[])(obj));
@@ -933,7 +933,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_receptor_down_2 {
+        public static byte[] arrow_4k_receptor_down_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_receptor_down_2", resourceCulture);
                 return ((byte[])(obj));
@@ -943,7 +943,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_receptor_down_3 {
+        public static byte[] arrow_4k_receptor_down_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_receptor_down_3", resourceCulture);
                 return ((byte[])(obj));
@@ -953,7 +953,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_receptor_down_4 {
+        public static byte[] arrow_4k_receptor_down_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_receptor_down_4", resourceCulture);
                 return ((byte[])(obj));
@@ -963,7 +963,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_receptor_up_1 {
+        public static byte[] arrow_4k_receptor_up_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_receptor_up_1", resourceCulture);
                 return ((byte[])(obj));
@@ -973,7 +973,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_receptor_up_2 {
+        public static byte[] arrow_4k_receptor_up_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_receptor_up_2", resourceCulture);
                 return ((byte[])(obj));
@@ -983,7 +983,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_receptor_up_3 {
+        public static byte[] arrow_4k_receptor_up_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_receptor_up_3", resourceCulture);
                 return ((byte[])(obj));
@@ -993,7 +993,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_receptor_up_4 {
+        public static byte[] arrow_4k_receptor_up_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_receptor_up_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1003,7 +1003,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_stage_bgmask {
+        public static byte[] arrow_4k_stage_bgmask {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_stage_bgmask", resourceCulture);
                 return ((byte[])(obj));
@@ -1013,7 +1013,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_stage_distant_overlay {
+        public static byte[] arrow_4k_stage_distant_overlay {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_stage_distant_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -1023,7 +1023,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_stage_hitposition_overlay {
+        public static byte[] arrow_4k_stage_hitposition_overlay {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_stage_hitposition_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -1033,7 +1033,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_stage_left_border {
+        public static byte[] arrow_4k_stage_left_border {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_stage_left_border", resourceCulture);
                 return ((byte[])(obj));
@@ -1043,7 +1043,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_stage_right_border {
+        public static byte[] arrow_4k_stage_right_border {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_stage_right_border", resourceCulture);
                 return ((byte[])(obj));
@@ -1053,7 +1053,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_4k_stage_timingbar {
+        public static byte[] arrow_4k_stage_timingbar {
             get {
                 object obj = ResourceManager.GetObject("arrow_4k_stage_timingbar", resourceCulture);
                 return ((byte[])(obj));
@@ -1063,7 +1063,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_column_lighting {
+        public static byte[] arrow_7k_column_lighting {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_column_lighting", resourceCulture);
                 return ((byte[])(obj));
@@ -1073,7 +1073,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_hitlighting_1x8 {
+        public static byte[] arrow_7k_hitlighting_1x8 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_hitlighting_1x8", resourceCulture);
                 return ((byte[])(obj));
@@ -1083,7 +1083,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_holdlighting_1x12 {
+        public static byte[] arrow_7k_holdlighting_1x12 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_holdlighting_1x12", resourceCulture);
                 return ((byte[])(obj));
@@ -1093,7 +1093,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_hitobject_1 {
+        public static byte[] arrow_7k_note_hitobject_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1103,7 +1103,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_hitobject_2 {
+        public static byte[] arrow_7k_note_hitobject_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1113,7 +1113,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_hitobject_3 {
+        public static byte[] arrow_7k_note_hitobject_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1123,7 +1123,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_hitobject_4 {
+        public static byte[] arrow_7k_note_hitobject_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1133,7 +1133,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_hitobject_5 {
+        public static byte[] arrow_7k_note_hitobject_5 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_5", resourceCulture);
                 return ((byte[])(obj));
@@ -1143,7 +1143,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_hitobject_6 {
+        public static byte[] arrow_7k_note_hitobject_6 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_6", resourceCulture);
                 return ((byte[])(obj));
@@ -1153,7 +1153,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_hitobject_7 {
+        public static byte[] arrow_7k_note_hitobject_7 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_hitobject_7", resourceCulture);
                 return ((byte[])(obj));
@@ -1163,7 +1163,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdbody_1 {
+        public static byte[] arrow_7k_note_holdbody_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1173,7 +1173,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdbody_2 {
+        public static byte[] arrow_7k_note_holdbody_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1183,7 +1183,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdbody_3 {
+        public static byte[] arrow_7k_note_holdbody_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1193,7 +1193,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdbody_4 {
+        public static byte[] arrow_7k_note_holdbody_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1203,7 +1203,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdbody_5 {
+        public static byte[] arrow_7k_note_holdbody_5 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_5", resourceCulture);
                 return ((byte[])(obj));
@@ -1213,7 +1213,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdbody_6 {
+        public static byte[] arrow_7k_note_holdbody_6 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_6", resourceCulture);
                 return ((byte[])(obj));
@@ -1223,7 +1223,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdbody_7 {
+        public static byte[] arrow_7k_note_holdbody_7 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdbody_7", resourceCulture);
                 return ((byte[])(obj));
@@ -1233,7 +1233,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdend_1 {
+        public static byte[] arrow_7k_note_holdend_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdend_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1243,7 +1243,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdend_2 {
+        public static byte[] arrow_7k_note_holdend_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdend_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1253,7 +1253,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdend_3 {
+        public static byte[] arrow_7k_note_holdend_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdend_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1263,7 +1263,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdend_4 {
+        public static byte[] arrow_7k_note_holdend_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdend_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1273,7 +1273,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdend_5 {
+        public static byte[] arrow_7k_note_holdend_5 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdend_5", resourceCulture);
                 return ((byte[])(obj));
@@ -1283,7 +1283,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdend_6 {
+        public static byte[] arrow_7k_note_holdend_6 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdend_6", resourceCulture);
                 return ((byte[])(obj));
@@ -1293,7 +1293,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdend_7 {
+        public static byte[] arrow_7k_note_holdend_7 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdend_7", resourceCulture);
                 return ((byte[])(obj));
@@ -1303,7 +1303,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdhitobject_1 {
+        public static byte[] arrow_7k_note_holdhitobject_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1313,7 +1313,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdhitobject_2 {
+        public static byte[] arrow_7k_note_holdhitobject_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1323,7 +1323,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdhitobject_3 {
+        public static byte[] arrow_7k_note_holdhitobject_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1333,7 +1333,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdhitobject_4 {
+        public static byte[] arrow_7k_note_holdhitobject_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1343,7 +1343,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdhitobject_5 {
+        public static byte[] arrow_7k_note_holdhitobject_5 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_5", resourceCulture);
                 return ((byte[])(obj));
@@ -1353,7 +1353,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdhitobject_6 {
+        public static byte[] arrow_7k_note_holdhitobject_6 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_6", resourceCulture);
                 return ((byte[])(obj));
@@ -1363,7 +1363,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_note_holdhitobject_7 {
+        public static byte[] arrow_7k_note_holdhitobject_7 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_note_holdhitobject_7", resourceCulture);
                 return ((byte[])(obj));
@@ -1373,7 +1373,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_down_1 {
+        public static byte[] arrow_7k_receptor_down_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_down_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1383,7 +1383,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_down_2 {
+        public static byte[] arrow_7k_receptor_down_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_down_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1393,7 +1393,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_down_3 {
+        public static byte[] arrow_7k_receptor_down_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_down_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1403,7 +1403,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_down_4 {
+        public static byte[] arrow_7k_receptor_down_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_down_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1413,7 +1413,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_down_5 {
+        public static byte[] arrow_7k_receptor_down_5 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_down_5", resourceCulture);
                 return ((byte[])(obj));
@@ -1423,7 +1423,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_down_6 {
+        public static byte[] arrow_7k_receptor_down_6 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_down_6", resourceCulture);
                 return ((byte[])(obj));
@@ -1433,7 +1433,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_down_7 {
+        public static byte[] arrow_7k_receptor_down_7 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_down_7", resourceCulture);
                 return ((byte[])(obj));
@@ -1443,7 +1443,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_up_1 {
+        public static byte[] arrow_7k_receptor_up_1 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_up_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1453,7 +1453,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_up_2 {
+        public static byte[] arrow_7k_receptor_up_2 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_up_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1463,7 +1463,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_up_3 {
+        public static byte[] arrow_7k_receptor_up_3 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_up_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1473,7 +1473,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_up_4 {
+        public static byte[] arrow_7k_receptor_up_4 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_up_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1483,7 +1483,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_up_5 {
+        public static byte[] arrow_7k_receptor_up_5 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_up_5", resourceCulture);
                 return ((byte[])(obj));
@@ -1493,7 +1493,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_up_6 {
+        public static byte[] arrow_7k_receptor_up_6 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_up_6", resourceCulture);
                 return ((byte[])(obj));
@@ -1503,7 +1503,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_receptor_up_7 {
+        public static byte[] arrow_7k_receptor_up_7 {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_receptor_up_7", resourceCulture);
                 return ((byte[])(obj));
@@ -1513,7 +1513,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_stage_bgmask {
+        public static byte[] arrow_7k_stage_bgmask {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_stage_bgmask", resourceCulture);
                 return ((byte[])(obj));
@@ -1523,7 +1523,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_stage_distant_overlay {
+        public static byte[] arrow_7k_stage_distant_overlay {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_stage_distant_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -1533,7 +1533,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_stage_hitposition_overlay {
+        public static byte[] arrow_7k_stage_hitposition_overlay {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_stage_hitposition_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -1543,7 +1543,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_stage_left_border {
+        public static byte[] arrow_7k_stage_left_border {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_stage_left_border", resourceCulture);
                 return ((byte[])(obj));
@@ -1553,7 +1553,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_stage_right_border {
+        public static byte[] arrow_7k_stage_right_border {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_stage_right_border", resourceCulture);
                 return ((byte[])(obj));
@@ -1563,7 +1563,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] arrow_7k_stage_timingbar {
+        public static byte[] arrow_7k_stage_timingbar {
             get {
                 object obj = ResourceManager.GetObject("arrow_7k_stage_timingbar", resourceCulture);
                 return ((byte[])(obj));
@@ -1573,7 +1573,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_column_lighting {
+        public static byte[] bar_4k_column_lighting {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_column_lighting", resourceCulture);
                 return ((byte[])(obj));
@@ -1583,7 +1583,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_hitlighting_1x8 {
+        public static byte[] bar_4k_hitlighting_1x8 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_hitlighting_1x8", resourceCulture);
                 return ((byte[])(obj));
@@ -1593,7 +1593,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_holdlighting_1x12 {
+        public static byte[] bar_4k_holdlighting_1x12 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_holdlighting_1x12", resourceCulture);
                 return ((byte[])(obj));
@@ -1603,7 +1603,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_hitobject_1 {
+        public static byte[] bar_4k_note_hitobject_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_hitobject_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1613,7 +1613,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_hitobject_2 {
+        public static byte[] bar_4k_note_hitobject_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_hitobject_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1623,7 +1623,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_hitobject_3 {
+        public static byte[] bar_4k_note_hitobject_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_hitobject_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1633,7 +1633,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_hitobject_4 {
+        public static byte[] bar_4k_note_hitobject_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_hitobject_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1643,7 +1643,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdbody_1 {
+        public static byte[] bar_4k_note_holdbody_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdbody_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1653,7 +1653,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdbody_2 {
+        public static byte[] bar_4k_note_holdbody_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdbody_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1663,7 +1663,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdbody_3 {
+        public static byte[] bar_4k_note_holdbody_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdbody_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1673,7 +1673,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdbody_4 {
+        public static byte[] bar_4k_note_holdbody_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdbody_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1683,7 +1683,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdend_1 {
+        public static byte[] bar_4k_note_holdend_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdend_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1693,7 +1693,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdend_2 {
+        public static byte[] bar_4k_note_holdend_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdend_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1703,7 +1703,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdend_3 {
+        public static byte[] bar_4k_note_holdend_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdend_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1713,7 +1713,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdend_4 {
+        public static byte[] bar_4k_note_holdend_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdend_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1723,7 +1723,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdhitobject_1 {
+        public static byte[] bar_4k_note_holdhitobject_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdhitobject_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1733,7 +1733,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdhitobject_2 {
+        public static byte[] bar_4k_note_holdhitobject_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdhitobject_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1743,7 +1743,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdhitobject_3 {
+        public static byte[] bar_4k_note_holdhitobject_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdhitobject_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1753,7 +1753,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_note_holdhitobject_4 {
+        public static byte[] bar_4k_note_holdhitobject_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_note_holdhitobject_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1763,7 +1763,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_receptor_down_1 {
+        public static byte[] bar_4k_receptor_down_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_receptor_down_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1773,7 +1773,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_receptor_down_2 {
+        public static byte[] bar_4k_receptor_down_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_receptor_down_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1783,7 +1783,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_receptor_down_3 {
+        public static byte[] bar_4k_receptor_down_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_receptor_down_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1793,7 +1793,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_receptor_down_4 {
+        public static byte[] bar_4k_receptor_down_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_receptor_down_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1803,7 +1803,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_receptor_up_1 {
+        public static byte[] bar_4k_receptor_up_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_receptor_up_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1813,7 +1813,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_receptor_up_2 {
+        public static byte[] bar_4k_receptor_up_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_receptor_up_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1823,7 +1823,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_receptor_up_3 {
+        public static byte[] bar_4k_receptor_up_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_receptor_up_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1833,7 +1833,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_receptor_up_4 {
+        public static byte[] bar_4k_receptor_up_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_receptor_up_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1843,7 +1843,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_stage_bgmask {
+        public static byte[] bar_4k_stage_bgmask {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_stage_bgmask", resourceCulture);
                 return ((byte[])(obj));
@@ -1853,7 +1853,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_stage_distant_overlay {
+        public static byte[] bar_4k_stage_distant_overlay {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_stage_distant_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -1863,7 +1863,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_stage_hitposition_overlay {
+        public static byte[] bar_4k_stage_hitposition_overlay {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_stage_hitposition_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -1873,7 +1873,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_stage_left_border {
+        public static byte[] bar_4k_stage_left_border {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_stage_left_border", resourceCulture);
                 return ((byte[])(obj));
@@ -1883,7 +1883,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_stage_right_border {
+        public static byte[] bar_4k_stage_right_border {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_stage_right_border", resourceCulture);
                 return ((byte[])(obj));
@@ -1893,7 +1893,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_4k_stage_timingbar {
+        public static byte[] bar_4k_stage_timingbar {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_stage_timingbar", resourceCulture);
                 return ((byte[])(obj));
@@ -1903,7 +1903,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_column_lighting {
+        public static byte[] bar_7k_column_lighting {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_column_lighting", resourceCulture);
                 return ((byte[])(obj));
@@ -1913,7 +1913,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_hitlighting_1x8 {
+        public static byte[] bar_7k_hitlighting_1x8 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_hitlighting_1x8", resourceCulture);
                 return ((byte[])(obj));
@@ -1923,7 +1923,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_holdlighting_1x12 {
+        public static byte[] bar_7k_holdlighting_1x12 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_holdlighting_1x12", resourceCulture);
                 return ((byte[])(obj));
@@ -1933,7 +1933,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_hitobject_1 {
+        public static byte[] bar_7k_note_hitobject_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_hitobject_1", resourceCulture);
                 return ((byte[])(obj));
@@ -1943,7 +1943,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_hitobject_2 {
+        public static byte[] bar_7k_note_hitobject_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_hitobject_2", resourceCulture);
                 return ((byte[])(obj));
@@ -1953,7 +1953,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_hitobject_3 {
+        public static byte[] bar_7k_note_hitobject_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_hitobject_3", resourceCulture);
                 return ((byte[])(obj));
@@ -1963,7 +1963,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_hitobject_4 {
+        public static byte[] bar_7k_note_hitobject_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_hitobject_4", resourceCulture);
                 return ((byte[])(obj));
@@ -1973,7 +1973,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_hitobject_5 {
+        public static byte[] bar_7k_note_hitobject_5 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_hitobject_5", resourceCulture);
                 return ((byte[])(obj));
@@ -1983,7 +1983,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_hitobject_6 {
+        public static byte[] bar_7k_note_hitobject_6 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_hitobject_6", resourceCulture);
                 return ((byte[])(obj));
@@ -1993,7 +1993,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_hitobject_7 {
+        public static byte[] bar_7k_note_hitobject_7 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_hitobject_7", resourceCulture);
                 return ((byte[])(obj));
@@ -2003,7 +2003,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdbody_1 {
+        public static byte[] bar_7k_note_holdbody_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdbody_1", resourceCulture);
                 return ((byte[])(obj));
@@ -2013,7 +2013,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdbody_2 {
+        public static byte[] bar_7k_note_holdbody_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdbody_2", resourceCulture);
                 return ((byte[])(obj));
@@ -2023,7 +2023,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdbody_3 {
+        public static byte[] bar_7k_note_holdbody_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdbody_3", resourceCulture);
                 return ((byte[])(obj));
@@ -2033,7 +2033,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdbody_4 {
+        public static byte[] bar_7k_note_holdbody_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdbody_4", resourceCulture);
                 return ((byte[])(obj));
@@ -2043,7 +2043,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdbody_5 {
+        public static byte[] bar_7k_note_holdbody_5 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdbody_5", resourceCulture);
                 return ((byte[])(obj));
@@ -2053,7 +2053,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdbody_6 {
+        public static byte[] bar_7k_note_holdbody_6 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdbody_6", resourceCulture);
                 return ((byte[])(obj));
@@ -2063,7 +2063,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdbody_7 {
+        public static byte[] bar_7k_note_holdbody_7 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdbody_7", resourceCulture);
                 return ((byte[])(obj));
@@ -2073,7 +2073,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdend_1 {
+        public static byte[] bar_7k_note_holdend_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdend_1", resourceCulture);
                 return ((byte[])(obj));
@@ -2083,7 +2083,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdend_2 {
+        public static byte[] bar_7k_note_holdend_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdend_2", resourceCulture);
                 return ((byte[])(obj));
@@ -2093,7 +2093,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdend_3 {
+        public static byte[] bar_7k_note_holdend_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdend_3", resourceCulture);
                 return ((byte[])(obj));
@@ -2103,7 +2103,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdend_4 {
+        public static byte[] bar_7k_note_holdend_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdend_4", resourceCulture);
                 return ((byte[])(obj));
@@ -2113,7 +2113,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdend_5 {
+        public static byte[] bar_7k_note_holdend_5 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdend_5", resourceCulture);
                 return ((byte[])(obj));
@@ -2123,7 +2123,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdend_6 {
+        public static byte[] bar_7k_note_holdend_6 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdend_6", resourceCulture);
                 return ((byte[])(obj));
@@ -2133,7 +2133,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdend_7 {
+        public static byte[] bar_7k_note_holdend_7 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdend_7", resourceCulture);
                 return ((byte[])(obj));
@@ -2143,7 +2143,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdhitobject_1 {
+        public static byte[] bar_7k_note_holdhitobject_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdhitobject_1", resourceCulture);
                 return ((byte[])(obj));
@@ -2153,7 +2153,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdhitobject_2 {
+        public static byte[] bar_7k_note_holdhitobject_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdhitobject_2", resourceCulture);
                 return ((byte[])(obj));
@@ -2163,7 +2163,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdhitobject_3 {
+        public static byte[] bar_7k_note_holdhitobject_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdhitobject_3", resourceCulture);
                 return ((byte[])(obj));
@@ -2173,7 +2173,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdhitobject_4 {
+        public static byte[] bar_7k_note_holdhitobject_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdhitobject_4", resourceCulture);
                 return ((byte[])(obj));
@@ -2183,7 +2183,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdhitobject_5 {
+        public static byte[] bar_7k_note_holdhitobject_5 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdhitobject_5", resourceCulture);
                 return ((byte[])(obj));
@@ -2193,7 +2193,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdhitobject_6 {
+        public static byte[] bar_7k_note_holdhitobject_6 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdhitobject_6", resourceCulture);
                 return ((byte[])(obj));
@@ -2203,7 +2203,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_note_holdhitobject_7 {
+        public static byte[] bar_7k_note_holdhitobject_7 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_note_holdhitobject_7", resourceCulture);
                 return ((byte[])(obj));
@@ -2213,7 +2213,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_down_1 {
+        public static byte[] bar_7k_receptor_down_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_down_1", resourceCulture);
                 return ((byte[])(obj));
@@ -2223,7 +2223,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_down_2 {
+        public static byte[] bar_7k_receptor_down_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_down_2", resourceCulture);
                 return ((byte[])(obj));
@@ -2233,7 +2233,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_down_3 {
+        public static byte[] bar_7k_receptor_down_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_down_3", resourceCulture);
                 return ((byte[])(obj));
@@ -2243,7 +2243,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_down_4 {
+        public static byte[] bar_7k_receptor_down_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_down_4", resourceCulture);
                 return ((byte[])(obj));
@@ -2253,7 +2253,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_down_5 {
+        public static byte[] bar_7k_receptor_down_5 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_down_5", resourceCulture);
                 return ((byte[])(obj));
@@ -2263,7 +2263,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_down_6 {
+        public static byte[] bar_7k_receptor_down_6 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_down_6", resourceCulture);
                 return ((byte[])(obj));
@@ -2273,7 +2273,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_down_7 {
+        public static byte[] bar_7k_receptor_down_7 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_down_7", resourceCulture);
                 return ((byte[])(obj));
@@ -2283,7 +2283,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_up_1 {
+        public static byte[] bar_7k_receptor_up_1 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_up_1", resourceCulture);
                 return ((byte[])(obj));
@@ -2293,7 +2293,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_up_2 {
+        public static byte[] bar_7k_receptor_up_2 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_up_2", resourceCulture);
                 return ((byte[])(obj));
@@ -2303,7 +2303,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_up_3 {
+        public static byte[] bar_7k_receptor_up_3 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_up_3", resourceCulture);
                 return ((byte[])(obj));
@@ -2313,7 +2313,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_up_4 {
+        public static byte[] bar_7k_receptor_up_4 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_up_4", resourceCulture);
                 return ((byte[])(obj));
@@ -2323,7 +2323,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_up_5 {
+        public static byte[] bar_7k_receptor_up_5 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_up_5", resourceCulture);
                 return ((byte[])(obj));
@@ -2333,7 +2333,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_up_6 {
+        public static byte[] bar_7k_receptor_up_6 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_up_6", resourceCulture);
                 return ((byte[])(obj));
@@ -2343,7 +2343,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_receptor_up_7 {
+        public static byte[] bar_7k_receptor_up_7 {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_receptor_up_7", resourceCulture);
                 return ((byte[])(obj));
@@ -2353,7 +2353,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_stage_bgmask {
+        public static byte[] bar_7k_stage_bgmask {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_stage_bgmask", resourceCulture);
                 return ((byte[])(obj));
@@ -2363,7 +2363,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_stage_distant_overlay {
+        public static byte[] bar_7k_stage_distant_overlay {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_stage_distant_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -2373,7 +2373,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_stage_hitposition_overlay {
+        public static byte[] bar_7k_stage_hitposition_overlay {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_stage_hitposition_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -2383,7 +2383,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_stage_left_border {
+        public static byte[] bar_7k_stage_left_border {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_stage_left_border", resourceCulture);
                 return ((byte[])(obj));
@@ -2393,7 +2393,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_stage_right_border {
+        public static byte[] bar_7k_stage_right_border {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_stage_right_border", resourceCulture);
                 return ((byte[])(obj));
@@ -2403,7 +2403,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_7k_stage_timingbar {
+        public static byte[] bar_7k_stage_timingbar {
             get {
                 object obj = ResourceManager.GetObject("bar_7k_stage_timingbar", resourceCulture);
                 return ((byte[])(obj));
@@ -2413,7 +2413,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_cap {
+        public static byte[] bar_cap {
             get {
                 object obj = ResourceManager.GetObject("bar_cap", resourceCulture);
                 return ((byte[])(obj));
@@ -2423,7 +2423,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] bar_corner {
+        public static byte[] bar_corner {
             get {
                 object obj = ResourceManager.GetObject("bar_corner", resourceCulture);
                 return ((byte[])(obj));
@@ -2433,7 +2433,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] blank_box {
+        public static byte[] blank_box {
             get {
                 object obj = ResourceManager.GetObject("blank_box", resourceCulture);
                 return ((byte[])(obj));
@@ -2443,7 +2443,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] close_channel_button {
+        public static byte[] close_channel_button {
             get {
                 object obj = ResourceManager.GetObject("close_channel_button", resourceCulture);
                 return ((byte[])(obj));
@@ -2453,7 +2453,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_0 {
+        public static byte[] combo_0 {
             get {
                 object obj = ResourceManager.GetObject("combo_0", resourceCulture);
                 return ((byte[])(obj));
@@ -2463,7 +2463,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_1 {
+        public static byte[] combo_1 {
             get {
                 object obj = ResourceManager.GetObject("combo_1", resourceCulture);
                 return ((byte[])(obj));
@@ -2473,7 +2473,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_2 {
+        public static byte[] combo_2 {
             get {
                 object obj = ResourceManager.GetObject("combo_2", resourceCulture);
                 return ((byte[])(obj));
@@ -2483,7 +2483,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_3 {
+        public static byte[] combo_3 {
             get {
                 object obj = ResourceManager.GetObject("combo_3", resourceCulture);
                 return ((byte[])(obj));
@@ -2493,7 +2493,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_4 {
+        public static byte[] combo_4 {
             get {
                 object obj = ResourceManager.GetObject("combo_4", resourceCulture);
                 return ((byte[])(obj));
@@ -2503,7 +2503,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_5 {
+        public static byte[] combo_5 {
             get {
                 object obj = ResourceManager.GetObject("combo_5", resourceCulture);
                 return ((byte[])(obj));
@@ -2513,7 +2513,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_6 {
+        public static byte[] combo_6 {
             get {
                 object obj = ResourceManager.GetObject("combo_6", resourceCulture);
                 return ((byte[])(obj));
@@ -2523,7 +2523,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_7 {
+        public static byte[] combo_7 {
             get {
                 object obj = ResourceManager.GetObject("combo_7", resourceCulture);
                 return ((byte[])(obj));
@@ -2533,7 +2533,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_8 {
+        public static byte[] combo_8 {
             get {
                 object obj = ResourceManager.GetObject("combo_8", resourceCulture);
                 return ((byte[])(obj));
@@ -2543,7 +2543,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] combo_9 {
+        public static byte[] combo_9 {
             get {
                 object obj = ResourceManager.GetObject("combo_9", resourceCulture);
                 return ((byte[])(obj));
@@ -2553,7 +2553,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] connecting_background {
+        public static byte[] connecting_background {
             get {
                 object obj = ResourceManager.GetObject("connecting_background", resourceCulture);
                 return ((byte[])(obj));
@@ -2563,7 +2563,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] diff_button {
+        public static byte[] diff_button {
             get {
                 object obj = ResourceManager.GetObject("diff_button", resourceCulture);
                 return ((byte[])(obj));
@@ -2573,7 +2573,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] diff_button_inactive {
+        public static byte[] diff_button_inactive {
             get {
                 object obj = ResourceManager.GetObject("diff_button_inactive", resourceCulture);
                 return ((byte[])(obj));
@@ -2583,7 +2583,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] diff_select_button {
+        public static byte[] diff_select_button {
             get {
                 object obj = ResourceManager.GetObject("diff_select_button", resourceCulture);
                 return ((byte[])(obj));
@@ -2593,7 +2593,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] diff_select_mask {
+        public static byte[] diff_select_mask {
             get {
                 object obj = ResourceManager.GetObject("diff_select_mask", resourceCulture);
                 return ((byte[])(obj));
@@ -2603,7 +2603,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo_bold_24 {
+        public static byte[] exo_bold_24 {
             get {
                 object obj = ResourceManager.GetObject("exo_bold_24", resourceCulture);
                 return ((byte[])(obj));
@@ -2613,7 +2613,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo_bolditalic_24 {
+        public static byte[] exo_bolditalic_24 {
             get {
                 object obj = ResourceManager.GetObject("exo_bolditalic_24", resourceCulture);
                 return ((byte[])(obj));
@@ -2623,7 +2623,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo_extrabold_24 {
+        public static byte[] exo_extrabold_24 {
             get {
                 object obj = ResourceManager.GetObject("exo_extrabold_24", resourceCulture);
                 return ((byte[])(obj));
@@ -2633,7 +2633,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo_italic_24 {
+        public static byte[] exo_italic_24 {
             get {
                 object obj = ResourceManager.GetObject("exo_italic_24", resourceCulture);
                 return ((byte[])(obj));
@@ -2643,7 +2643,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_bold {
+        public static byte[] exo2_bold {
             get {
                 object obj = ResourceManager.GetObject("exo2_bold", resourceCulture);
                 return ((byte[])(obj));
@@ -2653,7 +2653,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_bolditalic {
+        public static byte[] exo2_bolditalic {
             get {
                 object obj = ResourceManager.GetObject("exo2_bolditalic", resourceCulture);
                 return ((byte[])(obj));
@@ -2663,7 +2663,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_italic {
+        public static byte[] exo2_italic {
             get {
                 object obj = ResourceManager.GetObject("exo2_italic", resourceCulture);
                 return ((byte[])(obj));
@@ -2673,7 +2673,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_light {
+        public static byte[] exo2_light {
             get {
                 object obj = ResourceManager.GetObject("exo2_light", resourceCulture);
                 return ((byte[])(obj));
@@ -2683,7 +2683,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_medium {
+        public static byte[] exo2_medium {
             get {
                 object obj = ResourceManager.GetObject("exo2_medium", resourceCulture);
                 return ((byte[])(obj));
@@ -2693,7 +2693,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_mediumitalic {
+        public static byte[] exo2_mediumitalic {
             get {
                 object obj = ResourceManager.GetObject("exo2_mediumitalic", resourceCulture);
                 return ((byte[])(obj));
@@ -2703,7 +2703,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_regular {
+        public static byte[] exo2_regular {
             get {
                 object obj = ResourceManager.GetObject("exo2_regular", resourceCulture);
                 return ((byte[])(obj));
@@ -2713,7 +2713,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_regular_24 {
+        public static byte[] exo2_regular_24 {
             get {
                 object obj = ResourceManager.GetObject("exo2_regular_24", resourceCulture);
                 return ((byte[])(obj));
@@ -2723,7 +2723,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_semibold {
+        public static byte[] exo2_semibold {
             get {
                 object obj = ResourceManager.GetObject("exo2_semibold", resourceCulture);
                 return ((byte[])(obj));
@@ -2733,7 +2733,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_semibolditalic {
+        public static byte[] exo2_semibolditalic {
             get {
                 object obj = ResourceManager.GetObject("exo2_semibolditalic", resourceCulture);
                 return ((byte[])(obj));
@@ -2743,7 +2743,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_thin {
+        public static byte[] exo2_thin {
             get {
                 object obj = ResourceManager.GetObject("exo2_thin", resourceCulture);
                 return ((byte[])(obj));
@@ -2753,7 +2753,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] exo2_thinitalic {
+        public static byte[] exo2_thinitalic {
             get {
                 object obj = ResourceManager.GetObject("exo2_thinitalic", resourceCulture);
                 return ((byte[])(obj));
@@ -2763,7 +2763,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_add_square_button {
+        public static byte[] fa_add_square_button {
             get {
                 object obj = ResourceManager.GetObject("fa_add_square_button", resourceCulture);
                 return ((byte[])(obj));
@@ -2773,7 +2773,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_adjust_contrast {
+        public static byte[] fa_adjust_contrast {
             get {
                 object obj = ResourceManager.GetObject("fa_adjust_contrast", resourceCulture);
                 return ((byte[])(obj));
@@ -2783,7 +2783,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_align_justify {
+        public static byte[] fa_align_justify {
             get {
                 object obj = ResourceManager.GetObject("fa_align_justify", resourceCulture);
                 return ((byte[])(obj));
@@ -2793,7 +2793,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_align_to_left {
+        public static byte[] fa_align_to_left {
             get {
                 object obj = ResourceManager.GetObject("fa_align_to_left", resourceCulture);
                 return ((byte[])(obj));
@@ -2803,7 +2803,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_align_to_right {
+        public static byte[] fa_align_to_right {
             get {
                 object obj = ResourceManager.GetObject("fa_align_to_right", resourceCulture);
                 return ((byte[])(obj));
@@ -2813,7 +2813,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_ambulance {
+        public static byte[] fa_ambulance {
             get {
                 object obj = ResourceManager.GetObject("fa_ambulance", resourceCulture);
                 return ((byte[])(obj));
@@ -2823,7 +2823,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_anchor_shape {
+        public static byte[] fa_anchor_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_anchor_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -2833,7 +2833,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_android_character_symbol {
+        public static byte[] fa_android_character_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_android_character_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -2843,7 +2843,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_angle_arrow_down {
+        public static byte[] fa_angle_arrow_down {
             get {
                 object obj = ResourceManager.GetObject("fa_angle_arrow_down", resourceCulture);
                 return ((byte[])(obj));
@@ -2853,7 +2853,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_angle_arrow_pointing_to_right {
+        public static byte[] fa_angle_arrow_pointing_to_right {
             get {
                 object obj = ResourceManager.GetObject("fa_angle_arrow_pointing_to_right", resourceCulture);
                 return ((byte[])(obj));
@@ -2863,7 +2863,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_angle_pointing_to_left {
+        public static byte[] fa_angle_pointing_to_left {
             get {
                 object obj = ResourceManager.GetObject("fa_angle_pointing_to_left", resourceCulture);
                 return ((byte[])(obj));
@@ -2873,7 +2873,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_apple_logo {
+        public static byte[] fa_apple_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_apple_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -2883,7 +2883,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_archive_black_box {
+        public static byte[] fa_archive_black_box {
             get {
                 object obj = ResourceManager.GetObject("fa_archive_black_box", resourceCulture);
                 return ((byte[])(obj));
@@ -2893,7 +2893,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrow_angle_pointing_down {
+        public static byte[] fa_arrow_angle_pointing_down {
             get {
                 object obj = ResourceManager.GetObject("fa_arrow_angle_pointing_down", resourceCulture);
                 return ((byte[])(obj));
@@ -2903,7 +2903,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrow_down_on_black_circular_background {
+        public static byte[] fa_arrow_down_on_black_circular_background {
             get {
                 object obj = ResourceManager.GetObject("fa_arrow_down_on_black_circular_background", resourceCulture);
                 return ((byte[])(obj));
@@ -2913,7 +2913,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrow_pointing_down {
+        public static byte[] fa_arrow_pointing_down {
             get {
                 object obj = ResourceManager.GetObject("fa_arrow_pointing_down", resourceCulture);
                 return ((byte[])(obj));
@@ -2923,7 +2923,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrow_pointing_right_in_a_circle {
+        public static byte[] fa_arrow_pointing_right_in_a_circle {
             get {
                 object obj = ResourceManager.GetObject("fa_arrow_pointing_right_in_a_circle", resourceCulture);
                 return ((byte[])(obj));
@@ -2933,7 +2933,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrow_pointing_to_left {
+        public static byte[] fa_arrow_pointing_to_left {
             get {
                 object obj = ResourceManager.GetObject("fa_arrow_pointing_to_left", resourceCulture);
                 return ((byte[])(obj));
@@ -2943,7 +2943,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrow_pointing_to_right {
+        public static byte[] fa_arrow_pointing_to_right {
             get {
                 object obj = ResourceManager.GetObject("fa_arrow_pointing_to_right", resourceCulture);
                 return ((byte[])(obj));
@@ -2953,7 +2953,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrow_up {
+        public static byte[] fa_arrow_up {
             get {
                 object obj = ResourceManager.GetObject("fa_arrow_up", resourceCulture);
                 return ((byte[])(obj));
@@ -2963,7 +2963,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrow_up_on_a_black_circle_background {
+        public static byte[] fa_arrow_up_on_a_black_circle_background {
             get {
                 object obj = ResourceManager.GetObject("fa_arrow_up_on_a_black_circle_background", resourceCulture);
                 return ((byte[])(obj));
@@ -2973,7 +2973,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrowhead_pointing_to_the_right {
+        public static byte[] fa_arrowhead_pointing_to_the_right {
             get {
                 object obj = ResourceManager.GetObject("fa_arrowhead_pointing_to_the_right", resourceCulture);
                 return ((byte[])(obj));
@@ -2983,7 +2983,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrowhead_pointing_up_inside_a_square_box_outline {
+        public static byte[] fa_arrowhead_pointing_up_inside_a_square_box_outline {
             get {
                 object obj = ResourceManager.GetObject("fa_arrowhead_pointing_up_inside_a_square_box_outline", resourceCulture);
                 return ((byte[])(obj));
@@ -2993,7 +2993,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_arrowheads_pointing_to_the_left {
+        public static byte[] fa_arrowheads_pointing_to_the_left {
             get {
                 object obj = ResourceManager.GetObject("fa_arrowheads_pointing_to_the_left", resourceCulture);
                 return ((byte[])(obj));
@@ -3003,7 +3003,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_asterisk {
+        public static byte[] fa_asterisk {
             get {
                 object obj = ResourceManager.GetObject("fa_asterisk", resourceCulture);
                 return ((byte[])(obj));
@@ -3013,7 +3013,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_ban_circle_symbol {
+        public static byte[] fa_ban_circle_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_ban_circle_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3023,7 +3023,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bar_graph_on_a_rectangle {
+        public static byte[] fa_bar_graph_on_a_rectangle {
             get {
                 object obj = ResourceManager.GetObject("fa_bar_graph_on_a_rectangle", resourceCulture);
                 return ((byte[])(obj));
@@ -3033,7 +3033,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_barcode {
+        public static byte[] fa_barcode {
             get {
                 object obj = ResourceManager.GetObject("fa_barcode", resourceCulture);
                 return ((byte[])(obj));
@@ -3043,7 +3043,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_beaker {
+        public static byte[] fa_beaker {
             get {
                 object obj = ResourceManager.GetObject("fa_beaker", resourceCulture);
                 return ((byte[])(obj));
@@ -3053,7 +3053,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_beer_jar_black_silhouette {
+        public static byte[] fa_beer_jar_black_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_beer_jar_black_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -3063,7 +3063,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bell_musical_tool {
+        public static byte[] fa_bell_musical_tool {
             get {
                 object obj = ResourceManager.GetObject("fa_bell_musical_tool", resourceCulture);
                 return ((byte[])(obj));
@@ -3073,7 +3073,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bitbucket_logotype_camera_lens_in_perspective {
+        public static byte[] fa_bitbucket_logotype_camera_lens_in_perspective {
             get {
                 object obj = ResourceManager.GetObject("fa_bitbucket_logotype_camera_lens_in_perspective", resourceCulture);
                 return ((byte[])(obj));
@@ -3083,7 +3083,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bitbucket_sign {
+        public static byte[] fa_bitbucket_sign {
             get {
                 object obj = ResourceManager.GetObject("fa_bitbucket_sign", resourceCulture);
                 return ((byte[])(obj));
@@ -3093,7 +3093,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bitcoin_logo {
+        public static byte[] fa_bitcoin_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_bitcoin_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -3103,7 +3103,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_blank_file {
+        public static byte[] fa_blank_file {
             get {
                 object obj = ResourceManager.GetObject("fa_blank_file", resourceCulture);
                 return ((byte[])(obj));
@@ -3113,7 +3113,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bold_text_option {
+        public static byte[] fa_bold_text_option {
             get {
                 object obj = ResourceManager.GetObject("fa_bold_text_option", resourceCulture);
                 return ((byte[])(obj));
@@ -3123,7 +3123,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_book {
+        public static byte[] fa_book {
             get {
                 object obj = ResourceManager.GetObject("fa_book", resourceCulture);
                 return ((byte[])(obj));
@@ -3133,7 +3133,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bookmark_black_shape {
+        public static byte[] fa_bookmark_black_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_bookmark_black_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -3143,7 +3143,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bookmark_white {
+        public static byte[] fa_bookmark_white {
             get {
                 object obj = ResourceManager.GetObject("fa_bookmark_white", resourceCulture);
                 return ((byte[])(obj));
@@ -3153,7 +3153,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_branch_with_leaves_black_shape {
+        public static byte[] fa_branch_with_leaves_black_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_branch_with_leaves_black_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -3163,7 +3163,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_briefcase {
+        public static byte[] fa_briefcase {
             get {
                 object obj = ResourceManager.GetObject("fa_briefcase", resourceCulture);
                 return ((byte[])(obj));
@@ -3173,7 +3173,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bug {
+        public static byte[] fa_bug {
             get {
                 object obj = ResourceManager.GetObject("fa_bug", resourceCulture);
                 return ((byte[])(obj));
@@ -3183,7 +3183,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_building_front {
+        public static byte[] fa_building_front {
             get {
                 object obj = ResourceManager.GetObject("fa_building_front", resourceCulture);
                 return ((byte[])(obj));
@@ -3193,7 +3193,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bull_horn_announcer {
+        public static byte[] fa_bull_horn_announcer {
             get {
                 object obj = ResourceManager.GetObject("fa_bull_horn_announcer", resourceCulture);
                 return ((byte[])(obj));
@@ -3203,7 +3203,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_bullseye {
+        public static byte[] fa_bullseye {
             get {
                 object obj = ResourceManager.GetObject("fa_bullseye", resourceCulture);
                 return ((byte[])(obj));
@@ -3213,7 +3213,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_calendar_page_empty {
+        public static byte[] fa_calendar_page_empty {
             get {
                 object obj = ResourceManager.GetObject("fa_calendar_page_empty", resourceCulture);
                 return ((byte[])(obj));
@@ -3223,7 +3223,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_calendar_with_spring_binder_and_date_blocks {
+        public static byte[] fa_calendar_with_spring_binder_and_date_blocks {
             get {
                 object obj = ResourceManager.GetObject("fa_calendar_with_spring_binder_and_date_blocks", resourceCulture);
                 return ((byte[])(obj));
@@ -3233,7 +3233,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_camera_retro {
+        public static byte[] fa_camera_retro {
             get {
                 object obj = ResourceManager.GetObject("fa_camera_retro", resourceCulture);
                 return ((byte[])(obj));
@@ -3243,7 +3243,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_caret_arrow_up {
+        public static byte[] fa_caret_arrow_up {
             get {
                 object obj = ResourceManager.GetObject("fa_caret_arrow_up", resourceCulture);
                 return ((byte[])(obj));
@@ -3253,7 +3253,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_caret_down {
+        public static byte[] fa_caret_down {
             get {
                 object obj = ResourceManager.GetObject("fa_caret_down", resourceCulture);
                 return ((byte[])(obj));
@@ -3263,7 +3263,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_center_text_alignment {
+        public static byte[] fa_center_text_alignment {
             get {
                 object obj = ResourceManager.GetObject("fa_center_text_alignment", resourceCulture);
                 return ((byte[])(obj));
@@ -3273,7 +3273,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_certificate_shape {
+        public static byte[] fa_certificate_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_certificate_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -3283,7 +3283,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_check {
+        public static byte[] fa_check {
             get {
                 object obj = ResourceManager.GetObject("fa_check", resourceCulture);
                 return ((byte[])(obj));
@@ -3293,7 +3293,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_check_box_empty {
+        public static byte[] fa_check_box_empty {
             get {
                 object obj = ResourceManager.GetObject("fa_check_box_empty", resourceCulture);
                 return ((byte[])(obj));
@@ -3303,7 +3303,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_check_mark {
+        public static byte[] fa_check_mark {
             get {
                 object obj = ResourceManager.GetObject("fa_check_mark", resourceCulture);
                 return ((byte[])(obj));
@@ -3313,7 +3313,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_check_sign_in_a_rounded_black_square {
+        public static byte[] fa_check_sign_in_a_rounded_black_square {
             get {
                 object obj = ResourceManager.GetObject("fa_check_sign_in_a_rounded_black_square", resourceCulture);
                 return ((byte[])(obj));
@@ -3323,7 +3323,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_checked_symbol {
+        public static byte[] fa_checked_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_checked_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3333,7 +3333,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_checkered_raised_flag {
+        public static byte[] fa_checkered_raised_flag {
             get {
                 object obj = ResourceManager.GetObject("fa_checkered_raised_flag", resourceCulture);
                 return ((byte[])(obj));
@@ -3343,7 +3343,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_chevron_arrow_down {
+        public static byte[] fa_chevron_arrow_down {
             get {
                 object obj = ResourceManager.GetObject("fa_chevron_arrow_down", resourceCulture);
                 return ((byte[])(obj));
@@ -3353,7 +3353,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_chevron_arrow_up {
+        public static byte[] fa_chevron_arrow_up {
             get {
                 object obj = ResourceManager.GetObject("fa_chevron_arrow_up", resourceCulture);
                 return ((byte[])(obj));
@@ -3363,7 +3363,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_chevron_pointing_to_the_left {
+        public static byte[] fa_chevron_pointing_to_the_left {
             get {
                 object obj = ResourceManager.GetObject("fa_chevron_pointing_to_the_left", resourceCulture);
                 return ((byte[])(obj));
@@ -3373,7 +3373,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_chevron_sign_down {
+        public static byte[] fa_chevron_sign_down {
             get {
                 object obj = ResourceManager.GetObject("fa_chevron_sign_down", resourceCulture);
                 return ((byte[])(obj));
@@ -3383,7 +3383,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_chevron_sign_left {
+        public static byte[] fa_chevron_sign_left {
             get {
                 object obj = ResourceManager.GetObject("fa_chevron_sign_left", resourceCulture);
                 return ((byte[])(obj));
@@ -3393,7 +3393,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_chevron_sign_to_right {
+        public static byte[] fa_chevron_sign_to_right {
             get {
                 object obj = ResourceManager.GetObject("fa_chevron_sign_to_right", resourceCulture);
                 return ((byte[])(obj));
@@ -3403,7 +3403,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_chevron_up {
+        public static byte[] fa_chevron_up {
             get {
                 object obj = ResourceManager.GetObject("fa_chevron_up", resourceCulture);
                 return ((byte[])(obj));
@@ -3413,7 +3413,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_circle {
+        public static byte[] fa_circle {
             get {
                 object obj = ResourceManager.GetObject("fa_circle", resourceCulture);
                 return ((byte[])(obj));
@@ -3423,7 +3423,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_circle_shape_outline {
+        public static byte[] fa_circle_shape_outline {
             get {
                 object obj = ResourceManager.GetObject("fa_circle_shape_outline", resourceCulture);
                 return ((byte[])(obj));
@@ -3433,7 +3433,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_circle_with_an_arrow_pointing_to_left {
+        public static byte[] fa_circle_with_an_arrow_pointing_to_left {
             get {
                 object obj = ResourceManager.GetObject("fa_circle_with_an_arrow_pointing_to_left", resourceCulture);
                 return ((byte[])(obj));
@@ -3443,7 +3443,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_circular_shape_silhouette {
+        public static byte[] fa_circular_shape_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_circular_shape_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -3453,7 +3453,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_cloud_storage_download {
+        public static byte[] fa_cloud_storage_download {
             get {
                 object obj = ResourceManager.GetObject("fa_cloud_storage_download", resourceCulture);
                 return ((byte[])(obj));
@@ -3463,7 +3463,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_cloud_storage_uploading_option {
+        public static byte[] fa_cloud_storage_uploading_option {
             get {
                 object obj = ResourceManager.GetObject("fa_cloud_storage_uploading_option", resourceCulture);
                 return ((byte[])(obj));
@@ -3473,7 +3473,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_cocktail_glass {
+        public static byte[] fa_cocktail_glass {
             get {
                 object obj = ResourceManager.GetObject("fa_cocktail_glass", resourceCulture);
                 return ((byte[])(obj));
@@ -3483,7 +3483,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_code {
+        public static byte[] fa_code {
             get {
                 object obj = ResourceManager.GetObject("fa_code", resourceCulture);
                 return ((byte[])(obj));
@@ -3493,7 +3493,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_code_fork_symbol {
+        public static byte[] fa_code_fork_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_code_fork_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3503,7 +3503,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_coffee_cup_on_a_plate_black_silhouettes {
+        public static byte[] fa_coffee_cup_on_a_plate_black_silhouettes {
             get {
                 object obj = ResourceManager.GetObject("fa_coffee_cup_on_a_plate_black_silhouettes", resourceCulture);
                 return ((byte[])(obj));
@@ -3513,7 +3513,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_cog_wheel_silhouette {
+        public static byte[] fa_cog_wheel_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_cog_wheel_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -3523,7 +3523,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_collapse_window_option {
+        public static byte[] fa_collapse_window_option {
             get {
                 object obj = ResourceManager.GetObject("fa_collapse_window_option", resourceCulture);
                 return ((byte[])(obj));
@@ -3533,7 +3533,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_comment_black_oval_bubble_shape {
+        public static byte[] fa_comment_black_oval_bubble_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_comment_black_oval_bubble_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -3543,7 +3543,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_comment_white_oval_bubble {
+        public static byte[] fa_comment_white_oval_bubble {
             get {
                 object obj = ResourceManager.GetObject("fa_comment_white_oval_bubble", resourceCulture);
                 return ((byte[])(obj));
@@ -3553,7 +3553,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_comments {
+        public static byte[] fa_comments {
             get {
                 object obj = ResourceManager.GetObject("fa_comments", resourceCulture);
                 return ((byte[])(obj));
@@ -3563,7 +3563,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_compass_circular_variant {
+        public static byte[] fa_compass_circular_variant {
             get {
                 object obj = ResourceManager.GetObject("fa_compass_circular_variant", resourceCulture);
                 return ((byte[])(obj));
@@ -3573,7 +3573,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_computer_tablet {
+        public static byte[] fa_computer_tablet {
             get {
                 object obj = ResourceManager.GetObject("fa_computer_tablet", resourceCulture);
                 return ((byte[])(obj));
@@ -3583,7 +3583,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_copy_document {
+        public static byte[] fa_copy_document {
             get {
                 object obj = ResourceManager.GetObject("fa_copy_document", resourceCulture);
                 return ((byte[])(obj));
@@ -3593,7 +3593,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_correct_symbol {
+        public static byte[] fa_correct_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_correct_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3603,7 +3603,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_couple_of_arrows_changing_places {
+        public static byte[] fa_couple_of_arrows_changing_places {
             get {
                 object obj = ResourceManager.GetObject("fa_couple_of_arrows_changing_places", resourceCulture);
                 return ((byte[])(obj));
@@ -3613,7 +3613,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_credit_card {
+        public static byte[] fa_credit_card {
             get {
                 object obj = ResourceManager.GetObject("fa_credit_card", resourceCulture);
                 return ((byte[])(obj));
@@ -3623,7 +3623,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_crop_symbol {
+        public static byte[] fa_crop_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_crop_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3633,7 +3633,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_cross_mark_on_a_black_circle_background {
+        public static byte[] fa_cross_mark_on_a_black_circle_background {
             get {
                 object obj = ResourceManager.GetObject("fa_cross_mark_on_a_black_circle_background", resourceCulture);
                 return ((byte[])(obj));
@@ -3643,7 +3643,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_css_3_logo {
+        public static byte[] fa_css_3_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_css_3_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -3653,7 +3653,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_cursor {
+        public static byte[] fa_cursor {
             get {
                 object obj = ResourceManager.GetObject("fa_cursor", resourceCulture);
                 return ((byte[])(obj));
@@ -3663,7 +3663,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_cut {
+        public static byte[] fa_cut {
             get {
                 object obj = ResourceManager.GetObject("fa_cut", resourceCulture);
                 return ((byte[])(obj));
@@ -3673,7 +3673,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_dashboard {
+        public static byte[] fa_dashboard {
             get {
                 object obj = ResourceManager.GetObject("fa_dashboard", resourceCulture);
                 return ((byte[])(obj));
@@ -3683,7 +3683,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_delivery_truck_silhouette {
+        public static byte[] fa_delivery_truck_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_delivery_truck_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -3693,7 +3693,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_desktop_monitor {
+        public static byte[] fa_desktop_monitor {
             get {
                 object obj = ResourceManager.GetObject("fa_desktop_monitor", resourceCulture);
                 return ((byte[])(obj));
@@ -3703,7 +3703,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_discord {
+        public static byte[] fa_discord {
             get {
                 object obj = ResourceManager.GetObject("fa_discord", resourceCulture);
                 return ((byte[])(obj));
@@ -3713,7 +3713,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_dollar_symbol {
+        public static byte[] fa_dollar_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_dollar_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3723,7 +3723,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_dot_and_circle {
+        public static byte[] fa_dot_and_circle {
             get {
                 object obj = ResourceManager.GetObject("fa_dot_and_circle", resourceCulture);
                 return ((byte[])(obj));
@@ -3733,7 +3733,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_double_angle_pointing_to_right {
+        public static byte[] fa_double_angle_pointing_to_right {
             get {
                 object obj = ResourceManager.GetObject("fa_double_angle_pointing_to_right", resourceCulture);
                 return ((byte[])(obj));
@@ -3743,7 +3743,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_double_left_chevron {
+        public static byte[] fa_double_left_chevron {
             get {
                 object obj = ResourceManager.GetObject("fa_double_left_chevron", resourceCulture);
                 return ((byte[])(obj));
@@ -3753,7 +3753,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_double_sided_eraser {
+        public static byte[] fa_double_sided_eraser {
             get {
                 object obj = ResourceManager.GetObject("fa_double_sided_eraser", resourceCulture);
                 return ((byte[])(obj));
@@ -3763,7 +3763,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_double_strikethrough_option {
+        public static byte[] fa_double_strikethrough_option {
             get {
                 object obj = ResourceManager.GetObject("fa_double_strikethrough_option", resourceCulture);
                 return ((byte[])(obj));
@@ -3773,7 +3773,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_down_arrow {
+        public static byte[] fa_down_arrow {
             get {
                 object obj = ResourceManager.GetObject("fa_down_arrow", resourceCulture);
                 return ((byte[])(obj));
@@ -3783,7 +3783,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_download_symbol {
+        public static byte[] fa_download_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_download_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3793,7 +3793,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_download_to_storage_drive {
+        public static byte[] fa_download_to_storage_drive {
             get {
                 object obj = ResourceManager.GetObject("fa_download_to_storage_drive", resourceCulture);
                 return ((byte[])(obj));
@@ -3803,7 +3803,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_dribbble_logo {
+        public static byte[] fa_dribbble_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_dribbble_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -3813,7 +3813,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_dropbox_logo {
+        public static byte[] fa_dropbox_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_dropbox_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -3823,7 +3823,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_earth_globe {
+        public static byte[] fa_earth_globe {
             get {
                 object obj = ResourceManager.GetObject("fa_earth_globe", resourceCulture);
                 return ((byte[])(obj));
@@ -3833,7 +3833,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_edit_interface_sign {
+        public static byte[] fa_edit_interface_sign {
             get {
                 object obj = ResourceManager.GetObject("fa_edit_interface_sign", resourceCulture);
                 return ((byte[])(obj));
@@ -3843,7 +3843,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_eject_symbol {
+        public static byte[] fa_eject_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_eject_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3853,7 +3853,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_envelope {
+        public static byte[] fa_envelope {
             get {
                 object obj = ResourceManager.GetObject("fa_envelope", resourceCulture);
                 return ((byte[])(obj));
@@ -3863,7 +3863,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_envelope_of_white_paper {
+        public static byte[] fa_envelope_of_white_paper {
             get {
                 object obj = ResourceManager.GetObject("fa_envelope_of_white_paper", resourceCulture);
                 return ((byte[])(obj));
@@ -3873,7 +3873,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_euro_currency_symbol {
+        public static byte[] fa_euro_currency_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_euro_currency_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3883,7 +3883,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_exchange_arrows {
+        public static byte[] fa_exchange_arrows {
             get {
                 object obj = ResourceManager.GetObject("fa_exchange_arrows", resourceCulture);
                 return ((byte[])(obj));
@@ -3893,7 +3893,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_exclamation {
+        public static byte[] fa_exclamation {
             get {
                 object obj = ResourceManager.GetObject("fa_exclamation", resourceCulture);
                 return ((byte[])(obj));
@@ -3903,7 +3903,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_exclamation_sign {
+        public static byte[] fa_exclamation_sign {
             get {
                 object obj = ResourceManager.GetObject("fa_exclamation_sign", resourceCulture);
                 return ((byte[])(obj));
@@ -3913,7 +3913,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_external_link_square_with_an_arrow_in_right_diagonal {
+        public static byte[] fa_external_link_square_with_an_arrow_in_right_diagonal {
             get {
                 object obj = ResourceManager.GetObject("fa_external_link_square_with_an_arrow_in_right_diagonal", resourceCulture);
                 return ((byte[])(obj));
@@ -3923,7 +3923,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_external_link_symbol {
+        public static byte[] fa_external_link_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_external_link_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -3933,7 +3933,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_eye_open {
+        public static byte[] fa_eye_open {
             get {
                 object obj = ResourceManager.GetObject("fa_eye_open", resourceCulture);
                 return ((byte[])(obj));
@@ -3943,7 +3943,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_eye_with_a_diagonal_line_interface_symbol_for_invisibility {
+        public static byte[] fa_eye_with_a_diagonal_line_interface_symbol_for_invisibility {
             get {
                 object obj = ResourceManager.GetObject("fa_eye_with_a_diagonal_line_interface_symbol_for_invisibility", resourceCulture);
                 return ((byte[])(obj));
@@ -3953,7 +3953,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_facebook_logo {
+        public static byte[] fa_facebook_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_facebook_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -3963,7 +3963,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_facebook_logo_1 {
+        public static byte[] fa_facebook_logo_1 {
             get {
                 object obj = ResourceManager.GetObject("fa_facebook_logo_1", resourceCulture);
                 return ((byte[])(obj));
@@ -3973,7 +3973,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_facetime_button {
+        public static byte[] fa_facetime_button {
             get {
                 object obj = ResourceManager.GetObject("fa_facetime_button", resourceCulture);
                 return ((byte[])(obj));
@@ -3983,7 +3983,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_fast_forward_arrows {
+        public static byte[] fa_fast_forward_arrows {
             get {
                 object obj = ResourceManager.GetObject("fa_fast_forward_arrows", resourceCulture);
                 return ((byte[])(obj));
@@ -3993,7 +3993,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_female_silhouette {
+        public static byte[] fa_female_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_female_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -4003,7 +4003,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_fighter_jet_silhouette {
+        public static byte[] fa_fighter_jet_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_fighter_jet_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -4013,7 +4013,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_file {
+        public static byte[] fa_file {
             get {
                 object obj = ResourceManager.GetObject("fa_file", resourceCulture);
                 return ((byte[])(obj));
@@ -4023,7 +4023,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_film_strip_with_two_photograms {
+        public static byte[] fa_film_strip_with_two_photograms {
             get {
                 object obj = ResourceManager.GetObject("fa_film_strip_with_two_photograms", resourceCulture);
                 return ((byte[])(obj));
@@ -4033,7 +4033,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_filter_tool_black_shape {
+        public static byte[] fa_filter_tool_black_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_filter_tool_black_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -4043,7 +4043,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_finger_of_a_hand_pointing_to_right_direction {
+        public static byte[] fa_finger_of_a_hand_pointing_to_right_direction {
             get {
                 object obj = ResourceManager.GetObject("fa_finger_of_a_hand_pointing_to_right_direction", resourceCulture);
                 return ((byte[])(obj));
@@ -4053,7 +4053,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_fire_extinguisher {
+        public static byte[] fa_fire_extinguisher {
             get {
                 object obj = ResourceManager.GetObject("fa_fire_extinguisher", resourceCulture);
                 return ((byte[])(obj));
@@ -4063,7 +4063,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_fire_symbol {
+        public static byte[] fa_fire_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_fire_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -4073,7 +4073,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_flag_black_shape {
+        public static byte[] fa_flag_black_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_flag_black_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -4083,7 +4083,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_flickr_website_logo_silhouette {
+        public static byte[] fa_flickr_website_logo_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_flickr_website_logo_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -4093,7 +4093,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_fluffy_cloud_silhouette {
+        public static byte[] fa_fluffy_cloud_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_fluffy_cloud_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -4103,7 +4103,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_folder_closed_black_shape {
+        public static byte[] fa_folder_closed_black_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_folder_closed_black_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -4113,7 +4113,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_folder_white_shape {
+        public static byte[] fa_folder_white_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_folder_white_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -4123,7 +4123,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_font_selection_editor {
+        public static byte[] fa_font_selection_editor {
             get {
                 object obj = ResourceManager.GetObject("fa_font_selection_editor", resourceCulture);
                 return ((byte[])(obj));
@@ -4133,7 +4133,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_font_symbol_of_letter_a {
+        public static byte[] fa_font_symbol_of_letter_a {
             get {
                 object obj = ResourceManager.GetObject("fa_font_symbol_of_letter_a", resourceCulture);
                 return ((byte[])(obj));
@@ -4143,7 +4143,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_fork_and_knife_silhouette {
+        public static byte[] fa_fork_and_knife_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_fork_and_knife_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -4153,7 +4153,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_forward_button {
+        public static byte[] fa_forward_button {
             get {
                 object obj = ResourceManager.GetObject("fa_forward_button", resourceCulture);
                 return ((byte[])(obj));
@@ -4163,7 +4163,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_four_black_squares {
+        public static byte[] fa_four_black_squares {
             get {
                 object obj = ResourceManager.GetObject("fa_four_black_squares", resourceCulture);
                 return ((byte[])(obj));
@@ -4173,7 +4173,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_foursquare_button {
+        public static byte[] fa_foursquare_button {
             get {
                 object obj = ResourceManager.GetObject("fa_foursquare_button", resourceCulture);
                 return ((byte[])(obj));
@@ -4183,7 +4183,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_frown {
+        public static byte[] fa_frown {
             get {
                 object obj = ResourceManager.GetObject("fa_frown", resourceCulture);
                 return ((byte[])(obj));
@@ -4193,7 +4193,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_fullscreen_symbol {
+        public static byte[] fa_fullscreen_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_fullscreen_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -4203,7 +4203,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_gamepad_console {
+        public static byte[] fa_gamepad_console {
             get {
                 object obj = ResourceManager.GetObject("fa_gamepad_console", resourceCulture);
                 return ((byte[])(obj));
@@ -4213,7 +4213,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_gift_box {
+        public static byte[] fa_gift_box {
             get {
                 object obj = ResourceManager.GetObject("fa_gift_box", resourceCulture);
                 return ((byte[])(obj));
@@ -4223,7 +4223,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_github_character {
+        public static byte[] fa_github_character {
             get {
                 object obj = ResourceManager.GetObject("fa_github_character", resourceCulture);
                 return ((byte[])(obj));
@@ -4233,7 +4233,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_github_logo {
+        public static byte[] fa_github_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_github_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -4243,7 +4243,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_github_sign {
+        public static byte[] fa_github_sign {
             get {
                 object obj = ResourceManager.GetObject("fa_github_sign", resourceCulture);
                 return ((byte[])(obj));
@@ -4253,7 +4253,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_gittip_website_logo {
+        public static byte[] fa_gittip_website_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_gittip_website_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -4263,7 +4263,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_google_plus_symbol {
+        public static byte[] fa_google_plus_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_google_plus_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -4273,7 +4273,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_google_plus_symbol_1 {
+        public static byte[] fa_google_plus_symbol_1 {
             get {
                 object obj = ResourceManager.GetObject("fa_google_plus_symbol_1", resourceCulture);
                 return ((byte[])(obj));
@@ -4283,7 +4283,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_great_britain_pound {
+        public static byte[] fa_great_britain_pound {
             get {
                 object obj = ResourceManager.GetObject("fa_great_britain_pound", resourceCulture);
                 return ((byte[])(obj));
@@ -4293,7 +4293,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_group_profile_users {
+        public static byte[] fa_group_profile_users {
             get {
                 object obj = ResourceManager.GetObject("fa_group_profile_users", resourceCulture);
                 return ((byte[])(obj));
@@ -4303,7 +4303,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_half_star_shape {
+        public static byte[] fa_half_star_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_half_star_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -4313,7 +4313,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_hand_finger_pointing_down {
+        public static byte[] fa_hand_finger_pointing_down {
             get {
                 object obj = ResourceManager.GetObject("fa_hand_finger_pointing_down", resourceCulture);
                 return ((byte[])(obj));
@@ -4323,7 +4323,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_hand_pointing_to_left_direction {
+        public static byte[] fa_hand_pointing_to_left_direction {
             get {
                 object obj = ResourceManager.GetObject("fa_hand_pointing_to_left_direction", resourceCulture);
                 return ((byte[])(obj));
@@ -4333,7 +4333,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_hand_pointing_upward {
+        public static byte[] fa_hand_pointing_upward {
             get {
                 object obj = ResourceManager.GetObject("fa_hand_pointing_upward", resourceCulture);
                 return ((byte[])(obj));
@@ -4343,7 +4343,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_hard_drive {
+        public static byte[] fa_hard_drive {
             get {
                 object obj = ResourceManager.GetObject("fa_hard_drive", resourceCulture);
                 return ((byte[])(obj));
@@ -4353,7 +4353,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_heart_shape_outline {
+        public static byte[] fa_heart_shape_outline {
             get {
                 object obj = ResourceManager.GetObject("fa_heart_shape_outline", resourceCulture);
                 return ((byte[])(obj));
@@ -4363,7 +4363,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_heart_shape_silhouette {
+        public static byte[] fa_heart_shape_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_heart_shape_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -4373,7 +4373,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_home {
+        public static byte[] fa_home {
             get {
                 object obj = ResourceManager.GetObject("fa_home", resourceCulture);
                 return ((byte[])(obj));
@@ -4383,7 +4383,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_horizontal_resize_option {
+        public static byte[] fa_horizontal_resize_option {
             get {
                 object obj = ResourceManager.GetObject("fa_horizontal_resize_option", resourceCulture);
                 return ((byte[])(obj));
@@ -4393,7 +4393,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_hostpital_building {
+        public static byte[] fa_hostpital_building {
             get {
                 object obj = ResourceManager.GetObject("fa_hostpital_building", resourceCulture);
                 return ((byte[])(obj));
@@ -4403,7 +4403,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_hotel_letter_h_sign_inside_a_black_rounded_square {
+        public static byte[] fa_hotel_letter_h_sign_inside_a_black_rounded_square {
             get {
                 object obj = ResourceManager.GetObject("fa_hotel_letter_h_sign_inside_a_black_rounded_square", resourceCulture);
                 return ((byte[])(obj));
@@ -4413,7 +4413,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_html_5_logo {
+        public static byte[] fa_html_5_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_html_5_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -4423,7 +4423,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_inbox {
+        public static byte[] fa_inbox {
             get {
                 object obj = ResourceManager.GetObject("fa_inbox", resourceCulture);
                 return ((byte[])(obj));
@@ -4433,7 +4433,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_increase_size_option {
+        public static byte[] fa_increase_size_option {
             get {
                 object obj = ResourceManager.GetObject("fa_increase_size_option", resourceCulture);
                 return ((byte[])(obj));
@@ -4443,7 +4443,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_indent_right {
+        public static byte[] fa_indent_right {
             get {
                 object obj = ResourceManager.GetObject("fa_indent_right", resourceCulture);
                 return ((byte[])(obj));
@@ -4453,7 +4453,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_information_button {
+        public static byte[] fa_information_button {
             get {
                 object obj = ResourceManager.GetObject("fa_information_button", resourceCulture);
                 return ((byte[])(obj));
@@ -4463,7 +4463,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_information_symbol {
+        public static byte[] fa_information_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_information_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -4473,7 +4473,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_instagram_symbol {
+        public static byte[] fa_instagram_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_instagram_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -4483,7 +4483,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_italicize_text {
+        public static byte[] fa_italicize_text {
             get {
                 object obj = ResourceManager.GetObject("fa_italicize_text", resourceCulture);
                 return ((byte[])(obj));
@@ -4493,7 +4493,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_keyboard {
+        public static byte[] fa_keyboard {
             get {
                 object obj = ResourceManager.GetObject("fa_keyboard", resourceCulture);
                 return ((byte[])(obj));
@@ -4503,7 +4503,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_left_arrow {
+        public static byte[] fa_left_arrow {
             get {
                 object obj = ResourceManager.GetObject("fa_left_arrow", resourceCulture);
                 return ((byte[])(obj));
@@ -4513,7 +4513,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_left_arrow_1 {
+        public static byte[] fa_left_arrow_1 {
             get {
                 object obj = ResourceManager.GetObject("fa_left_arrow_1", resourceCulture);
                 return ((byte[])(obj));
@@ -4523,7 +4523,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_left_indentation_option {
+        public static byte[] fa_left_indentation_option {
             get {
                 object obj = ResourceManager.GetObject("fa_left_indentation_option", resourceCulture);
                 return ((byte[])(obj));
@@ -4533,7 +4533,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_legal_hammer {
+        public static byte[] fa_legal_hammer {
             get {
                 object obj = ResourceManager.GetObject("fa_legal_hammer", resourceCulture);
                 return ((byte[])(obj));
@@ -4543,7 +4543,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_lemon {
+        public static byte[] fa_lemon {
             get {
                 object obj = ResourceManager.GetObject("fa_lemon", resourceCulture);
                 return ((byte[])(obj));
@@ -4553,7 +4553,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_leter_a_inside_a_black_circle {
+        public static byte[] fa_leter_a_inside_a_black_circle {
             get {
                 object obj = ResourceManager.GetObject("fa_leter_a_inside_a_black_circle", resourceCulture);
                 return ((byte[])(obj));
@@ -4563,7 +4563,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_letter_p_symbol {
+        public static byte[] fa_letter_p_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_letter_p_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -4573,7 +4573,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_level_up {
+        public static byte[] fa_level_up {
             get {
                 object obj = ResourceManager.GetObject("fa_level_up", resourceCulture);
                 return ((byte[])(obj));
@@ -4583,7 +4583,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_light_bulb {
+        public static byte[] fa_light_bulb {
             get {
                 object obj = ResourceManager.GetObject("fa_light_bulb", resourceCulture);
                 return ((byte[])(obj));
@@ -4593,7 +4593,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_lightning_bolt_shadow {
+        public static byte[] fa_lightning_bolt_shadow {
             get {
                 object obj = ResourceManager.GetObject("fa_lightning_bolt_shadow", resourceCulture);
                 return ((byte[])(obj));
@@ -4603,7 +4603,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_link_symbol {
+        public static byte[] fa_link_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_link_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -4613,7 +4613,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_linkedin_letters {
+        public static byte[] fa_linkedin_letters {
             get {
                 object obj = ResourceManager.GetObject("fa_linkedin_letters", resourceCulture);
                 return ((byte[])(obj));
@@ -4623,7 +4623,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_linkedin_sign {
+        public static byte[] fa_linkedin_sign {
             get {
                 object obj = ResourceManager.GetObject("fa_linkedin_sign", resourceCulture);
                 return ((byte[])(obj));
@@ -4633,7 +4633,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_linux_logo {
+        public static byte[] fa_linux_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_linux_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -4643,7 +4643,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_list {
+        public static byte[] fa_list {
             get {
                 object obj = ResourceManager.GetObject("fa_list", resourceCulture);
                 return ((byte[])(obj));
@@ -4653,7 +4653,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_list_on_window {
+        public static byte[] fa_list_on_window {
             get {
                 object obj = ResourceManager.GetObject("fa_list_on_window", resourceCulture);
                 return ((byte[])(obj));
@@ -4663,7 +4663,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_list_with_dots {
+        public static byte[] fa_list_with_dots {
             get {
                 object obj = ResourceManager.GetObject("fa_list_with_dots", resourceCulture);
                 return ((byte[])(obj));
@@ -4673,7 +4673,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_listing_option {
+        public static byte[] fa_listing_option {
             get {
                 object obj = ResourceManager.GetObject("fa_listing_option", resourceCulture);
                 return ((byte[])(obj));
@@ -4683,7 +4683,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_long_arrow_pointing_to_left {
+        public static byte[] fa_long_arrow_pointing_to_left {
             get {
                 object obj = ResourceManager.GetObject("fa_long_arrow_pointing_to_left", resourceCulture);
                 return ((byte[])(obj));
@@ -4693,7 +4693,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_long_arrow_pointing_to_the_right {
+        public static byte[] fa_long_arrow_pointing_to_the_right {
             get {
                 object obj = ResourceManager.GetObject("fa_long_arrow_pointing_to_the_right", resourceCulture);
                 return ((byte[])(obj));
@@ -4703,7 +4703,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_long_arrow_pointing_up {
+        public static byte[] fa_long_arrow_pointing_up {
             get {
                 object obj = ResourceManager.GetObject("fa_long_arrow_pointing_up", resourceCulture);
                 return ((byte[])(obj));
@@ -4713,7 +4713,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_magic_wand {
+        public static byte[] fa_magic_wand {
             get {
                 object obj = ResourceManager.GetObject("fa_magic_wand", resourceCulture);
                 return ((byte[])(obj));
@@ -4723,7 +4723,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_magnifying_glass {
+        public static byte[] fa_magnifying_glass {
             get {
                 object obj = ResourceManager.GetObject("fa_magnifying_glass", resourceCulture);
                 return ((byte[])(obj));
@@ -4733,7 +4733,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_man {
+        public static byte[] fa_man {
             get {
                 object obj = ResourceManager.GetObject("fa_man", resourceCulture);
                 return ((byte[])(obj));
@@ -4743,7 +4743,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_map_marker {
+        public static byte[] fa_map_marker {
             get {
                 object obj = ResourceManager.GetObject("fa_map_marker", resourceCulture);
                 return ((byte[])(obj));
@@ -4753,7 +4753,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_maxcdn_website_logo {
+        public static byte[] fa_maxcdn_website_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_maxcdn_website_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -4763,7 +4763,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_medical_kit {
+        public static byte[] fa_medical_kit {
             get {
                 object obj = ResourceManager.GetObject("fa_medical_kit", resourceCulture);
                 return ((byte[])(obj));
@@ -4773,7 +4773,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_meh_face_emoticon {
+        public static byte[] fa_meh_face_emoticon {
             get {
                 object obj = ResourceManager.GetObject("fa_meh_face_emoticon", resourceCulture);
                 return ((byte[])(obj));
@@ -4783,7 +4783,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_microphone_black_shape {
+        public static byte[] fa_microphone_black_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_microphone_black_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -4793,7 +4793,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_microphone_off {
+        public static byte[] fa_microphone_off {
             get {
                 object obj = ResourceManager.GetObject("fa_microphone_off", resourceCulture);
                 return ((byte[])(obj));
@@ -4803,7 +4803,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_minus_button {
+        public static byte[] fa_minus_button {
             get {
                 object obj = ResourceManager.GetObject("fa_minus_button", resourceCulture);
                 return ((byte[])(obj));
@@ -4813,7 +4813,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_minus_sign_inside_a_black_circle {
+        public static byte[] fa_minus_sign_inside_a_black_circle {
             get {
                 object obj = ResourceManager.GetObject("fa_minus_sign_inside_a_black_circle", resourceCulture);
                 return ((byte[])(obj));
@@ -4823,7 +4823,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_minus_sign_inside_a_black_rounded_square_shape {
+        public static byte[] fa_minus_sign_inside_a_black_rounded_square_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_minus_sign_inside_a_black_rounded_square_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -4833,7 +4833,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_minus_sign_on_a_square_outline {
+        public static byte[] fa_minus_sign_on_a_square_outline {
             get {
                 object obj = ResourceManager.GetObject("fa_minus_sign_on_a_square_outline", resourceCulture);
                 return ((byte[])(obj));
@@ -4843,7 +4843,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_minus_symbol {
+        public static byte[] fa_minus_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_minus_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -4853,7 +4853,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_mobile_phone {
+        public static byte[] fa_mobile_phone {
             get {
                 object obj = ResourceManager.GetObject("fa_mobile_phone", resourceCulture);
                 return ((byte[])(obj));
@@ -4863,7 +4863,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_moon_phase_outline {
+        public static byte[] fa_moon_phase_outline {
             get {
                 object obj = ResourceManager.GetObject("fa_moon_phase_outline", resourceCulture);
                 return ((byte[])(obj));
@@ -4873,7 +4873,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_move_option {
+        public static byte[] fa_move_option {
             get {
                 object obj = ResourceManager.GetObject("fa_move_option", resourceCulture);
                 return ((byte[])(obj));
@@ -4883,7 +4883,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_music_headphones {
+        public static byte[] fa_music_headphones {
             get {
                 object obj = ResourceManager.GetObject("fa_music_headphones", resourceCulture);
                 return ((byte[])(obj));
@@ -4893,7 +4893,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_music_note_black_symbol {
+        public static byte[] fa_music_note_black_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_music_note_black_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -4903,7 +4903,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_musical_bell_outline {
+        public static byte[] fa_musical_bell_outline {
             get {
                 object obj = ResourceManager.GetObject("fa_musical_bell_outline", resourceCulture);
                 return ((byte[])(obj));
@@ -4913,7 +4913,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_nine_black_tiles {
+        public static byte[] fa_nine_black_tiles {
             get {
                 object obj = ResourceManager.GetObject("fa_nine_black_tiles", resourceCulture);
                 return ((byte[])(obj));
@@ -4923,7 +4923,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_numbered_list {
+        public static byte[] fa_numbered_list {
             get {
                 object obj = ResourceManager.GetObject("fa_numbered_list", resourceCulture);
                 return ((byte[])(obj));
@@ -4933,7 +4933,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_open_folder {
+        public static byte[] fa_open_folder {
             get {
                 object obj = ResourceManager.GetObject("fa_open_folder", resourceCulture);
                 return ((byte[])(obj));
@@ -4943,7 +4943,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_open_folder_outline {
+        public static byte[] fa_open_folder_outline {
             get {
                 object obj = ResourceManager.GetObject("fa_open_folder_outline", resourceCulture);
                 return ((byte[])(obj));
@@ -4953,7 +4953,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_open_laptop_computer {
+        public static byte[] fa_open_laptop_computer {
             get {
                 object obj = ResourceManager.GetObject("fa_open_laptop_computer", resourceCulture);
                 return ((byte[])(obj));
@@ -4963,7 +4963,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_open_padlock_silhouette {
+        public static byte[] fa_open_padlock_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_open_padlock_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -4973,7 +4973,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_open_wrench_tool_silhouette {
+        public static byte[] fa_open_wrench_tool_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_open_wrench_tool_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -4983,7 +4983,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_padlock {
+        public static byte[] fa_padlock {
             get {
                 object obj = ResourceManager.GetObject("fa_padlock", resourceCulture);
                 return ((byte[])(obj));
@@ -4993,7 +4993,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_padlock_unlock {
+        public static byte[] fa_padlock_unlock {
             get {
                 object obj = ResourceManager.GetObject("fa_padlock_unlock", resourceCulture);
                 return ((byte[])(obj));
@@ -5003,7 +5003,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_paper_bill {
+        public static byte[] fa_paper_bill {
             get {
                 object obj = ResourceManager.GetObject("fa_paper_bill", resourceCulture);
                 return ((byte[])(obj));
@@ -5013,7 +5013,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_paper_clip_outline {
+        public static byte[] fa_paper_clip_outline {
             get {
                 object obj = ResourceManager.GetObject("fa_paper_clip_outline", resourceCulture);
                 return ((byte[])(obj));
@@ -5023,7 +5023,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_paper_push_pin {
+        public static byte[] fa_paper_push_pin {
             get {
                 object obj = ResourceManager.GetObject("fa_paper_push_pin", resourceCulture);
                 return ((byte[])(obj));
@@ -5033,7 +5033,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_paste_from_clipboard {
+        public static byte[] fa_paste_from_clipboard {
             get {
                 object obj = ResourceManager.GetObject("fa_paste_from_clipboard", resourceCulture);
                 return ((byte[])(obj));
@@ -5043,7 +5043,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_pause_symbol {
+        public static byte[] fa_pause_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_pause_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -5053,7 +5053,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_pencil {
+        public static byte[] fa_pencil {
             get {
                 object obj = ResourceManager.GetObject("fa_pencil", resourceCulture);
                 return ((byte[])(obj));
@@ -5063,7 +5063,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_photo_camera {
+        public static byte[] fa_photo_camera {
             get {
                 object obj = ResourceManager.GetObject("fa_photo_camera", resourceCulture);
                 return ((byte[])(obj));
@@ -5073,7 +5073,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_picture {
+        public static byte[] fa_picture {
             get {
                 object obj = ResourceManager.GetObject("fa_picture", resourceCulture);
                 return ((byte[])(obj));
@@ -5083,7 +5083,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_pinterest_logo {
+        public static byte[] fa_pinterest_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_pinterest_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -5093,7 +5093,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_pinterest_sign {
+        public static byte[] fa_pinterest_sign {
             get {
                 object obj = ResourceManager.GetObject("fa_pinterest_sign", resourceCulture);
                 return ((byte[])(obj));
@@ -5103,7 +5103,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_plane {
+        public static byte[] fa_plane {
             get {
                 object obj = ResourceManager.GetObject("fa_plane", resourceCulture);
                 return ((byte[])(obj));
@@ -5113,7 +5113,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_plant_leaf_with_white_details {
+        public static byte[] fa_plant_leaf_with_white_details {
             get {
                 object obj = ResourceManager.GetObject("fa_plant_leaf_with_white_details", resourceCulture);
                 return ((byte[])(obj));
@@ -5123,7 +5123,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_play_button {
+        public static byte[] fa_play_button {
             get {
                 object obj = ResourceManager.GetObject("fa_play_button", resourceCulture);
                 return ((byte[])(obj));
@@ -5133,7 +5133,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_play_circle {
+        public static byte[] fa_play_circle {
             get {
                 object obj = ResourceManager.GetObject("fa_play_circle", resourceCulture);
                 return ((byte[])(obj));
@@ -5143,7 +5143,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_play_sign {
+        public static byte[] fa_play_sign {
             get {
                 object obj = ResourceManager.GetObject("fa_play_sign", resourceCulture);
                 return ((byte[])(obj));
@@ -5153,7 +5153,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_play_video_button {
+        public static byte[] fa_play_video_button {
             get {
                 object obj = ResourceManager.GetObject("fa_play_video_button", resourceCulture);
                 return ((byte[])(obj));
@@ -5163,7 +5163,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_plus_black_symbol {
+        public static byte[] fa_plus_black_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_plus_black_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -5173,7 +5173,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_plus_sign_in_a_black_circle {
+        public static byte[] fa_plus_sign_in_a_black_circle {
             get {
                 object obj = ResourceManager.GetObject("fa_plus_sign_in_a_black_circle", resourceCulture);
                 return ((byte[])(obj));
@@ -5183,7 +5183,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_plus_symbol_in_a_rounded_black_square {
+        public static byte[] fa_plus_symbol_in_a_rounded_black_square {
             get {
                 object obj = ResourceManager.GetObject("fa_plus_symbol_in_a_rounded_black_square", resourceCulture);
                 return ((byte[])(obj));
@@ -5193,7 +5193,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_power_button_off {
+        public static byte[] fa_power_button_off {
             get {
                 object obj = ResourceManager.GetObject("fa_power_button_off", resourceCulture);
                 return ((byte[])(obj));
@@ -5203,7 +5203,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_printing_tool {
+        public static byte[] fa_printing_tool {
             get {
                 object obj = ResourceManager.GetObject("fa_printing_tool", resourceCulture);
                 return ((byte[])(obj));
@@ -5213,7 +5213,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_puzzle_piece_silhouette {
+        public static byte[] fa_puzzle_piece_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_puzzle_piece_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -5223,7 +5223,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_qr_code {
+        public static byte[] fa_qr_code {
             get {
                 object obj = ResourceManager.GetObject("fa_qr_code", resourceCulture);
                 return ((byte[])(obj));
@@ -5233,7 +5233,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_question_mark_on_a_circular_black_background {
+        public static byte[] fa_question_mark_on_a_circular_black_background {
             get {
                 object obj = ResourceManager.GetObject("fa_question_mark_on_a_circular_black_background", resourceCulture);
                 return ((byte[])(obj));
@@ -5243,7 +5243,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_question_sign {
+        public static byte[] fa_question_sign {
             get {
                 object obj = ResourceManager.GetObject("fa_question_sign", resourceCulture);
                 return ((byte[])(obj));
@@ -5253,7 +5253,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_quote_left {
+        public static byte[] fa_quote_left {
             get {
                 object obj = ResourceManager.GetObject("fa_quote_left", resourceCulture);
                 return ((byte[])(obj));
@@ -5263,7 +5263,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_reduced_volume {
+        public static byte[] fa_reduced_volume {
             get {
                 object obj = ResourceManager.GetObject("fa_reduced_volume", resourceCulture);
                 return ((byte[])(obj));
@@ -5273,7 +5273,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_refresh_arrow {
+        public static byte[] fa_refresh_arrow {
             get {
                 object obj = ResourceManager.GetObject("fa_refresh_arrow", resourceCulture);
                 return ((byte[])(obj));
@@ -5283,7 +5283,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_refresh_page_option {
+        public static byte[] fa_refresh_page_option {
             get {
                 object obj = ResourceManager.GetObject("fa_refresh_page_option", resourceCulture);
                 return ((byte[])(obj));
@@ -5293,7 +5293,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_remove_button {
+        public static byte[] fa_remove_button {
             get {
                 object obj = ResourceManager.GetObject("fa_remove_button", resourceCulture);
                 return ((byte[])(obj));
@@ -5303,7 +5303,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_remove_symbol {
+        public static byte[] fa_remove_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_remove_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -5313,7 +5313,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_renren_social_network_of_china_logotype {
+        public static byte[] fa_renren_social_network_of_china_logotype {
             get {
                 object obj = ResourceManager.GetObject("fa_renren_social_network_of_china_logotype", resourceCulture);
                 return ((byte[])(obj));
@@ -5323,7 +5323,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_reorder_option {
+        public static byte[] fa_reorder_option {
             get {
                 object obj = ResourceManager.GetObject("fa_reorder_option", resourceCulture);
                 return ((byte[])(obj));
@@ -5333,7 +5333,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_reply {
+        public static byte[] fa_reply {
             get {
                 object obj = ResourceManager.GetObject("fa_reply", resourceCulture);
                 return ((byte[])(obj));
@@ -5343,7 +5343,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_reply_arrow {
+        public static byte[] fa_reply_arrow {
             get {
                 object obj = ResourceManager.GetObject("fa_reply_arrow", resourceCulture);
                 return ((byte[])(obj));
@@ -5353,7 +5353,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_resize_option {
+        public static byte[] fa_resize_option {
             get {
                 object obj = ResourceManager.GetObject("fa_resize_option", resourceCulture);
                 return ((byte[])(obj));
@@ -5363,7 +5363,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_retweet_arrows_symbol {
+        public static byte[] fa_retweet_arrows_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_retweet_arrows_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -5373,7 +5373,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_rewind_button {
+        public static byte[] fa_rewind_button {
             get {
                 object obj = ResourceManager.GetObject("fa_rewind_button", resourceCulture);
                 return ((byte[])(obj));
@@ -5383,7 +5383,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_right_arrow_in_a_circle {
+        public static byte[] fa_right_arrow_in_a_circle {
             get {
                 object obj = ResourceManager.GetObject("fa_right_arrow_in_a_circle", resourceCulture);
                 return ((byte[])(obj));
@@ -5393,7 +5393,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_right_chevron {
+        public static byte[] fa_right_chevron {
             get {
                 object obj = ResourceManager.GetObject("fa_right_chevron", resourceCulture);
                 return ((byte[])(obj));
@@ -5403,7 +5403,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_right_quotation_mark {
+        public static byte[] fa_right_quotation_mark {
             get {
                 object obj = ResourceManager.GetObject("fa_right_quotation_mark", resourceCulture);
                 return ((byte[])(obj));
@@ -5413,7 +5413,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_road_perspective {
+        public static byte[] fa_road_perspective {
             get {
                 object obj = ResourceManager.GetObject("fa_road_perspective", resourceCulture);
                 return ((byte[])(obj));
@@ -5423,7 +5423,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_rounded_black_square_shape {
+        public static byte[] fa_rounded_black_square_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_rounded_black_square_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -5433,7 +5433,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_rss_feed_button {
+        public static byte[] fa_rss_feed_button {
             get {
                 object obj = ResourceManager.GetObject("fa_rss_feed_button", resourceCulture);
                 return ((byte[])(obj));
@@ -5443,7 +5443,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_rss_symbol {
+        public static byte[] fa_rss_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_rss_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -5453,7 +5453,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_rupee_indian {
+        public static byte[] fa_rupee_indian {
             get {
                 object obj = ResourceManager.GetObject("fa_rupee_indian", resourceCulture);
                 return ((byte[])(obj));
@@ -5463,7 +5463,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_save_file_option {
+        public static byte[] fa_save_file_option {
             get {
                 object obj = ResourceManager.GetObject("fa_save_file_option", resourceCulture);
                 return ((byte[])(obj));
@@ -5473,7 +5473,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_screenshot {
+        public static byte[] fa_screenshot {
             get {
                 object obj = ResourceManager.GetObject("fa_screenshot", resourceCulture);
                 return ((byte[])(obj));
@@ -5483,7 +5483,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_settings {
+        public static byte[] fa_settings {
             get {
                 object obj = ResourceManager.GetObject("fa_settings", resourceCulture);
                 return ((byte[])(obj));
@@ -5493,7 +5493,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_share_option {
+        public static byte[] fa_share_option {
             get {
                 object obj = ResourceManager.GetObject("fa_share_option", resourceCulture);
                 return ((byte[])(obj));
@@ -5503,7 +5503,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_share_post_symbol {
+        public static byte[] fa_share_post_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_share_post_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -5513,7 +5513,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_share_symbol {
+        public static byte[] fa_share_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_share_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -5523,7 +5523,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_shield {
+        public static byte[] fa_shield {
             get {
                 object obj = ResourceManager.GetObject("fa_shield", resourceCulture);
                 return ((byte[])(obj));
@@ -5533,7 +5533,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_shopping_cart_black_shape {
+        public static byte[] fa_shopping_cart_black_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_shopping_cart_black_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -5543,7 +5543,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sign_in {
+        public static byte[] fa_sign_in {
             get {
                 object obj = ResourceManager.GetObject("fa_sign_in", resourceCulture);
                 return ((byte[])(obj));
@@ -5553,7 +5553,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sign_out_option {
+        public static byte[] fa_sign_out_option {
             get {
                 object obj = ResourceManager.GetObject("fa_sign_out_option", resourceCulture);
                 return ((byte[])(obj));
@@ -5563,7 +5563,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_signal_bars {
+        public static byte[] fa_signal_bars {
             get {
                 object obj = ResourceManager.GetObject("fa_signal_bars", resourceCulture);
                 return ((byte[])(obj));
@@ -5573,7 +5573,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sitemap {
+        public static byte[] fa_sitemap {
             get {
                 object obj = ResourceManager.GetObject("fa_sitemap", resourceCulture);
                 return ((byte[])(obj));
@@ -5583,7 +5583,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_skype_logo {
+        public static byte[] fa_skype_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_skype_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -5593,7 +5593,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_small_rocket_ship_silhouette {
+        public static byte[] fa_small_rocket_ship_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_small_rocket_ship_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -5603,7 +5603,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_smile {
+        public static byte[] fa_smile {
             get {
                 object obj = ResourceManager.GetObject("fa_smile", resourceCulture);
                 return ((byte[])(obj));
@@ -5613,7 +5613,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sort_arrows_couple_pointing_up_and_down {
+        public static byte[] fa_sort_arrows_couple_pointing_up_and_down {
             get {
                 object obj = ResourceManager.GetObject("fa_sort_arrows_couple_pointing_up_and_down", resourceCulture);
                 return ((byte[])(obj));
@@ -5623,7 +5623,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sort_by_alphabet {
+        public static byte[] fa_sort_by_alphabet {
             get {
                 object obj = ResourceManager.GetObject("fa_sort_by_alphabet", resourceCulture);
                 return ((byte[])(obj));
@@ -5633,7 +5633,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sort_by_attributes {
+        public static byte[] fa_sort_by_attributes {
             get {
                 object obj = ResourceManager.GetObject("fa_sort_by_attributes", resourceCulture);
                 return ((byte[])(obj));
@@ -5643,7 +5643,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sort_by_attributes_interface_button_option {
+        public static byte[] fa_sort_by_attributes_interface_button_option {
             get {
                 object obj = ResourceManager.GetObject("fa_sort_by_attributes_interface_button_option", resourceCulture);
                 return ((byte[])(obj));
@@ -5653,7 +5653,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sort_by_numeric_order {
+        public static byte[] fa_sort_by_numeric_order {
             get {
                 object obj = ResourceManager.GetObject("fa_sort_by_numeric_order", resourceCulture);
                 return ((byte[])(obj));
@@ -5663,7 +5663,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sort_by_order {
+        public static byte[] fa_sort_by_order {
             get {
                 object obj = ResourceManager.GetObject("fa_sort_by_order", resourceCulture);
                 return ((byte[])(obj));
@@ -5673,7 +5673,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sort_down {
+        public static byte[] fa_sort_down {
             get {
                 object obj = ResourceManager.GetObject("fa_sort_down", resourceCulture);
                 return ((byte[])(obj));
@@ -5683,7 +5683,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sort_reverse_alphabetical_order {
+        public static byte[] fa_sort_reverse_alphabetical_order {
             get {
                 object obj = ResourceManager.GetObject("fa_sort_reverse_alphabetical_order", resourceCulture);
                 return ((byte[])(obj));
@@ -5693,7 +5693,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sort_up {
+        public static byte[] fa_sort_up {
             get {
                 object obj = ResourceManager.GetObject("fa_sort_up", resourceCulture);
                 return ((byte[])(obj));
@@ -5703,7 +5703,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_speech_bubbles_comment_option {
+        public static byte[] fa_speech_bubbles_comment_option {
             get {
                 object obj = ResourceManager.GetObject("fa_speech_bubbles_comment_option", resourceCulture);
                 return ((byte[])(obj));
@@ -5713,7 +5713,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_spinner_of_dots {
+        public static byte[] fa_spinner_of_dots {
             get {
                 object obj = ResourceManager.GetObject("fa_spinner_of_dots", resourceCulture);
                 return ((byte[])(obj));
@@ -5723,7 +5723,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_square_shape_shadow {
+        public static byte[] fa_square_shape_shadow {
             get {
                 object obj = ResourceManager.GetObject("fa_square_shape_shadow", resourceCulture);
                 return ((byte[])(obj));
@@ -5733,7 +5733,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_stack_exchange_logo {
+        public static byte[] fa_stack_exchange_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_stack_exchange_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -5743,7 +5743,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_stack_exchange_symbol {
+        public static byte[] fa_stack_exchange_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_stack_exchange_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -5753,7 +5753,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_star {
+        public static byte[] fa_star {
             get {
                 object obj = ResourceManager.GetObject("fa_star", resourceCulture);
                 return ((byte[])(obj));
@@ -5763,7 +5763,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_star_1 {
+        public static byte[] fa_star_1 {
             get {
                 object obj = ResourceManager.GetObject("fa_star_1", resourceCulture);
                 return ((byte[])(obj));
@@ -5773,7 +5773,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_star_half_empty {
+        public static byte[] fa_star_half_empty {
             get {
                 object obj = ResourceManager.GetObject("fa_star_half_empty", resourceCulture);
                 return ((byte[])(obj));
@@ -5783,7 +5783,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_step_backward {
+        public static byte[] fa_step_backward {
             get {
                 object obj = ResourceManager.GetObject("fa_step_backward", resourceCulture);
                 return ((byte[])(obj));
@@ -5793,7 +5793,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_step_forward {
+        public static byte[] fa_step_forward {
             get {
                 object obj = ResourceManager.GetObject("fa_step_forward", resourceCulture);
                 return ((byte[])(obj));
@@ -5803,7 +5803,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_stethoscope {
+        public static byte[] fa_stethoscope {
             get {
                 object obj = ResourceManager.GetObject("fa_stethoscope", resourceCulture);
                 return ((byte[])(obj));
@@ -5813,7 +5813,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_strikethrough {
+        public static byte[] fa_strikethrough {
             get {
                 object obj = ResourceManager.GetObject("fa_strikethrough", resourceCulture);
                 return ((byte[])(obj));
@@ -5823,7 +5823,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_suitcase_with_white_details {
+        public static byte[] fa_suitcase_with_white_details {
             get {
                 object obj = ResourceManager.GetObject("fa_suitcase_with_white_details", resourceCulture);
                 return ((byte[])(obj));
@@ -5833,7 +5833,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_sun {
+        public static byte[] fa_sun {
             get {
                 object obj = ResourceManager.GetObject("fa_sun", resourceCulture);
                 return ((byte[])(obj));
@@ -5843,7 +5843,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_superscript_text_formatting {
+        public static byte[] fa_superscript_text_formatting {
             get {
                 object obj = ResourceManager.GetObject("fa_superscript_text_formatting", resourceCulture);
                 return ((byte[])(obj));
@@ -5853,7 +5853,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_table_grid {
+        public static byte[] fa_table_grid {
             get {
                 object obj = ResourceManager.GetObject("fa_table_grid", resourceCulture);
                 return ((byte[])(obj));
@@ -5863,7 +5863,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_tag_black_shape {
+        public static byte[] fa_tag_black_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_tag_black_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -5873,7 +5873,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_tags {
+        public static byte[] fa_tags {
             get {
                 object obj = ResourceManager.GetObject("fa_tags", resourceCulture);
                 return ((byte[])(obj));
@@ -5883,7 +5883,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_tasks_list {
+        public static byte[] fa_tasks_list {
             get {
                 object obj = ResourceManager.GetObject("fa_tasks_list", resourceCulture);
                 return ((byte[])(obj));
@@ -5893,7 +5893,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_telephone_handle_silhouette {
+        public static byte[] fa_telephone_handle_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_telephone_handle_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -5903,7 +5903,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_telephone_symbol_button {
+        public static byte[] fa_telephone_symbol_button {
             get {
                 object obj = ResourceManager.GetObject("fa_telephone_symbol_button", resourceCulture);
                 return ((byte[])(obj));
@@ -5913,7 +5913,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_terminal {
+        public static byte[] fa_terminal {
             get {
                 object obj = ResourceManager.GetObject("fa_terminal", resourceCulture);
                 return ((byte[])(obj));
@@ -5923,7 +5923,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_text_file {
+        public static byte[] fa_text_file {
             get {
                 object obj = ResourceManager.GetObject("fa_text_file", resourceCulture);
                 return ((byte[])(obj));
@@ -5933,7 +5933,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_text_file_1 {
+        public static byte[] fa_text_file_1 {
             get {
                 object obj = ResourceManager.GetObject("fa_text_file_1", resourceCulture);
                 return ((byte[])(obj));
@@ -5943,7 +5943,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_text_height_adjustment {
+        public static byte[] fa_text_height_adjustment {
             get {
                 object obj = ResourceManager.GetObject("fa_text_height_adjustment", resourceCulture);
                 return ((byte[])(obj));
@@ -5953,7 +5953,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_text_width {
+        public static byte[] fa_text_width {
             get {
                 object obj = ResourceManager.GetObject("fa_text_width", resourceCulture);
                 return ((byte[])(obj));
@@ -5963,7 +5963,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_thin_arrowheads_pointing_down {
+        public static byte[] fa_thin_arrowheads_pointing_down {
             get {
                 object obj = ResourceManager.GetObject("fa_thin_arrowheads_pointing_down", resourceCulture);
                 return ((byte[])(obj));
@@ -5973,7 +5973,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_three_small_square_shapes {
+        public static byte[] fa_three_small_square_shapes {
             get {
                 object obj = ResourceManager.GetObject("fa_three_small_square_shapes", resourceCulture);
                 return ((byte[])(obj));
@@ -5983,7 +5983,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_thumb_down {
+        public static byte[] fa_thumb_down {
             get {
                 object obj = ResourceManager.GetObject("fa_thumb_down", resourceCulture);
                 return ((byte[])(obj));
@@ -5993,7 +5993,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_thumbs_down_silhouette {
+        public static byte[] fa_thumbs_down_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_thumbs_down_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -6003,7 +6003,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_thumbs_up {
+        public static byte[] fa_thumbs_up {
             get {
                 object obj = ResourceManager.GetObject("fa_thumbs_up", resourceCulture);
                 return ((byte[])(obj));
@@ -6013,7 +6013,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_thumbs_up_hand_symbol {
+        public static byte[] fa_thumbs_up_hand_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_thumbs_up_hand_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -6023,7 +6023,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_ticket {
+        public static byte[] fa_ticket {
             get {
                 object obj = ResourceManager.GetObject("fa_ticket", resourceCulture);
                 return ((byte[])(obj));
@@ -6033,7 +6033,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_time {
+        public static byte[] fa_time {
             get {
                 object obj = ResourceManager.GetObject("fa_time", resourceCulture);
                 return ((byte[])(obj));
@@ -6043,7 +6043,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_times {
+        public static byte[] fa_times {
             get {
                 object obj = ResourceManager.GetObject("fa_times", resourceCulture);
                 return ((byte[])(obj));
@@ -6053,7 +6053,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_tint_drop {
+        public static byte[] fa_tint_drop {
             get {
                 object obj = ResourceManager.GetObject("fa_tint_drop", resourceCulture);
                 return ((byte[])(obj));
@@ -6063,7 +6063,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_trash {
+        public static byte[] fa_trash {
             get {
                 object obj = ResourceManager.GetObject("fa_trash", resourceCulture);
                 return ((byte[])(obj));
@@ -6073,7 +6073,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_trello_website_logo {
+        public static byte[] fa_trello_website_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_trello_website_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -6083,7 +6083,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_trophy {
+        public static byte[] fa_trophy {
             get {
                 object obj = ResourceManager.GetObject("fa_trophy", resourceCulture);
                 return ((byte[])(obj));
@@ -6093,7 +6093,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_tumblr_logo {
+        public static byte[] fa_tumblr_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_tumblr_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -6103,7 +6103,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_tumblr_logo_1 {
+        public static byte[] fa_tumblr_logo_1 {
             get {
                 object obj = ResourceManager.GetObject("fa_tumblr_logo_1", resourceCulture);
                 return ((byte[])(obj));
@@ -6113,7 +6113,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_turkish_lire_symbol {
+        public static byte[] fa_turkish_lire_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_turkish_lire_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -6123,7 +6123,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_twitter_black_shape {
+        public static byte[] fa_twitter_black_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_twitter_black_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -6133,7 +6133,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_twitter_sign {
+        public static byte[] fa_twitter_sign {
             get {
                 object obj = ResourceManager.GetObject("fa_twitter_sign", resourceCulture);
                 return ((byte[])(obj));
@@ -6143,7 +6143,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_two_columns_layout {
+        public static byte[] fa_two_columns_layout {
             get {
                 object obj = ResourceManager.GetObject("fa_two_columns_layout", resourceCulture);
                 return ((byte[])(obj));
@@ -6153,7 +6153,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_u_shaped_thick_magnet {
+        public static byte[] fa_u_shaped_thick_magnet {
             get {
                 object obj = ResourceManager.GetObject("fa_u_shaped_thick_magnet", resourceCulture);
                 return ((byte[])(obj));
@@ -6163,7 +6163,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_umbrella_black_silhouette {
+        public static byte[] fa_umbrella_black_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_umbrella_black_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -6173,7 +6173,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_underline_text_option {
+        public static byte[] fa_underline_text_option {
             get {
                 object obj = ResourceManager.GetObject("fa_underline_text_option", resourceCulture);
                 return ((byte[])(obj));
@@ -6183,7 +6183,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_undo_arrow {
+        public static byte[] fa_undo_arrow {
             get {
                 object obj = ResourceManager.GetObject("fa_undo_arrow", resourceCulture);
                 return ((byte[])(obj));
@@ -6193,7 +6193,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_unlink_symbol {
+        public static byte[] fa_unlink_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_unlink_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -6203,7 +6203,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_up_arrow {
+        public static byte[] fa_up_arrow {
             get {
                 object obj = ResourceManager.GetObject("fa_up_arrow", resourceCulture);
                 return ((byte[])(obj));
@@ -6213,7 +6213,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_up_chevron_button {
+        public static byte[] fa_up_chevron_button {
             get {
                 object obj = ResourceManager.GetObject("fa_up_chevron_button", resourceCulture);
                 return ((byte[])(obj));
@@ -6223,7 +6223,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_upload {
+        public static byte[] fa_upload {
             get {
                 object obj = ResourceManager.GetObject("fa_upload", resourceCulture);
                 return ((byte[])(obj));
@@ -6233,7 +6233,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_upload_button {
+        public static byte[] fa_upload_button {
             get {
                 object obj = ResourceManager.GetObject("fa_upload_button", resourceCulture);
                 return ((byte[])(obj));
@@ -6243,7 +6243,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_user_md_symbol {
+        public static byte[] fa_user_md_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_user_md_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -6253,7 +6253,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_user_shape {
+        public static byte[] fa_user_shape {
             get {
                 object obj = ResourceManager.GetObject("fa_user_shape", resourceCulture);
                 return ((byte[])(obj));
@@ -6263,7 +6263,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_vertical_ellipsis {
+        public static byte[] fa_vertical_ellipsis {
             get {
                 object obj = ResourceManager.GetObject("fa_vertical_ellipsis", resourceCulture);
                 return ((byte[])(obj));
@@ -6273,7 +6273,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_vertical_resizing_option {
+        public static byte[] fa_vertical_resizing_option {
             get {
                 object obj = ResourceManager.GetObject("fa_vertical_resizing_option", resourceCulture);
                 return ((byte[])(obj));
@@ -6283,7 +6283,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_video_play_square_button {
+        public static byte[] fa_video_play_square_button {
             get {
                 object obj = ResourceManager.GetObject("fa_video_play_square_button", resourceCulture);
                 return ((byte[])(obj));
@@ -6293,7 +6293,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_vimeo_square_logo {
+        public static byte[] fa_vimeo_square_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_vimeo_square_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -6303,7 +6303,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_vintage_key_outline {
+        public static byte[] fa_vintage_key_outline {
             get {
                 object obj = ResourceManager.GetObject("fa_vintage_key_outline", resourceCulture);
                 return ((byte[])(obj));
@@ -6313,7 +6313,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_vk_social_network_logo {
+        public static byte[] fa_vk_social_network_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_vk_social_network_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -6323,7 +6323,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_volume_off {
+        public static byte[] fa_volume_off {
             get {
                 object obj = ResourceManager.GetObject("fa_volume_off", resourceCulture);
                 return ((byte[])(obj));
@@ -6333,7 +6333,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_volume_up_interface_symbol {
+        public static byte[] fa_volume_up_interface_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_volume_up_interface_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -6343,7 +6343,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_warning_sign_on_a_triangular_background {
+        public static byte[] fa_warning_sign_on_a_triangular_background {
             get {
                 object obj = ResourceManager.GetObject("fa_warning_sign_on_a_triangular_background", resourceCulture);
                 return ((byte[])(obj));
@@ -6353,7 +6353,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_weibo_website_logo {
+        public static byte[] fa_weibo_website_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_weibo_website_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -6363,7 +6363,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_wheelchair {
+        public static byte[] fa_wheelchair {
             get {
                 object obj = ResourceManager.GetObject("fa_wheelchair", resourceCulture);
                 return ((byte[])(obj));
@@ -6373,7 +6373,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_white_flag_symbol {
+        public static byte[] fa_white_flag_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_white_flag_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -6383,7 +6383,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_windows_logo_silhouette {
+        public static byte[] fa_windows_logo_silhouette {
             get {
                 object obj = ResourceManager.GetObject("fa_windows_logo_silhouette", resourceCulture);
                 return ((byte[])(obj));
@@ -6393,7 +6393,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_x2_symbol_of_a_letter_and_a_number_subscript {
+        public static byte[] fa_x2_symbol_of_a_letter_and_a_number_subscript {
             get {
                 object obj = ResourceManager.GetObject("fa_x2_symbol_of_a_letter_and_a_number_subscript", resourceCulture);
                 return ((byte[])(obj));
@@ -6403,7 +6403,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_xing_logo {
+        public static byte[] fa_xing_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_xing_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -6413,7 +6413,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_xing_logotype {
+        public static byte[] fa_xing_logotype {
             get {
                 object obj = ResourceManager.GetObject("fa_xing_logotype", resourceCulture);
                 return ((byte[])(obj));
@@ -6423,7 +6423,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_yen_symbol {
+        public static byte[] fa_yen_symbol {
             get {
                 object obj = ResourceManager.GetObject("fa_yen_symbol", resourceCulture);
                 return ((byte[])(obj));
@@ -6433,7 +6433,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_youtube_logo {
+        public static byte[] fa_youtube_logo {
             get {
                 object obj = ResourceManager.GetObject("fa_youtube_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -6443,7 +6443,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_youtube_logo_1 {
+        public static byte[] fa_youtube_logo_1 {
             get {
                 object obj = ResourceManager.GetObject("fa_youtube_logo_1", resourceCulture);
                 return ((byte[])(obj));
@@ -6453,7 +6453,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_youtube_logo_2 {
+        public static byte[] fa_youtube_logo_2 {
             get {
                 object obj = ResourceManager.GetObject("fa_youtube_logo_2", resourceCulture);
                 return ((byte[])(obj));
@@ -6463,7 +6463,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_zoom_in {
+        public static byte[] fa_zoom_in {
             get {
                 object obj = ResourceManager.GetObject("fa_zoom_in", resourceCulture);
                 return ((byte[])(obj));
@@ -6473,7 +6473,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] fa_zoom_out {
+        public static byte[] fa_zoom_out {
             get {
                 object obj = ResourceManager.GetObject("fa_zoom_out", resourceCulture);
                 return ((byte[])(obj));
@@ -6483,7 +6483,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_a {
+        public static byte[] grade_small_a {
             get {
                 object obj = ResourceManager.GetObject("grade_small_a", resourceCulture);
                 return ((byte[])(obj));
@@ -6493,7 +6493,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_b {
+        public static byte[] grade_small_b {
             get {
                 object obj = ResourceManager.GetObject("grade_small_b", resourceCulture);
                 return ((byte[])(obj));
@@ -6503,7 +6503,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_c {
+        public static byte[] grade_small_c {
             get {
                 object obj = ResourceManager.GetObject("grade_small_c", resourceCulture);
                 return ((byte[])(obj));
@@ -6513,7 +6513,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_d {
+        public static byte[] grade_small_d {
             get {
                 object obj = ResourceManager.GetObject("grade_small_d", resourceCulture);
                 return ((byte[])(obj));
@@ -6523,7 +6523,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_f {
+        public static byte[] grade_small_f {
             get {
                 object obj = ResourceManager.GetObject("grade_small_f", resourceCulture);
                 return ((byte[])(obj));
@@ -6533,7 +6533,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_s {
+        public static byte[] grade_small_s {
             get {
                 object obj = ResourceManager.GetObject("grade_small_s", resourceCulture);
                 return ((byte[])(obj));
@@ -6543,7 +6543,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_s_ {
+        public static byte[] grade_small_s_ {
             get {
                 object obj = ResourceManager.GetObject("grade_small_s_", resourceCulture);
                 return ((byte[])(obj));
@@ -6553,7 +6553,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_ss {
+        public static byte[] grade_small_ss {
             get {
                 object obj = ResourceManager.GetObject("grade_small_ss", resourceCulture);
                 return ((byte[])(obj));
@@ -6563,7 +6563,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_x {
+        public static byte[] grade_small_x {
             get {
                 object obj = ResourceManager.GetObject("grade_small_x", resourceCulture);
                 return ((byte[])(obj));
@@ -6573,7 +6573,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_xx {
+        public static byte[] grade_small_xx {
             get {
                 object obj = ResourceManager.GetObject("grade_small_xx", resourceCulture);
                 return ((byte[])(obj));
@@ -6583,7 +6583,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] grade_small_xxx {
+        public static byte[] grade_small_xxx {
             get {
                 object obj = ResourceManager.GetObject("grade_small_xxx", resourceCulture);
                 return ((byte[])(obj));
@@ -6593,7 +6593,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] graph_axis_long {
+        public static byte[] graph_axis_long {
             get {
                 object obj = ResourceManager.GetObject("graph_axis_long", resourceCulture);
                 return ((byte[])(obj));
@@ -6603,7 +6603,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] graph_axis_short {
+        public static byte[] graph_axis_short {
             get {
                 object obj = ResourceManager.GetObject("graph_axis_short", resourceCulture);
                 return ((byte[])(obj));
@@ -6613,7 +6613,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] health_background {
+        public static byte[] health_background {
             get {
                 object obj = ResourceManager.GetObject("health_background", resourceCulture);
                 return ((byte[])(obj));
@@ -6623,7 +6623,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] health_foreground {
+        public static byte[] health_foreground {
             get {
                 object obj = ResourceManager.GetObject("health_foreground", resourceCulture);
                 return ((byte[])(obj));
@@ -6633,7 +6633,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] hollow_box {
+        public static byte[] hollow_box {
             get {
                 object obj = ResourceManager.GetObject("hollow_box", resourceCulture);
                 return ((byte[])(obj));
@@ -6643,7 +6643,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] judge_good {
+        public static byte[] judge_good {
             get {
                 object obj = ResourceManager.GetObject("judge_good", resourceCulture);
                 return ((byte[])(obj));
@@ -6653,7 +6653,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] judge_great {
+        public static byte[] judge_great {
             get {
                 object obj = ResourceManager.GetObject("judge_great", resourceCulture);
                 return ((byte[])(obj));
@@ -6663,7 +6663,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] judge_marv {
+        public static byte[] judge_marv {
             get {
                 object obj = ResourceManager.GetObject("judge_marv", resourceCulture);
                 return ((byte[])(obj));
@@ -6673,7 +6673,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] judge_miss {
+        public static byte[] judge_miss {
             get {
                 object obj = ResourceManager.GetObject("judge_miss", resourceCulture);
                 return ((byte[])(obj));
@@ -6683,7 +6683,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] judge_okay {
+        public static byte[] judge_okay {
             get {
                 object obj = ResourceManager.GetObject("judge_okay", resourceCulture);
                 return ((byte[])(obj));
@@ -6693,7 +6693,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] judge_perf {
+        public static byte[] judge_perf {
             get {
                 object obj = ResourceManager.GetObject("judge_perf", resourceCulture);
                 return ((byte[])(obj));
@@ -6703,7 +6703,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] judgement_overlay {
+        public static byte[] judgement_overlay {
             get {
                 object obj = ResourceManager.GetObject("judgement_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -6713,7 +6713,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] judgement_overlay1 {
+        public static byte[] judgement_overlay1 {
             get {
                 object obj = ResourceManager.GetObject("judgement_overlay1", resourceCulture);
                 return ((byte[])(obj));
@@ -6723,7 +6723,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] left_button_square {
+        public static byte[] left_button_square {
             get {
                 object obj = ResourceManager.GetObject("left_button_square", resourceCulture);
                 return ((byte[])(obj));
@@ -6733,7 +6733,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] loading_wheel {
+        public static byte[] loading_wheel {
             get {
                 object obj = ResourceManager.GetObject("loading_wheel", resourceCulture);
                 return ((byte[])(obj));
@@ -6743,7 +6743,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] main_cursor {
+        public static byte[] main_cursor {
             get {
                 object obj = ResourceManager.GetObject("main_cursor", resourceCulture);
                 return ((byte[])(obj));
@@ -6753,7 +6753,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] menu_background {
+        public static byte[] menu_background {
             get {
                 object obj = ResourceManager.GetObject("menu_background", resourceCulture);
                 return ((byte[])(obj));
@@ -6763,7 +6763,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] menu_competitive {
+        public static byte[] menu_competitive {
             get {
                 object obj = ResourceManager.GetObject("menu_competitive", resourceCulture);
                 return ((byte[])(obj));
@@ -6773,7 +6773,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] menu_lock {
+        public static byte[] menu_lock {
             get {
                 object obj = ResourceManager.GetObject("menu_lock", resourceCulture);
                 return ((byte[])(obj));
@@ -6783,7 +6783,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] menu_multiplayer {
+        public static byte[] menu_multiplayer {
             get {
                 object obj = ResourceManager.GetObject("menu_multiplayer", resourceCulture);
                 return ((byte[])(obj));
@@ -6793,7 +6793,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] menu_news {
+        public static byte[] menu_news {
             get {
                 object obj = ResourceManager.GetObject("menu_news", resourceCulture);
                 return ((byte[])(obj));
@@ -6803,7 +6803,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] menu_single_player {
+        public static byte[] menu_single_player {
             get {
                 object obj = ResourceManager.GetObject("menu_single_player", resourceCulture);
                 return ((byte[])(obj));
@@ -6813,7 +6813,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] metadata_container {
+        public static byte[] metadata_container {
             get {
                 object obj = ResourceManager.GetObject("metadata_container", resourceCulture);
                 return ((byte[])(obj));
@@ -6823,7 +6823,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] notif_error {
+        public static byte[] notif_error {
             get {
                 object obj = ResourceManager.GetObject("notif_error", resourceCulture);
                 return ((byte[])(obj));
@@ -6833,7 +6833,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] notif_info {
+        public static byte[] notif_info {
             get {
                 object obj = ResourceManager.GetObject("notif_info", resourceCulture);
                 return ((byte[])(obj));
@@ -6843,7 +6843,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] notif_success {
+        public static byte[] notif_success {
             get {
                 object obj = ResourceManager.GetObject("notif_success", resourceCulture);
                 return ((byte[])(obj));
@@ -6853,7 +6853,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] notif_warning {
+        public static byte[] notif_warning {
             get {
                 object obj = ResourceManager.GetObject("notif_warning", resourceCulture);
                 return ((byte[])(obj));
@@ -6863,7 +6863,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] pause_back {
+        public static byte[] pause_back {
             get {
                 object obj = ResourceManager.GetObject("pause_back", resourceCulture);
                 return ((byte[])(obj));
@@ -6873,7 +6873,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] pause_background {
+        public static byte[] pause_background {
             get {
                 object obj = ResourceManager.GetObject("pause_background", resourceCulture);
                 return ((byte[])(obj));
@@ -6883,7 +6883,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] pause_continue {
+        public static byte[] pause_continue {
             get {
                 object obj = ResourceManager.GetObject("pause_continue", resourceCulture);
                 return ((byte[])(obj));
@@ -6893,7 +6893,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] pause_retry {
+        public static byte[] pause_retry {
             get {
                 object obj = ResourceManager.GetObject("pause_retry", resourceCulture);
                 return ((byte[])(obj));
@@ -6903,7 +6903,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] quaver_logo {
+        public static byte[] quaver_logo {
             get {
                 object obj = ResourceManager.GetObject("quaver_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -6913,7 +6913,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] quaver_logo_full {
+        public static byte[] quaver_logo_full {
             get {
                 object obj = ResourceManager.GetObject("quaver_logo_full", resourceCulture);
                 return ((byte[])(obj));
@@ -6923,7 +6923,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] quaver_logo_only {
+        public static byte[] quaver_logo_only {
             get {
                 object obj = ResourceManager.GetObject("quaver_logo_only", resourceCulture);
                 return ((byte[])(obj));
@@ -6933,7 +6933,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] quaver_logo_stylish {
+        public static byte[] quaver_logo_stylish {
             get {
                 object obj = ResourceManager.GetObject("quaver_logo_stylish", resourceCulture);
                 return ((byte[])(obj));
@@ -6943,7 +6943,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] ranked_status_flag {
+        public static byte[] ranked_status_flag {
             get {
                 object obj = ResourceManager.GetObject("ranked_status_flag", resourceCulture);
                 return ((byte[])(obj));
@@ -6953,7 +6953,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] right_button_square {
+        public static byte[] right_button_square {
             get {
                 object obj = ResourceManager.GetObject("right_button_square", resourceCulture);
                 return ((byte[])(obj));
@@ -6963,7 +6963,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] rounded_square {
+        public static byte[] rounded_square {
             get {
                 object obj = ResourceManager.GetObject("rounded_square", resourceCulture);
                 return ((byte[])(obj));
@@ -6973,7 +6973,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_0 {
+        public static byte[] score_0 {
             get {
                 object obj = ResourceManager.GetObject("score_0", resourceCulture);
                 return ((byte[])(obj));
@@ -6983,7 +6983,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_1 {
+        public static byte[] score_1 {
             get {
                 object obj = ResourceManager.GetObject("score_1", resourceCulture);
                 return ((byte[])(obj));
@@ -6993,7 +6993,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_2 {
+        public static byte[] score_2 {
             get {
                 object obj = ResourceManager.GetObject("score_2", resourceCulture);
                 return ((byte[])(obj));
@@ -7003,7 +7003,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_3 {
+        public static byte[] score_3 {
             get {
                 object obj = ResourceManager.GetObject("score_3", resourceCulture);
                 return ((byte[])(obj));
@@ -7013,7 +7013,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_4 {
+        public static byte[] score_4 {
             get {
                 object obj = ResourceManager.GetObject("score_4", resourceCulture);
                 return ((byte[])(obj));
@@ -7023,7 +7023,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_5 {
+        public static byte[] score_5 {
             get {
                 object obj = ResourceManager.GetObject("score_5", resourceCulture);
                 return ((byte[])(obj));
@@ -7033,7 +7033,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_6 {
+        public static byte[] score_6 {
             get {
                 object obj = ResourceManager.GetObject("score_6", resourceCulture);
                 return ((byte[])(obj));
@@ -7043,7 +7043,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_7 {
+        public static byte[] score_7 {
             get {
                 object obj = ResourceManager.GetObject("score_7", resourceCulture);
                 return ((byte[])(obj));
@@ -7053,7 +7053,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_8 {
+        public static byte[] score_8 {
             get {
                 object obj = ResourceManager.GetObject("score_8", resourceCulture);
                 return ((byte[])(obj));
@@ -7063,7 +7063,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_9 {
+        public static byte[] score_9 {
             get {
                 object obj = ResourceManager.GetObject("score_9", resourceCulture);
                 return ((byte[])(obj));
@@ -7073,7 +7073,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_decimal {
+        public static byte[] score_decimal {
             get {
                 object obj = ResourceManager.GetObject("score_decimal", resourceCulture);
                 return ((byte[])(obj));
@@ -7083,7 +7083,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] score_percent {
+        public static byte[] score_percent {
             get {
                 object obj = ResourceManager.GetObject("score_percent", resourceCulture);
                 return ((byte[])(obj));
@@ -7093,7 +7093,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] scoreboard {
+        public static byte[] scoreboard {
             get {
                 object obj = ResourceManager.GetObject("scoreboard", resourceCulture);
                 return ((byte[])(obj));
@@ -7103,7 +7103,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] scoreboard_other {
+        public static byte[] scoreboard_other {
             get {
                 object obj = ResourceManager.GetObject("scoreboard_other", resourceCulture);
                 return ((byte[])(obj));
@@ -7113,7 +7113,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] search_bar {
+        public static byte[] search_bar {
             get {
                 object obj = ResourceManager.GetObject("search_bar", resourceCulture);
                 return ((byte[])(obj));
@@ -7123,7 +7123,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] select_border {
+        public static byte[] select_border {
             get {
                 object obj = ResourceManager.GetObject("select_border", resourceCulture);
                 return ((byte[])(obj));
@@ -7133,7 +7133,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] select_info_background {
+        public static byte[] select_info_background {
             get {
                 object obj = ResourceManager.GetObject("select_info_background", resourceCulture);
                 return ((byte[])(obj));
@@ -7143,7 +7143,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] select_search_background {
+        public static byte[] select_search_background {
             get {
                 object obj = ResourceManager.GetObject("select_search_background", resourceCulture);
                 return ((byte[])(obj));
@@ -7153,7 +7153,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] send_message_button {
+        public static byte[] send_message_button {
             get {
                 object obj = ResourceManager.GetObject("send_message_button", resourceCulture);
                 return ((byte[])(obj));
@@ -7163,7 +7163,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] set_select_mask {
+        public static byte[] set_select_mask {
             get {
                 object obj = ResourceManager.GetObject("set_select_mask", resourceCulture);
                 return ((byte[])(obj));
@@ -7173,7 +7173,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] skip_1x31 {
+        public static byte[] skip_1x31 {
             get {
                 object obj = ResourceManager.GetObject("skip_1x31", resourceCulture);
                 return ((byte[])(obj));
@@ -7183,7 +7183,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_0 {
+        public static byte[] song_time_0 {
             get {
                 object obj = ResourceManager.GetObject("song_time_0", resourceCulture);
                 return ((byte[])(obj));
@@ -7193,7 +7193,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_1 {
+        public static byte[] song_time_1 {
             get {
                 object obj = ResourceManager.GetObject("song_time_1", resourceCulture);
                 return ((byte[])(obj));
@@ -7203,7 +7203,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_2 {
+        public static byte[] song_time_2 {
             get {
                 object obj = ResourceManager.GetObject("song_time_2", resourceCulture);
                 return ((byte[])(obj));
@@ -7213,7 +7213,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_3 {
+        public static byte[] song_time_3 {
             get {
                 object obj = ResourceManager.GetObject("song_time_3", resourceCulture);
                 return ((byte[])(obj));
@@ -7223,7 +7223,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_4 {
+        public static byte[] song_time_4 {
             get {
                 object obj = ResourceManager.GetObject("song_time_4", resourceCulture);
                 return ((byte[])(obj));
@@ -7233,7 +7233,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_5 {
+        public static byte[] song_time_5 {
             get {
                 object obj = ResourceManager.GetObject("song_time_5", resourceCulture);
                 return ((byte[])(obj));
@@ -7243,7 +7243,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_6 {
+        public static byte[] song_time_6 {
             get {
                 object obj = ResourceManager.GetObject("song_time_6", resourceCulture);
                 return ((byte[])(obj));
@@ -7253,7 +7253,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_7 {
+        public static byte[] song_time_7 {
             get {
                 object obj = ResourceManager.GetObject("song_time_7", resourceCulture);
                 return ((byte[])(obj));
@@ -7263,7 +7263,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_8 {
+        public static byte[] song_time_8 {
             get {
                 object obj = ResourceManager.GetObject("song_time_8", resourceCulture);
                 return ((byte[])(obj));
@@ -7273,7 +7273,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_9 {
+        public static byte[] song_time_9 {
             get {
                 object obj = ResourceManager.GetObject("song_time_9", resourceCulture);
                 return ((byte[])(obj));
@@ -7283,7 +7283,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_colon {
+        public static byte[] song_time_colon {
             get {
                 object obj = ResourceManager.GetObject("song_time_colon", resourceCulture);
                 return ((byte[])(obj));
@@ -7293,7 +7293,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] song_time_minus {
+        public static byte[] song_time_minus {
             get {
                 object obj = ResourceManager.GetObject("song_time_minus", resourceCulture);
                 return ((byte[])(obj));
@@ -7303,7 +7303,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_applause {
+        public static System.IO.UnmanagedMemoryStream sound_applause {
             get {
                 return ResourceManager.GetStream("sound_applause", resourceCulture);
             }
@@ -7312,7 +7312,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_back {
+        public static System.IO.UnmanagedMemoryStream sound_back {
             get {
                 return ResourceManager.GetStream("sound_back", resourceCulture);
             }
@@ -7321,7 +7321,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_click {
+        public static System.IO.UnmanagedMemoryStream sound_click {
             get {
                 return ResourceManager.GetStream("sound_click", resourceCulture);
             }
@@ -7330,7 +7330,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_combobreak {
+        public static System.IO.UnmanagedMemoryStream sound_combobreak {
             get {
                 return ResourceManager.GetStream("sound_combobreak", resourceCulture);
             }
@@ -7339,7 +7339,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_failure {
+        public static System.IO.UnmanagedMemoryStream sound_failure {
             get {
                 return ResourceManager.GetStream("sound_failure", resourceCulture);
             }
@@ -7348,7 +7348,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_hit {
+        public static System.IO.UnmanagedMemoryStream sound_hit {
             get {
                 return ResourceManager.GetStream("sound_hit", resourceCulture);
             }
@@ -7357,7 +7357,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_hitclap {
+        public static System.IO.UnmanagedMemoryStream sound_hitclap {
             get {
                 return ResourceManager.GetStream("sound_hitclap", resourceCulture);
             }
@@ -7366,7 +7366,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_hitfinish {
+        public static System.IO.UnmanagedMemoryStream sound_hitfinish {
             get {
                 return ResourceManager.GetStream("sound_hitfinish", resourceCulture);
             }
@@ -7375,7 +7375,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_hitwhistle {
+        public static System.IO.UnmanagedMemoryStream sound_hitwhistle {
             get {
                 return ResourceManager.GetStream("sound_hitwhistle", resourceCulture);
             }
@@ -7384,7 +7384,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_hover {
+        public static System.IO.UnmanagedMemoryStream sound_hover {
             get {
                 return ResourceManager.GetStream("sound_hover", resourceCulture);
             }
@@ -7393,7 +7393,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_retry {
+        public static System.IO.UnmanagedMemoryStream sound_retry {
             get {
                 return ResourceManager.GetStream("sound_retry", resourceCulture);
             }
@@ -7402,7 +7402,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_screenshot {
+        public static System.IO.UnmanagedMemoryStream sound_screenshot {
             get {
                 return ResourceManager.GetStream("sound_screenshot", resourceCulture);
             }
@@ -7411,7 +7411,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream sound_woosh {
+        public static System.IO.UnmanagedMemoryStream sound_woosh {
             get {
                 return ResourceManager.GetStream("sound_woosh", resourceCulture);
             }
@@ -7420,7 +7420,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] square_border {
+        public static byte[] square_border {
             get {
                 object obj = ResourceManager.GetObject("square_border", resourceCulture);
                 return ((byte[])(obj));
@@ -7430,7 +7430,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] swan_logo {
+        public static byte[] swan_logo {
             get {
                 object obj = ResourceManager.GetObject("swan_logo", resourceCulture);
                 return ((byte[])(obj));
@@ -7440,7 +7440,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] test_spritesheet {
+        public static byte[] test_spritesheet {
             get {
                 object obj = ResourceManager.GetObject("test_spritesheet", resourceCulture);
                 return ((byte[])(obj));
@@ -7450,7 +7450,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] title_default {
+        public static byte[] title_default {
             get {
                 object obj = ResourceManager.GetObject("title_default", resourceCulture);
                 return ((byte[])(obj));
@@ -7460,7 +7460,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] unknown_avatar {
+        public static byte[] unknown_avatar {
             get {
                 object obj = ResourceManager.GetObject("unknown_avatar", resourceCulture);
                 return ((byte[])(obj));
@@ -7470,7 +7470,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] username_selection_background {
+        public static byte[] username_selection_background {
             get {
                 object obj = ResourceManager.GetObject("username_selection_background", resourceCulture);
                 return ((byte[])(obj));
@@ -7480,7 +7480,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] username_selection_textbox {
+        public static byte[] username_selection_textbox {
             get {
                 object obj = ResourceManager.GetObject("username_selection_textbox", resourceCulture);
                 return ((byte[])(obj));
@@ -7490,7 +7490,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] username_selection_textbox_overlay {
+        public static byte[] username_selection_textbox_overlay {
             get {
                 object obj = ResourceManager.GetObject("username_selection_textbox_overlay", resourceCulture);
                 return ((byte[])(obj));
@@ -7500,7 +7500,7 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] you_avatar {
+        public static byte[] you_avatar {
             get {
                 object obj = ResourceManager.GetObject("you_avatar", resourceCulture);
                 return ((byte[])(obj));
