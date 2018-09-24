@@ -9,4 +9,19 @@
     <EmbeddedResource Include="Textures\**\*" />
     <EmbeddedResource Include="Fonts\**\*" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="QuaverResources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>QuaverResources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="QuaverResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>QuaverResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
 </Project>
