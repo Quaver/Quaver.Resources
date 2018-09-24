@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="Resources\**\*" />
+    <EmbeddedResource Include="SFX\**\*" />
+    <EmbeddedResource Include="Textures\**\*" />
+    <EmbeddedResource Include="Fonts\**\*" />
   </ItemGroup>
 </Project>
