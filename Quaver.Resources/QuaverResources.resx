@@ -2356,4 +2356,16 @@
   <data name="main_cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\skins\shared\cursor\main-cursor.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="thumbnail_competitive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\main menu\thumbnail-competitive.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="thumbnail_custom_games" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\main menu\thumbnail-custom-games.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="thumbnail_editor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\main menu\thumbnail-editor.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="thumbnail_single_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\main menu\thumbnail-single-player.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
