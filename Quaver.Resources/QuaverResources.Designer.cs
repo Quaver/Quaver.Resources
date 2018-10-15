@@ -63,6 +63,56 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Abkhazia {
+            get {
+                object obj = ResourceManager.GetObject("Abkhazia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Afghanistan {
+            get {
+                object obj = ResourceManager.GetObject("Afghanistan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Aland {
+            get {
+                object obj = ResourceManager.GetObject("Aland", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Albania {
+            get {
+                object obj = ResourceManager.GetObject("Albania", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Algeria {
+            get {
+                object obj = ResourceManager.GetObject("Algeria", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] aller_bold_16 {
             get {
                 object obj = ResourceManager.GetObject("aller_bold_16", resourceCulture);
@@ -86,6 +136,86 @@ namespace Quaver.Resources {
         public static byte[] aller_regular_16 {
             get {
                 object obj = ResourceManager.GetObject("aller_regular_16", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] American_Samoa {
+            get {
+                object obj = ResourceManager.GetObject("American_Samoa", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Andorra {
+            get {
+                object obj = ResourceManager.GetObject("Andorra", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Angola {
+            get {
+                object obj = ResourceManager.GetObject("Angola", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Anguilla {
+            get {
+                object obj = ResourceManager.GetObject("Anguilla", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Antarctica {
+            get {
+                object obj = ResourceManager.GetObject("Antarctica", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Antigua_and_Barbuda {
+            get {
+                object obj = ResourceManager.GetObject("Antigua_and_Barbuda", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Argentina {
+            get {
+                object obj = ResourceManager.GetObject("Argentina", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Armenia {
+            get {
+                object obj = ResourceManager.GetObject("Armenia", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1573,6 +1703,76 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Aruba {
+            get {
+                object obj = ResourceManager.GetObject("Aruba", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Australia {
+            get {
+                object obj = ResourceManager.GetObject("Australia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Austria {
+            get {
+                object obj = ResourceManager.GetObject("Austria", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Azerbaijan {
+            get {
+                object obj = ResourceManager.GetObject("Azerbaijan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Bahamas {
+            get {
+                object obj = ResourceManager.GetObject("Bahamas", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Bahrain {
+            get {
+                object obj = ResourceManager.GetObject("Bahrain", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Bangladesh {
+            get {
+                object obj = ResourceManager.GetObject("Bangladesh", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] bar_4k_column_lighting {
             get {
                 object obj = ResourceManager.GetObject("bar_4k_column_lighting", resourceCulture);
@@ -2433,6 +2633,86 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Barbados {
+            get {
+                object obj = ResourceManager.GetObject("Barbados", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Basque_Country {
+            get {
+                object obj = ResourceManager.GetObject("Basque_Country", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Belarus {
+            get {
+                object obj = ResourceManager.GetObject("Belarus", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Belgium {
+            get {
+                object obj = ResourceManager.GetObject("Belgium", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Belize {
+            get {
+                object obj = ResourceManager.GetObject("Belize", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Benin {
+            get {
+                object obj = ResourceManager.GetObject("Benin", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Bermuda {
+            get {
+                object obj = ResourceManager.GetObject("Bermuda", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Bhutan {
+            get {
+                object obj = ResourceManager.GetObject("Bhutan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] blank_box {
             get {
                 object obj = ResourceManager.GetObject("blank_box", resourceCulture);
@@ -2443,9 +2723,239 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Bolivia {
+            get {
+                object obj = ResourceManager.GetObject("Bolivia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Bosnia_and_Herzegovina {
+            get {
+                object obj = ResourceManager.GetObject("Bosnia_and_Herzegovina", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Botswana {
+            get {
+                object obj = ResourceManager.GetObject("Botswana", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Brazil {
+            get {
+                object obj = ResourceManager.GetObject("Brazil", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] British_Antarctic_Territory {
+            get {
+                object obj = ResourceManager.GetObject("British_Antarctic_Territory", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] British_Virgin_Islands {
+            get {
+                object obj = ResourceManager.GetObject("British_Virgin_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Brunei {
+            get {
+                object obj = ResourceManager.GetObject("Brunei", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Bulgaria {
+            get {
+                object obj = ResourceManager.GetObject("Bulgaria", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Burkina_Faso {
+            get {
+                object obj = ResourceManager.GetObject("Burkina_Faso", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Burundi {
+            get {
+                object obj = ResourceManager.GetObject("Burundi", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Cambodia {
+            get {
+                object obj = ResourceManager.GetObject("Cambodia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Cameroon {
+            get {
+                object obj = ResourceManager.GetObject("Cameroon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Canada {
+            get {
+                object obj = ResourceManager.GetObject("Canada", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Canary_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Canary_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Cape_Verde {
+            get {
+                object obj = ResourceManager.GetObject("Cape_Verde", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Cayman_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Cayman_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Central_African_Republic {
+            get {
+                object obj = ResourceManager.GetObject("Central_African_Republic", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Chad {
+            get {
+                object obj = ResourceManager.GetObject("Chad", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Chile {
+            get {
+                object obj = ResourceManager.GetObject("Chile", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] China {
+            get {
+                object obj = ResourceManager.GetObject("China", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Christmas_Island {
+            get {
+                object obj = ResourceManager.GetObject("Christmas_Island", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] close_channel_button {
             get {
                 object obj = ResourceManager.GetObject("close_channel_button", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Cocos_Keeling_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Cocos_Keeling_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Colombia {
+            get {
+                object obj = ResourceManager.GetObject("Colombia", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2553,6 +3063,26 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Commonwealth {
+            get {
+                object obj = ResourceManager.GetObject("Commonwealth", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Comoros {
+            get {
+                object obj = ResourceManager.GetObject("Comoros", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] comp_0 {
             get {
                 object obj = ResourceManager.GetObject("comp_0", resourceCulture);
@@ -2566,6 +3096,106 @@ namespace Quaver.Resources {
         public static byte[] connecting_background {
             get {
                 object obj = ResourceManager.GetObject("connecting_background", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Cook_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Cook_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Costa_Rica {
+            get {
+                object obj = ResourceManager.GetObject("Costa_Rica", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Cote_dIvoire {
+            get {
+                object obj = ResourceManager.GetObject("Cote_dIvoire", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Croatia {
+            get {
+                object obj = ResourceManager.GetObject("Croatia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Cuba {
+            get {
+                object obj = ResourceManager.GetObject("Cuba", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Curacao {
+            get {
+                object obj = ResourceManager.GetObject("Curacao", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Cyprus {
+            get {
+                object obj = ResourceManager.GetObject("Cyprus", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Czech_Republic {
+            get {
+                object obj = ResourceManager.GetObject("Czech_Republic", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Democratic_Republic_of_the_Congo {
+            get {
+                object obj = ResourceManager.GetObject("Democratic_Republic_of_the_Congo", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Denmark {
+            get {
+                object obj = ResourceManager.GetObject("Denmark", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2606,6 +3236,136 @@ namespace Quaver.Resources {
         public static byte[] diff_select_mask {
             get {
                 object obj = ResourceManager.GetObject("diff_select_mask", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Djibouti {
+            get {
+                object obj = ResourceManager.GetObject("Djibouti", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Dominica {
+            get {
+                object obj = ResourceManager.GetObject("Dominica", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Dominican_Republic {
+            get {
+                object obj = ResourceManager.GetObject("Dominican_Republic", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] East_Timor {
+            get {
+                object obj = ResourceManager.GetObject("East_Timor", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Ecuador {
+            get {
+                object obj = ResourceManager.GetObject("Ecuador", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Egypt {
+            get {
+                object obj = ResourceManager.GetObject("Egypt", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] El_Salvador {
+            get {
+                object obj = ResourceManager.GetObject("El_Salvador", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] England {
+            get {
+                object obj = ResourceManager.GetObject("England", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Equatorial_Guinea {
+            get {
+                object obj = ResourceManager.GetObject("Equatorial_Guinea", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Eritrea {
+            get {
+                object obj = ResourceManager.GetObject("Eritrea", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Estonia {
+            get {
+                object obj = ResourceManager.GetObject("Estonia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Ethiopia {
+            get {
+                object obj = ResourceManager.GetObject("Ethiopia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] European_Union {
+            get {
+                object obj = ResourceManager.GetObject("European_Union", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -6493,6 +7253,146 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Falkland_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Falkland_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Faroes {
+            get {
+                object obj = ResourceManager.GetObject("Faroes", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Fiji {
+            get {
+                object obj = ResourceManager.GetObject("Fiji", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Finland {
+            get {
+                object obj = ResourceManager.GetObject("Finland", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] France {
+            get {
+                object obj = ResourceManager.GetObject("France", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] French_Polynesia {
+            get {
+                object obj = ResourceManager.GetObject("French_Polynesia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] French_Southern_Territories {
+            get {
+                object obj = ResourceManager.GetObject("French_Southern_Territories", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Gabon {
+            get {
+                object obj = ResourceManager.GetObject("Gabon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Gambia {
+            get {
+                object obj = ResourceManager.GetObject("Gambia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Georgia {
+            get {
+                object obj = ResourceManager.GetObject("Georgia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Germany {
+            get {
+                object obj = ResourceManager.GetObject("Germany", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Ghana {
+            get {
+                object obj = ResourceManager.GetObject("Ghana", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Gibraltar {
+            get {
+                object obj = ResourceManager.GetObject("Gibraltar", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] GoSquared {
+            get {
+                object obj = ResourceManager.GetObject("GoSquared", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] grade_small_a {
             get {
                 object obj = ResourceManager.GetObject("grade_small_a", resourceCulture);
@@ -6623,6 +7523,106 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Greece {
+            get {
+                object obj = ResourceManager.GetObject("Greece", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Greenland {
+            get {
+                object obj = ResourceManager.GetObject("Greenland", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Grenada {
+            get {
+                object obj = ResourceManager.GetObject("Grenada", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Guam {
+            get {
+                object obj = ResourceManager.GetObject("Guam", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Guatemala {
+            get {
+                object obj = ResourceManager.GetObject("Guatemala", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Guernsey {
+            get {
+                object obj = ResourceManager.GetObject("Guernsey", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Guinea {
+            get {
+                object obj = ResourceManager.GetObject("Guinea", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Guinea_Bissau {
+            get {
+                object obj = ResourceManager.GetObject("Guinea_Bissau", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Guyana {
+            get {
+                object obj = ResourceManager.GetObject("Guyana", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Haiti {
+            get {
+                object obj = ResourceManager.GetObject("Haiti", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] health_background {
             get {
                 object obj = ResourceManager.GetObject("health_background", resourceCulture);
@@ -6646,6 +7646,166 @@ namespace Quaver.Resources {
         public static byte[] hollow_box {
             get {
                 object obj = ResourceManager.GetObject("hollow_box", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Honduras {
+            get {
+                object obj = ResourceManager.GetObject("Honduras", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Hong_Kong {
+            get {
+                object obj = ResourceManager.GetObject("Hong_Kong", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Hungary {
+            get {
+                object obj = ResourceManager.GetObject("Hungary", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Iceland {
+            get {
+                object obj = ResourceManager.GetObject("Iceland", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] India {
+            get {
+                object obj = ResourceManager.GetObject("India", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Indonesia {
+            get {
+                object obj = ResourceManager.GetObject("Indonesia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Iran {
+            get {
+                object obj = ResourceManager.GetObject("Iran", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Iraq {
+            get {
+                object obj = ResourceManager.GetObject("Iraq", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Ireland {
+            get {
+                object obj = ResourceManager.GetObject("Ireland", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Isle_of_Man {
+            get {
+                object obj = ResourceManager.GetObject("Isle_of_Man", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Israel {
+            get {
+                object obj = ResourceManager.GetObject("Israel", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Italy {
+            get {
+                object obj = ResourceManager.GetObject("Italy", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Jamaica {
+            get {
+                object obj = ResourceManager.GetObject("Jamaica", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Japan {
+            get {
+                object obj = ResourceManager.GetObject("Japan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Jersey {
+            get {
+                object obj = ResourceManager.GetObject("Jersey", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Jordan {
+            get {
+                object obj = ResourceManager.GetObject("Jordan", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -6733,9 +7893,149 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Kazakhstan {
+            get {
+                object obj = ResourceManager.GetObject("Kazakhstan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Kenya {
+            get {
+                object obj = ResourceManager.GetObject("Kenya", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Kiribati {
+            get {
+                object obj = ResourceManager.GetObject("Kiribati", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Kosovo {
+            get {
+                object obj = ResourceManager.GetObject("Kosovo", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Kuwait {
+            get {
+                object obj = ResourceManager.GetObject("Kuwait", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Kyrgyzstan {
+            get {
+                object obj = ResourceManager.GetObject("Kyrgyzstan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Laos {
+            get {
+                object obj = ResourceManager.GetObject("Laos", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Latvia {
+            get {
+                object obj = ResourceManager.GetObject("Latvia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Lebanon {
+            get {
+                object obj = ResourceManager.GetObject("Lebanon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] left_button_square {
             get {
                 object obj = ResourceManager.GetObject("left_button_square", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Lesotho {
+            get {
+                object obj = ResourceManager.GetObject("Lesotho", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Liberia {
+            get {
+                object obj = ResourceManager.GetObject("Liberia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Libya {
+            get {
+                object obj = ResourceManager.GetObject("Libya", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Liechtenstein {
+            get {
+                object obj = ResourceManager.GetObject("Liechtenstein", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Lithuania {
+            get {
+                object obj = ResourceManager.GetObject("Lithuania", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -6753,9 +8053,159 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Luxembourg {
+            get {
+                object obj = ResourceManager.GetObject("Luxembourg", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Macau {
+            get {
+                object obj = ResourceManager.GetObject("Macau", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Macedonia {
+            get {
+                object obj = ResourceManager.GetObject("Macedonia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Madagascar {
+            get {
+                object obj = ResourceManager.GetObject("Madagascar", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] main_cursor {
             get {
                 object obj = ResourceManager.GetObject("main_cursor", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Malawi {
+            get {
+                object obj = ResourceManager.GetObject("Malawi", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Malaysia {
+            get {
+                object obj = ResourceManager.GetObject("Malaysia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Maldives {
+            get {
+                object obj = ResourceManager.GetObject("Maldives", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Mali {
+            get {
+                object obj = ResourceManager.GetObject("Mali", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Malta {
+            get {
+                object obj = ResourceManager.GetObject("Malta", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Mars {
+            get {
+                object obj = ResourceManager.GetObject("Mars", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Marshall_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Marshall_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Martinique {
+            get {
+                object obj = ResourceManager.GetObject("Martinique", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Mauritania {
+            get {
+                object obj = ResourceManager.GetObject("Mauritania", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Mauritius {
+            get {
+                object obj = ResourceManager.GetObject("Mauritius", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Mayotte {
+            get {
+                object obj = ResourceManager.GetObject("Mayotte", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -6833,6 +8283,286 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Mexico {
+            get {
+                object obj = ResourceManager.GetObject("Mexico", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Micronesia {
+            get {
+                object obj = ResourceManager.GetObject("Micronesia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Moldova {
+            get {
+                object obj = ResourceManager.GetObject("Moldova", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Monaco {
+            get {
+                object obj = ResourceManager.GetObject("Monaco", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Mongolia {
+            get {
+                object obj = ResourceManager.GetObject("Mongolia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Montenegro {
+            get {
+                object obj = ResourceManager.GetObject("Montenegro", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Montserrat {
+            get {
+                object obj = ResourceManager.GetObject("Montserrat", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Morocco {
+            get {
+                object obj = ResourceManager.GetObject("Morocco", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Mozambique {
+            get {
+                object obj = ResourceManager.GetObject("Mozambique", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Myanmar {
+            get {
+                object obj = ResourceManager.GetObject("Myanmar", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Nagorno_Karabakh {
+            get {
+                object obj = ResourceManager.GetObject("Nagorno_Karabakh", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Namibia {
+            get {
+                object obj = ResourceManager.GetObject("Namibia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] NATO {
+            get {
+                object obj = ResourceManager.GetObject("NATO", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Nauru {
+            get {
+                object obj = ResourceManager.GetObject("Nauru", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Nepal {
+            get {
+                object obj = ResourceManager.GetObject("Nepal", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Netherlands {
+            get {
+                object obj = ResourceManager.GetObject("Netherlands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Netherlands_Antilles {
+            get {
+                object obj = ResourceManager.GetObject("Netherlands_Antilles", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] New_Caledonia {
+            get {
+                object obj = ResourceManager.GetObject("New_Caledonia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] New_Zealand {
+            get {
+                object obj = ResourceManager.GetObject("New_Zealand", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Nicaragua {
+            get {
+                object obj = ResourceManager.GetObject("Nicaragua", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Niger {
+            get {
+                object obj = ResourceManager.GetObject("Niger", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Nigeria {
+            get {
+                object obj = ResourceManager.GetObject("Nigeria", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Niue {
+            get {
+                object obj = ResourceManager.GetObject("Niue", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Norfolk_Island {
+            get {
+                object obj = ResourceManager.GetObject("Norfolk_Island", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] North_Korea {
+            get {
+                object obj = ResourceManager.GetObject("North_Korea", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Northern_Cyprus {
+            get {
+                object obj = ResourceManager.GetObject("Northern_Cyprus", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Northern_Mariana_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Northern_Mariana_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Norway {
+            get {
+                object obj = ResourceManager.GetObject("Norway", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] notif_error {
             get {
                 object obj = ResourceManager.GetObject("notif_error", resourceCulture);
@@ -6866,6 +8596,86 @@ namespace Quaver.Resources {
         public static byte[] notif_warning {
             get {
                 object obj = ResourceManager.GetObject("notif_warning", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Olympics {
+            get {
+                object obj = ResourceManager.GetObject("Olympics", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Oman {
+            get {
+                object obj = ResourceManager.GetObject("Oman", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Pakistan {
+            get {
+                object obj = ResourceManager.GetObject("Pakistan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Palau {
+            get {
+                object obj = ResourceManager.GetObject("Palau", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Palestine {
+            get {
+                object obj = ResourceManager.GetObject("Palestine", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Panama {
+            get {
+                object obj = ResourceManager.GetObject("Panama", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Papua_New_Guinea {
+            get {
+                object obj = ResourceManager.GetObject("Papua_New_Guinea", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Paraguay {
+            get {
+                object obj = ResourceManager.GetObject("Paraguay", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -6913,9 +8723,79 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Peru {
+            get {
+                object obj = ResourceManager.GetObject("Peru", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Philippines {
+            get {
+                object obj = ResourceManager.GetObject("Philippines", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Pitcairn_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Pitcairn_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] playercard_bg {
             get {
                 object obj = ResourceManager.GetObject("playercard_bg", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Poland {
+            get {
+                object obj = ResourceManager.GetObject("Poland", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Portugal {
+            get {
+                object obj = ResourceManager.GetObject("Portugal", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Puerto_Rico {
+            get {
+                object obj = ResourceManager.GetObject("Puerto_Rico", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Qatar {
+            get {
+                object obj = ResourceManager.GetObject("Qatar", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -6973,6 +8853,26 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Red_Cross {
+            get {
+                object obj = ResourceManager.GetObject("Red_Cross", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Republic_of_the_Congo {
+            get {
+                object obj = ResourceManager.GetObject("Republic_of_the_Congo", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] right_button_square {
             get {
                 object obj = ResourceManager.GetObject("right_button_square", resourceCulture);
@@ -6983,9 +8883,139 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Romania {
+            get {
+                object obj = ResourceManager.GetObject("Romania", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] rounded_square {
             get {
                 object obj = ResourceManager.GetObject("rounded_square", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Russia {
+            get {
+                object obj = ResourceManager.GetObject("Russia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Rwanda {
+            get {
+                object obj = ResourceManager.GetObject("Rwanda", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Saint_Barthelemy {
+            get {
+                object obj = ResourceManager.GetObject("Saint_Barthelemy", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Saint_Helena {
+            get {
+                object obj = ResourceManager.GetObject("Saint_Helena", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Saint_Kitts_and_Nevis {
+            get {
+                object obj = ResourceManager.GetObject("Saint_Kitts_and_Nevis", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Saint_Lucia {
+            get {
+                object obj = ResourceManager.GetObject("Saint_Lucia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Saint_Martin {
+            get {
+                object obj = ResourceManager.GetObject("Saint_Martin", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Saint_Vincent_and_the_Grenadines {
+            get {
+                object obj = ResourceManager.GetObject("Saint_Vincent_and_the_Grenadines", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Samoa {
+            get {
+                object obj = ResourceManager.GetObject("Samoa", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] San_Marino {
+            get {
+                object obj = ResourceManager.GetObject("San_Marino", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Sao_Tome_and_Principe {
+            get {
+                object obj = ResourceManager.GetObject("Sao_Tome_and_Principe", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Saudi_Arabia {
+            get {
+                object obj = ResourceManager.GetObject("Saudi_Arabia", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -7133,6 +9163,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Scotland {
+            get {
+                object obj = ResourceManager.GetObject("Scotland", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] search_bar {
             get {
                 object obj = ResourceManager.GetObject("search_bar", resourceCulture);
@@ -7183,6 +9223,26 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Senegal {
+            get {
+                object obj = ResourceManager.GetObject("Senegal", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Serbia {
+            get {
+                object obj = ResourceManager.GetObject("Serbia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] set_select_mask {
             get {
                 object obj = ResourceManager.GetObject("set_select_mask", resourceCulture);
@@ -7193,9 +9253,89 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Seychelles {
+            get {
+                object obj = ResourceManager.GetObject("Seychelles", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Sierra_Leone {
+            get {
+                object obj = ResourceManager.GetObject("Sierra_Leone", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Singapore {
+            get {
+                object obj = ResourceManager.GetObject("Singapore", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] skip_1x31 {
             get {
                 object obj = ResourceManager.GetObject("skip_1x31", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Slovakia {
+            get {
+                object obj = ResourceManager.GetObject("Slovakia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Slovenia {
+            get {
+                object obj = ResourceManager.GetObject("Slovenia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Solomon_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Solomon_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Somalia {
+            get {
+                object obj = ResourceManager.GetObject("Somalia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Somaliland {
+            get {
+                object obj = ResourceManager.GetObject("Somaliland", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -7440,9 +9580,99 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] South_Africa {
+            get {
+                object obj = ResourceManager.GetObject("South_Africa", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] South_Georgia_and_the_South_Sandwich_Islands {
+            get {
+                object obj = ResourceManager.GetObject("South_Georgia_and_the_South_Sandwich_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] South_Korea {
+            get {
+                object obj = ResourceManager.GetObject("South_Korea", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] South_Ossetia {
+            get {
+                object obj = ResourceManager.GetObject("South_Ossetia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] South_Sudan {
+            get {
+                object obj = ResourceManager.GetObject("South_Sudan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Spain {
+            get {
+                object obj = ResourceManager.GetObject("Spain", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] square_border {
             get {
                 object obj = ResourceManager.GetObject("square_border", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Sri_Lanka {
+            get {
+                object obj = ResourceManager.GetObject("Sri_Lanka", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Sudan {
+            get {
+                object obj = ResourceManager.GetObject("Sudan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Suriname {
+            get {
+                object obj = ResourceManager.GetObject("Suriname", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -7460,9 +9690,89 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Swaziland {
+            get {
+                object obj = ResourceManager.GetObject("Swaziland", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Sweden {
+            get {
+                object obj = ResourceManager.GetObject("Sweden", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Switzerland {
+            get {
+                object obj = ResourceManager.GetObject("Switzerland", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Syria {
+            get {
+                object obj = ResourceManager.GetObject("Syria", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Taiwan {
+            get {
+                object obj = ResourceManager.GetObject("Taiwan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Tajikistan {
+            get {
+                object obj = ResourceManager.GetObject("Tajikistan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Tanzania {
+            get {
+                object obj = ResourceManager.GetObject("Tanzania", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] test_spritesheet {
             get {
                 object obj = ResourceManager.GetObject("test_spritesheet", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Thailand {
+            get {
+                object obj = ResourceManager.GetObject("Thailand", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -7520,9 +9830,189 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Togo {
+            get {
+                object obj = ResourceManager.GetObject("Togo", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Tokelau {
+            get {
+                object obj = ResourceManager.GetObject("Tokelau", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Tonga {
+            get {
+                object obj = ResourceManager.GetObject("Tonga", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Trinidad_and_Tobago {
+            get {
+                object obj = ResourceManager.GetObject("Trinidad_and_Tobago", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Tunisia {
+            get {
+                object obj = ResourceManager.GetObject("Tunisia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Turkey {
+            get {
+                object obj = ResourceManager.GetObject("Turkey", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Turkmenistan {
+            get {
+                object obj = ResourceManager.GetObject("Turkmenistan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Turks_and_Caicos_Islands {
+            get {
+                object obj = ResourceManager.GetObject("Turks_and_Caicos_Islands", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Tuvalu {
+            get {
+                object obj = ResourceManager.GetObject("Tuvalu", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Uganda {
+            get {
+                object obj = ResourceManager.GetObject("Uganda", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Ukraine {
+            get {
+                object obj = ResourceManager.GetObject("Ukraine", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] United_Arab_Emirates {
+            get {
+                object obj = ResourceManager.GetObject("United_Arab_Emirates", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] United_Kingdom {
+            get {
+                object obj = ResourceManager.GetObject("United_Kingdom", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] United_Nations {
+            get {
+                object obj = ResourceManager.GetObject("United_Nations", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] United_States {
+            get {
+                object obj = ResourceManager.GetObject("United_States", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Unknown {
+            get {
+                object obj = ResourceManager.GetObject("Unknown", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] unknown_avatar {
             get {
                 object obj = ResourceManager.GetObject("unknown_avatar", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Uruguay {
+            get {
+                object obj = ResourceManager.GetObject("Uruguay", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] US_Virgin_Islands {
+            get {
+                object obj = ResourceManager.GetObject("US_Virgin_Islands", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -7560,9 +10050,119 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] Uzbekistan {
+            get {
+                object obj = ResourceManager.GetObject("Uzbekistan", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Vanuatu {
+            get {
+                object obj = ResourceManager.GetObject("Vanuatu", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Vatican_City {
+            get {
+                object obj = ResourceManager.GetObject("Vatican_City", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Venezuela {
+            get {
+                object obj = ResourceManager.GetObject("Venezuela", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Vietnam {
+            get {
+                object obj = ResourceManager.GetObject("Vietnam", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Wales {
+            get {
+                object obj = ResourceManager.GetObject("Wales", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Wallis_And_Futuna {
+            get {
+                object obj = ResourceManager.GetObject("Wallis_And_Futuna", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Western_Sahara {
+            get {
+                object obj = ResourceManager.GetObject("Western_Sahara", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Yemen {
+            get {
+                object obj = ResourceManager.GetObject("Yemen", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] you_avatar {
             get {
                 object obj = ResourceManager.GetObject("you_avatar", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Zambia {
+            get {
+                object obj = ResourceManager.GetObject("Zambia", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        public static byte[] Zimbabwe {
+            get {
+                object obj = ResourceManager.GetObject("Zimbabwe", resourceCulture);
                 return ((byte[])(obj));
             }
         }
