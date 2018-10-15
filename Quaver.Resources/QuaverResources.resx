@@ -2335,9 +2335,6 @@
   <data name="test_spritesheet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\test-spritesheet.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="title_default" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>textures\ui\titles\title-default.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="unknown_avatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\unknown-avatar.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -2367,5 +2364,14 @@
   </data>
   <data name="thumbnail_single_player" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>textures\ui\main menu\thumbnail-single-player.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="playercard_bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\playercard\playercard-bg.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="title_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\titles\title-0.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comp_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>textures\ui\competitive\comp-0.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

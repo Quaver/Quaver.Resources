@@ -2553,6 +2553,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] comp_0 {
+            get {
+                object obj = ResourceManager.GetObject("comp_0", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] connecting_background {
             get {
                 object obj = ResourceManager.GetObject("connecting_background", resourceCulture);
@@ -6903,6 +6913,16 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        public static byte[] playercard_bg {
+            get {
+                object obj = ResourceManager.GetObject("playercard_bg", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         public static byte[] quaver_logo {
             get {
                 object obj = ResourceManager.GetObject("quaver_logo", resourceCulture);
@@ -7490,9 +7510,9 @@ namespace Quaver.Resources {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        public static byte[] title_default {
+        public static byte[] title_0 {
             get {
-                object obj = ResourceManager.GetObject("title_default", resourceCulture);
+                object obj = ResourceManager.GetObject("title_0", resourceCulture);
                 return ((byte[])(obj));
             }
         }
