@@ -1,12 +1,8 @@
-# Quaver.Resources [![Quaver](https://img.shields.io/badge/Quaver-Repository-blue.svg)](https://github.com/Swan/Quaver) [![Discord](https://discordapp.com/api/guilds/354206121386573824/widget.png?style=shield)](https://discord.gg/nJa8VFr)
-
-<p align="center"> 
-  <img src="https://eggplants.org/9du6q8.jpg">
-</p>
+﻿# Quaver.Resources [![Quaver](https://img.shields.io/badge/Quaver-Repository-blue.svg)](https://github.com/Swan/Quaver) [![Discord](https://discordapp.com/api/guilds/354206121386573824/widget.png?style=shield)](https://discord.gg/nJa8VFr)
 
 > 🎨 Game assets used for Quaver client.
 
-There isn't any code here. This is just assets to be used for [Quaver's](https://github.com/Swan/Quaver) game client.
+There isn't any code here. These are just assets to be used for [Quaver's](https://github.com/Swan/Quaver) game client.
 
 # LICENSE
 
