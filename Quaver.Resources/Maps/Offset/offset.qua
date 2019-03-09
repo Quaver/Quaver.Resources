@@ -1,0 +1,145 @@
+AudioFile: Swan - Left Right.mp3
+BackgroundFile: c.jpg
+MapId: 493
+MapSetId: 264
+Mode: Keys4
+Title: Left Right
+Artist: Swan
+Source: ''
+Tags: ''
+Creator: Swan
+DifficultyName: Offset Calibrator
+Description: ''
+EditorLayers: []
+TimingPoints:
+- Bpm: 130
+SliderVelocities: []
+HitObjects:
+- StartTime: 3692
+  Lane: 1
+- StartTime: 3923
+  Lane: 4
+- StartTime: 4153
+  Lane: 1
+- StartTime: 4384
+  Lane: 4
+- StartTime: 4615
+  Lane: 1
+- StartTime: 4846
+  Lane: 4
+- StartTime: 5076
+  Lane: 1
+- StartTime: 5307
+  Lane: 4
+- StartTime: 5538
+  Lane: 1
+- StartTime: 5769
+  Lane: 4
+- StartTime: 5999
+  Lane: 1
+- StartTime: 6230
+  Lane: 4
+- StartTime: 6461
+  Lane: 1
+- StartTime: 6692
+  Lane: 4
+- StartTime: 6923
+  Lane: 1
+- StartTime: 7153
+  Lane: 4
+- StartTime: 7384
+  Lane: 1
+- StartTime: 7615
+  Lane: 4
+- StartTime: 7846
+  Lane: 1
+- StartTime: 8076
+  Lane: 4
+- StartTime: 8307
+  Lane: 1
+- StartTime: 8538
+  Lane: 4
+- StartTime: 8769
+  Lane: 1
+- StartTime: 8999
+  Lane: 4
+- StartTime: 9230
+  Lane: 1
+- StartTime: 9461
+  Lane: 4
+- StartTime: 9692
+  Lane: 1
+- StartTime: 9923
+  Lane: 4
+- StartTime: 10153
+  Lane: 1
+- StartTime: 10384
+  Lane: 4
+- StartTime: 10615
+  Lane: 1
+- StartTime: 10846
+  Lane: 4
+- StartTime: 11076
+  Lane: 1
+- StartTime: 11307
+  Lane: 4
+- StartTime: 11538
+  Lane: 1
+- StartTime: 11769
+  Lane: 4
+- StartTime: 12000
+  Lane: 1
+- StartTime: 12230
+  Lane: 4
+- StartTime: 12461
+  Lane: 1
+- StartTime: 12692
+  Lane: 4
+- StartTime: 12923
+  Lane: 1
+- StartTime: 13153
+  Lane: 4
+- StartTime: 13384
+  Lane: 1
+- StartTime: 13615
+  Lane: 4
+- StartTime: 13846
+  Lane: 1
+- StartTime: 14076
+  Lane: 4
+- StartTime: 14307
+  Lane: 1
+- StartTime: 14538
+  Lane: 4
+- StartTime: 14769
+  Lane: 1
+- StartTime: 14999
+  Lane: 4
+- StartTime: 15230
+  Lane: 1
+- StartTime: 15461
+  Lane: 4
+- StartTime: 15692
+  Lane: 1
+- StartTime: 15923
+  Lane: 4
+- StartTime: 16153
+  Lane: 1
+- StartTime: 16384
+  Lane: 4
+- StartTime: 16615
+  Lane: 1
+- StartTime: 16846
+  Lane: 4
+- StartTime: 17076
+  Lane: 1
+- StartTime: 17307
+  Lane: 4
+- StartTime: 17538
+  Lane: 1
+- StartTime: 17769
+  Lane: 4
+- StartTime: 17999
+  Lane: 1
+- StartTime: 18230
+  Lane: 4
