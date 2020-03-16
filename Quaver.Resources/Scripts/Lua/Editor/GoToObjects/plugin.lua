@@ -11,7 +11,8 @@ end
 function draw_menu()
     local timestamp = util_getValue("timestamp", "")
 
-    imgui.Begin("Go To Objects")
+    imgui.SetNextWindowSize(imgui.CreateVector2(399, 146))
+    imgui.Begin("Go To Objects", imgui_window_flags.NoResize)
 
     imgui.TextWrapped("This dialog will allow you to go to and select objects that are copied to the clipboard.")
     

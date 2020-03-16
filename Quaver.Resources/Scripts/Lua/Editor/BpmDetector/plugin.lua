@@ -11,7 +11,8 @@ end
 function draw_menu()
     local detector = util_getValue("detector", nil)
 
-    imgui.Begin("BPM Detector")
+    imgui.SetNextWindowSize(imgui.CreateVector2(398, 168))
+    imgui.Begin("BPM Detector", imgui_window_flags.NoResize)
 
     imgui.TextWrapped("This dialog will allow you to automatically detect the BPM and offset of the song.")
     
