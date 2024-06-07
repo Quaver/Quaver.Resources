@@ -9,6 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="Quaver.Resources\**\*" />
+    <EmbeddedResource Include="Quaver.Resources/**/*" />
   </ItemGroup>
 </Project>
