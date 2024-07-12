@@ -10,6 +10,14 @@
 Texture2D SpriteTexture;
 cbuffer textureDimensions : register( b0 )
 {
+    float2 SizeToUV;
+    float2 UVToSize;
+
+    float GreyscaleStrength;
+    float2 ChromaticAberrationRedOffset;
+    float2 ChromaticAberrationGreenOffset;
+    float2 ChromaticAberrationBlueOffset;
+    float2 MosaicBlockSize;
 }
 
 sampler2D SpriteTextureSampler = sampler_state
@@ -24,38 +32,39 @@ struct VertexShaderOutput
 	float2 TextureCoordinates : TEXCOORD0;
 };
 
-float2 p_rendertarget_sizetouv;
-float2 p_rendertarget_uvtosize;
-
-float p_greyscale_strength;
-float2 p_chromeabber_offset_r;
-float2 p_chromeabber_offset_g;
-float2 p_chromeabber_offset_b;
-float p_mosaic_strength;
+#define MOSAIC_SAMPLE_SIZE 8
 
 float4 GetColor(float2 coords : TEXCOORD0) : COLOR 
 {
-    if (p_mosaic_strength != 0) {
-        float blockSizeX = p_rendertarget_uvtosize.x * (1 - p_mosaic_strength);
-        float blockSizeY = p_rendertarget_uvtosize.y * (1 - p_mosaic_strength);
-        coords = float2(floor(coords.x * blockSizeX) / blockSizeX, floor(coords.y * blockSizeY) / blockSizeY);
+    float4 color = tex2D(SpriteTextureSampler, coords);
+    if (MosaicBlockSize.x != 0 && MosaicBlockSize.y != 0) {
+        float2 blockCoordToUV = MosaicBlockSize * SizeToUV;
+        float2 blockCoords = coords / blockCoordToUV;
+        coords = float2(floor(blockCoords.x + 0.5f), floor(blockCoords.y + 0.5f)) * blockCoordToUV;
+        color.xyzw = 0;
+        for (int x = 0; x < MOSAIC_SAMPLE_SIZE; x++) {
+            for (int y = 0; y < MOSAIC_SAMPLE_SIZE; y++) {
+                color += tex2D(SpriteTextureSampler, coords + float2(x, y) * MosaicBlockSize / MOSAIC_SAMPLE_SIZE * SizeToUV);
+            }
+        }
+        color /= MOSAIC_SAMPLE_SIZE * MOSAIC_SAMPLE_SIZE;
     }
-    return tex2D(SpriteTextureSampler, coords);
+    return color;
 }
 
 float4 MainPS(VertexShaderOutput input) : COLOR
 {
 	float4 color = GetColor(input.TextureCoordinates);
 	
-    color.r = GetColor(input.TextureCoordinates + p_chromeabber_offset_r * p_rendertarget_sizetouv).r;
-    color.g = GetColor(input.TextureCoordinates + p_chromeabber_offset_g * p_rendertarget_sizetouv).g;
-    color.b = GetColor(input.TextureCoordinates + p_chromeabber_offset_b * p_rendertarget_sizetouv).b;
+    color.r = GetColor(input.TextureCoordinates + ChromaticAberrationRedOffset * SizeToUV).r;
+    color.g = GetColor(input.TextureCoordinates + ChromaticAberrationGreenOffset * SizeToUV).g;
+    color.b = GetColor(input.TextureCoordinates + ChromaticAberrationBlueOffset * SizeToUV).b;
 	
     float4 greyColor;
     greyColor.rgb = (color.r + color.g + color.b) / 3.0f;
     greyColor.a = color.a;
 
-	color = lerp(color, greyColor, p_greyscale_strength);
+	color = lerp(color, greyColor, GreyscaleStrength);
 	
 	return color;
 }
